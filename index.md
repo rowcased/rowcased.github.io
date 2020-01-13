@@ -4,26 +4,23 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Pile of Grass](/sample_page)
 <img src="images/grass pile.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Calculations](/pdf/sample_presentation.pdf)
 <img src="images/IMG_6140.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Nobody Here](http://example.com/)
 <img src="images/IMG_6139.JPG?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 Codewars](http://example.com/)
+- [Project 2 Home_Tools](http://example.com/)
 
 ---
 
