@@ -1,10 +1,12 @@
 title: Sean McCahill # your name (or website title) here
 logo: "/images/IMG_6452.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>I am self-taught computer programmer.<br>
-  Second description 
-  <br>I want to get a job writing code.<br>
+  <br>
+  I am self-taught computer programmer.
+  <br>
+  <br>
+  I want to get a job writing code.
+  <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
