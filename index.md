@@ -9,11 +9,11 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/grass pile.JPG?raw=true"/>
+<img src="images/IMG_6140.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/grass pile.JPG?raw=true"/>
+<img src="images/IMG_6139.JPG?raw=true"/>
 
 ---
 
