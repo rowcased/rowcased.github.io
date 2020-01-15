@@ -1,14 +1,12 @@
-<!doctype html>
-<html>
-<head>
-  <title>Our Funky HTML Page</title>
-  <meta name="description" content="Our first page">
-  <meta name="keywords" content="html tutorial template">
-</head>
-
-<body>
-  Content goes here.
-</body>
-</html>
-
+title: Sean McCahill # your name (or website title) here
+logo: "/images/IMG_6452.JPG?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <hr>
+  I am self-taught computer programmer.
+  <hr>
+  I want to get a job writing code.
+  <hr>
+  <!-- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
+  
 theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
