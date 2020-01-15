@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Pile of Grass](/sample_page)
+[Project 1 Pile of Grass](/alternate_page)
 <img src="images/grass pile.JPG?raw=true"/>
 
 ---
