@@ -1,8 +1,8 @@
-## This can be your internal website page / project page
+## Codewars.com
 
-**Project description:** Lorem est laborum.
+**Project description:** I have done some stuff on this website.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Solved 2,000 + challenges
 
 Sed ut explicabo. 
 
@@ -12,7 +12,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Had over 100 translations into the C language approved.
 
 ```javascript
 if (isAwesome){
@@ -20,11 +20,11 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Created 3 original kata code challenges
 
 <img src="https://img.rt.com/files/2016.04/original/5712d5bec46188a73b8b4578.jpg"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Served as a moderator in answering questions and repairing issues with faulty kata.
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
