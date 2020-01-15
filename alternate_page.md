@@ -22,7 +22,7 @@ if (isAwesome){
 
 ### 3. Created 3 original kata code challenges
 
-<img src="grass pile.JPG"/>
+<img src="images/grass pile.JPG"/>
 
 ### 4. Served as a moderator in answering questions and repairing issues with faulty kata.
 
