@@ -4,7 +4,7 @@
 
 <!-- ### Main Projects -->
 
-[Codewars.com](/alternate_page)
+[Codewars.com](/alternate_page.md)
 <img src="images/codewars kata.png?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dev_toolz.png?raw=true"/>
 
 ---
-[Code Timer Program](/C_translations)
+[Code Timer Program](/C_translations.md)
 <img src="images/jazz notes.jpg?raw=true"/>
 
 ---
