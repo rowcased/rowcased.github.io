@@ -19,7 +19,7 @@
 
 <!-- ### Secondary Projects -->
 
-- [The Jazz Compendium](http://example.com/)
+- [The Jazz Compendium](/C_translations)
 - [my_web_site.com](http://example.com/)
 
 ---
