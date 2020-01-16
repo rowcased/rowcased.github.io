@@ -2,7 +2,7 @@
 
 ---
 
-### Main Projects
+<!-- ### Main Projects -->
 
 [Codewars.com](/alternate_page)
 <img src="images/codewars kata.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Secondary Projects
+<!-- ### Secondary Projects -->
 
 - [The Jazz Compendium](http://example.com/)
 - [my_web_site.com](http://example.com/)
