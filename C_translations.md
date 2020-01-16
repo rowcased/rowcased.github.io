@@ -1,3 +1,4 @@
+```python
 """
 1RM Calculator
 A String of Sorts
@@ -117,3 +118,4 @@ Word values
 Yoga Class
 You're a square!
 """
+```
