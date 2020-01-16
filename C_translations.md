@@ -23,11 +23,11 @@
 	 21 Count the number of cubes with paint on
 	 22 Counting Duplicates
 	 23 Decode the Morse code 
-	 24 Delete occurrences of an element if it occurs more than n times
+	 24 Delete occurrences of element if occurs > n times
 	 25 Difference of Volumes of Cuboids
 	 26 Discover The Original Price
 	 27 Do I get a bonus?
-	 28 Remove n exclamation marks in the sentence from left to right
+	 28 Remove n exclamation marks from left to right
 	 29 Factorial
 	 30 Find the Integral
 	 31 Find the Mine!
