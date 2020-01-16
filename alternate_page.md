@@ -1,6 +1,6 @@
 ## Codewars.com
 
-This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics and holds a high standard for quality content, thorough testing, and user accountability. The site refers to these challenes as "kata", taken from _Kendo_. At first I only solved kata in Python as I began learning to code. Eventually I decided to also study C, and soon began translating some of the Python kata I had solved into C into that langauge. After some experience with that I created several original kata which were all approved and are currently in use online. I have also learned how to quickly learn a new langauge by solving kata in JavaScript, C++, Ruby, C#, and Java. With the earned privilages of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
+This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics and holds a high standard for quality content, thorough testing, and user accountability. The site refers to these challenges as "kata", taken from _Kendo_. At first I only solved kata in Python as I began learning to code. Eventually I decided to also study C, and soon began translating some of the Python kata I had solved into C into that language. After some experience with that I created several original kata which were all approved and are currently in use online. I have also learned how to quickly learn a new language by solving kata in JavaScript, C++, Ruby, C#, and Java. With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
 
 ### 1. Solved Kata
 
@@ -12,7 +12,7 @@ Most of these kata were in Python at 1,632. JavaScript and C come next with 477 
 ### 2. Translations
 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
-As part of my study of the C language, I started publishing translations of kata I had previsouly solved in Python. These translations are peer-reviewed. A moderator who is knowledgable in that language checks the work for errors. Once all issues are fixed by the translator, the moderator then can approve the translation for use on the website. Most of the translations I wrote were approved, (some have just not been noticed, or the kata author in inactive). These 117 translations have been solved by users over 5,000 times overall. Currently, my translations amount to about 15% of the total kata on the Codewars website that have a version to solve in the C language.
+As part of my study of the C language, I started publishing translations of kata I had previously solved in Python. These translations are peer-reviewed. A moderator who is knowledgable in that language checks the work for errors. Once all issues are fixed by the translator, the moderator then can approve the translation for use on the website. Most of the translations I wrote were approved, (some have just not been noticed, or the kata author in inactive). These 117 translations have been solved by users over 5,000 times overall. Currently, my translations amount to about 15% of the total kata on the Codewars website that have a version to solve in the C language.
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
@@ -37,7 +37,7 @@ int add(int a, int b) {
 ### 3. Original Content
 
     1 is_sator_square
-    The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator quare"
+    The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
     
     2 build_square
     This is the second one.
