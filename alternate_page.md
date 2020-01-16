@@ -50,7 +50,7 @@ int add(int a, int b) {
 ### 4. Moderation
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
-Here I am going into detail about what it means to be a moderator on codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
+Here I am going into detail about what it means to be a moderator on Codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
