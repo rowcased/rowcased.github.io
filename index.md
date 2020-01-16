@@ -23,9 +23,3 @@
 - [my_web_site.com](http://example.com/)
 
 ---
-
-
-
-
----
-
