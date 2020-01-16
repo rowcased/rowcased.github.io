@@ -91,7 +91,7 @@
 	91 The Ladies of ENIAC
 	92 The Spider and the Fly (Jumping Spider)
 	93 The wheat/rice and chessboard problem
-	94 They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?
+	94 This is a sadly story #1: Are they opposite?
 	95 Thinkful - String Drills: Repeater
 	96 Thinking & Testing : Something capitalized
 	97 Thinking & Testing : Uniq or not Uniq
