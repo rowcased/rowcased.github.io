@@ -7,11 +7,8 @@
 Here I put a piece of Python code for you to look at:
 
 ```python
-from random import randint
-dice_roll = lambda : (randint(,1 6), randint(1, 6),)
-for i in range(50):
-    first, second = dice_roll()
-    print("roll = ({}, {})".format(first, second,))
+def func():
+    print("Hello, World!")
 ```
 
 ### 2. Had over 100 translations into the C language approved
@@ -20,23 +17,9 @@ Here is an equivalent piece of code in the C language:
 
 ```c
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
-int *dice_roll(void) {
-    int *numbers = (int *) malloc(2 * sizeof(int));
-    numbers[0] = rand() % 6 + 1;
-    numbers[1] = rand() % 6 + 1;
-    return numbers;
-}
-
-int main() {
-    srand(time(NULL));
-    size_t reps = 50;
-    for(size_t i=0; i<reps; i++) {
-        int *roll = dice_roll();
-    }
-    return 0;
+void func(void) {
+    printf("HELLO WORLD\n");
 }
 ```
 
