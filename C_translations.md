@@ -1,4 +1,5 @@
-	1 1RM Calculator
+    _ Kata translated into the C language _
+        1 1RM Calculator
 	2 A String of Sorts
 	3 Absent vowel
 	4 Ackermann Function 
