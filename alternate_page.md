@@ -4,7 +4,7 @@
 
 ### 1. Solved 2,000 + challenges
 
-Sed ut explicabo. 
+Here I put a piece of Python code for you to lok at:
 
 ```python
 def funtion_name(argument):
