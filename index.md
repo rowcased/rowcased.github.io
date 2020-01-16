@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Main Projects
 
 [Project 1 Codewars.com](/alternate_page)
 <img src="images/codewars kata.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Secondary Projects
 
 - [Project 1 The Jazz Compendium](http://example.com/)
 - [Project 2 my_web_site.com](http://example.com/)
