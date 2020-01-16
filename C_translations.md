@@ -27,7 +27,7 @@
 	 25 Difference of Volumes of Cuboids
 	 26 Discover The Original Price
 	 27 Do I get a bonus?
-	 28 Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
+	 28 Remove n exclamation marks in the sentence from left to right
 	 29 Factorial
 	 30 Find the Integral
 	 31 Find the Mine!
