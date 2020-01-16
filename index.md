@@ -8,7 +8,7 @@
 <img src="images/codewars kata.png?raw=true"/>
 
 ---
-[Personal Dev ToolKit](/pdf/sample_presentation.pdf)
+[Personal Dev ToolKit](/acode_snippet.md)
 <img src="images/IMG_6140.JPG?raw=true"/>
 
 ---
