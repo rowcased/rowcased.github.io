@@ -4,7 +4,7 @@
 
 ### 1. Solved 2,000 + challenges
 
-Here I put a piece of Python code for you to lok at:
+Here I put a piece of Python code for you to look at:
 
 ```python
 def funtion_name(argument):
@@ -30,7 +30,7 @@ int other_code() {
 
 ### 4. Served as a moderator in answering questions and repairing issues with faulty kata.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Here I am going into detail about what it means to be a moderator on codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
 
 <a href="https://rowcased.github.io/">(return to main page)</a>
 
