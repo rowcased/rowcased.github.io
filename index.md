@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Codewars.com](/alternate_page)
-<img src="images/grass pile.JPG?raw=true"/>
+<img src="images/codewars kata.png?raw=true"/>
 
 ---
 [Project 2 Calculations](/pdf/sample_presentation.pdf)
