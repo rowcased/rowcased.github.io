@@ -9,7 +9,7 @@
 
 ---
 [Personal Dev ToolKit](/acode_snippet.md)
-<img src="images/IMG_6140.JPG?raw=true"/>
+<img src="images/dev_toolz.png?raw=true"/>
 
 ---
 [Code Timer Program](http://example.com/)
