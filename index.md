@@ -12,7 +12,7 @@
 <img src="images/dev_toolz.png?raw=true"/>
 
 ---
-[Code Timer Program](http://example.com/)
+[Code Timer Program](/C_translations)
 <img src="images/jazz notes.jpg?raw=true"/>
 
 ---
