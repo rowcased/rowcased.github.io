@@ -1,4 +1,4 @@
-```c
+"""
 1RM Calculator
 A String of Sorts
 Absent vowel
@@ -116,4 +116,4 @@ Who likes it?
 Word values
 Yoga Class
 You're a square!
-```
+"""
