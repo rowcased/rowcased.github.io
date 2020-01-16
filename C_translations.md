@@ -115,5 +115,8 @@
 	115 Word values
 	116 Yoga Class
 	117 You're a square!
+<hr>
 <a href="https://rowcased.github.io/alternate_page">(return to codewars main page)</a>
+<br>
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
+<br>
