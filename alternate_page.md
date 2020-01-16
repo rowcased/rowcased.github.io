@@ -4,6 +4,8 @@
 
 ### 1. Solved 2,000 + challenges
 
+And since I learned from the ground up, the quality of code found on the website may vary.
+
 Here I put a piece of Python code for you to look at:
 
 ```python
