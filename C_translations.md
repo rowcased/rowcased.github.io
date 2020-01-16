@@ -1,4 +1,5 @@
-    _ Kata translated into the C language _
+    Kata translated into the C language
+    
         1 1RM Calculator
 	2 A String of Sorts
 	3 Absent vowel
