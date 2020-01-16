@@ -8,19 +8,19 @@
 <img src="images/codewars kata.png?raw=true"/>
 
 ---
-[Project 2 Calculations](/pdf/sample_presentation.pdf)
+[Project 2 Personal Dev ToolKit](/pdf/sample_presentation.pdf)
 <img src="images/IMG_6140.JPG?raw=true"/>
 
 ---
-[Project 3 Nobody Here](http://example.com/)
+[Project 3 Code Timer Program](http://example.com/)
 <img src="images/IMG_6139.JPG?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Codewars](http://example.com/)
-- [Project 2 Home_Tools](http://example.com/)
+- [Project 1 The Jazz Compendium](http://example.com/)
+- [Project 2 my_web_site.com](http://example.com/)
 
 ---
 
