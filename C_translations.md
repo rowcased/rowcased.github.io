@@ -14,7 +14,7 @@
 	 12 By 3, or not by 3? That is the question . . .
 	 13 Closest elevator
 	 14 Coding 3min: Virus in Apple
-	 15 <a href="https://www.codewars.com/kata/5286b2e162056fd0cb000c20">Collatz</a>
+	 15 Collatz
 	 16 Complete the table pattern
 	 17 Computer problem series #1: Fill the Hard Disk Drive
 	 18 Consonant value
