@@ -35,7 +35,6 @@ int main() {
     size_t reps = 50;
     for(size_t i=0; i<reps; i++) {
         int *roll = dice_roll();
-        printf("roll = {%d, %d}\n", roll[0], roll[1]);
     }
     return 0;
 }
