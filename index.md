@@ -13,7 +13,7 @@
 
 ---
 [Code Timer Program](http://example.com/)
-<img src="images/IMG_6139.JPG?raw=true"/>
+<img src="images/jazz_notes.jpg?raw=true"/>
 
 ---
 
