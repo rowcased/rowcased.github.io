@@ -14,6 +14,8 @@ Most of these kata were in Python at 1,632. JavaScript and C come next with 477 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
 As part of my study of the C language, I started publishing translations of kata I had previsouly solved in Python. These translations are peer-reviewed. A moderator who is knowledgable in that language checks the work for errors. Once all issues are fixed by the translator, the moderator then can approve the translation for usage on the website.
 
+Here is a list of the [C Translations](/C_translations) I wrote for the site.
+
 Here I put a piece of Python code for you to look at:
 ```python
 def add(a, b):
