@@ -2,11 +2,17 @@
 
 This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics and holds a high standard for quality content, thorough testing, and user accountability. The site refers to these challenes as "kata", taken from _Kendo_. At first I only solved kata in Python as I began learning to code. Eventually I decided to also study C, and soon began translating some of the Python kata I had solved into C into that langauge. After some experience with that I created several original kata which were all approved and are currently in use online. I have also learned how to quickly learn a new langauge by solving kata in JavaScript, C++, Ruby, C#, and Java. With the earned privilages of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
 
-### 1. Over 2,000 kata solved
+### 1. Solved Kata
 
-Most of these kata were in Python.
+2,834 total pieces of code.
+2,019 distinct kata
 
-### 2. Had over 100 translations into the C language approved
+Most of these kata were in Python at 1,632. JavaScript and C come next with 477 and 444 respectively. The sum of kata solved in Ruby, C++, C#, and Java is 281.
+
+### 2. Translations
+
+Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
+As part of my study of the C language, I started publishing translations of kata I had previsouly solved in Python. These translations are peer-reviewed. A moderator who is knowledgable in that language checks the work for errors. Once all issues are fixed by the translator, the moderator then can approve the translation for usage on the website.
 
 Here I put a piece of Python code for you to look at:
 ```python
@@ -26,7 +32,7 @@ int add(int a, int b) {
 }
 ```
 
-### 3. Created 3 original kata code challenges
+### 3. Original Content
 
     1 is_sator_square
     The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator quare"
@@ -39,7 +45,7 @@ int add(int a, int b) {
 
 <!-- <img src="images/grass pile.JPG"/> -->
 
-### 4. Served as a moderator
+### 4. Moderation
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
 Here I am going into detail about what it means to be a moderator on codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
