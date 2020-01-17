@@ -1,4 +1,4 @@
-    Kata translated into the C language
+    Kata translated into C for use on Codewars
     
 	  1 1RM Calculator
 	  2 A String of Sorts
