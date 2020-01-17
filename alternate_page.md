@@ -1,6 +1,22 @@
 ## Codewars.com
 
-### 0. Overview
+### Overview
+
+Codewars offers thousands of code challenges in many languages.
+
+solve
+translate
+learn
+create
+moderate
+
+I solved kata.
+I translated Python kata into C for use on the website.
+I learned how to rapidly learn a language.
+I created several original kata.
+I moderate.
+
+
 This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics while holding a high standard for quality content, thorough testing, and user accountability. The site refers to their code challenges as "kata", taken from _Kendo_.
 
 At first my involvement was only in solving kata in Python as I began learning to code.
@@ -14,6 +30,8 @@ After some experience with that I created several original kata which were all a
 With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
 
 ### 1. Solved Kata
+
+Solving code challenges is main feature of the website.
 
 2,834 total pieces of code.
 2,019 distinct kata
