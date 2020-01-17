@@ -23,7 +23,7 @@ Most of these kata were in Python at 1,632. JavaScript and C come next with 477 
 ### 2. Translations
 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
-As part of my study of the C language, I started publishing translations of kata I had previously solved in Python. These translations are peer-reviewed. A moderator who is knowledgable in that language checks the work for errors. Once all issues are fixed by the translator, the moderator then can approve the translation for use on the website. Most of the translations I wrote were approved, (some have just not been noticed, or the kata author in inactive). These 117 translations have been solved by users over 5,000 times overall. Currently, my translations amount to about 15% of the total kata on the Codewars website that have a version to solve in the C language.
+As part of my study of the C language, I started publishing translations of kata I had previously solved in Python into C for use on the website. Translations are peer-reviewed by a moderator knowledgable in the language. Once any issues are fixed by the translator, the moderator may approve the translation for use on the website. My 117 translations amount to about 18% of the total approved C kata on the site and have been collectively solved over 5,000 times worldwide.
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
