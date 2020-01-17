@@ -1,6 +1,17 @@
 ## Codewars.com
 
-This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics and holds a high standard for quality content, thorough testing, and user accountability. The site refers to these challenges as "kata", taken from _Kendo_. At first I only solved kata in Python as I began learning to code. Eventually I decided to also study C, and began translating some of the Python kata I had solved into C. After some experience with that I created several original kata which were all approved and are currently in use online. I have also learned how to quickly learn a new language by solving kata in other languages such as JavaScript, C++, Ruby, C#, and Java, and several others. With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
+### 0. Overview
+This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics while holding a high standard for quality content, thorough testing, and user accountability. The site refers to their code challenges as "kata", taken from _Kendo_.
+
+At first my involvement was only in solving kata in Python as I began learning to code.
+
+Eventually I decided to also study C, and later branched out into other languages such as JavaScript, C++, Ruby, C#, and Java. This taught me how to rapidly learn the basics of a new language.
+
+As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
+
+After some experience with that I created several original kata which were all approved and are currently in use online.
+
+With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
 
 ### 1. Solved Kata
 
