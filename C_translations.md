@@ -117,6 +117,7 @@
 	115 Word values
 	116 Yoga Class
 	117 You're a square!
+	118 Binary to Text (ASCII) Conversion
 	
 <a href="https://rowcased.github.io/alternate_page">(return to codewars main page)</a>
 <br>
