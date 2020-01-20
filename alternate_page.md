@@ -16,7 +16,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 * 2,032 distinct kata
 *   817 additional solves in alternate languages
 
-    1 Python     1,643
+    1 Python     1,643   <--  I guess this needs to be a break out list...
     2 JavaScript   478
     3 C            445
     4 Ruby         104
