@@ -2,18 +2,9 @@
 
 ### Overview
 
-Codewars is a prominant, user-driven website offering thousands of code challenges on a variety of topics in over 40 supported languages. The site borrows from _Kendo_ by using a 'kyu' rank system, refers to code challenges as 'kata', and points are considered _honor_.
+Codewars is a prominant, user-driven website offering thousands of code challenges on a variety of topics in over 40 supported languages. The site borrows from _Kendo_ using a 'kyu' rank system and referring to code challenges as 'kata'. Points earned by activity on the site are considered _honor_. There is a highly active and responsive comminuty of users.
 
-First I only solved kata, later I translated kata, then I created kata, and along the way evolved into a site moderator.
-
-
-
-Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamantal principles of computer programming.
-
-Eventually I decided to also study C, and later branched out into other languages such as JavaScript, C++, Ruby, C#, and Java. This taught me how to rapidly learn the basics of a new language.
-As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
-After some experience with that I created several original kata which were all approved and are currently in use online.
-With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
+My involvement with the site followed an interesting sequence evolutionary steps: first I only solved kata in Python, later I translated kata in C, then I added more languages, I finally created some original kata, and along the way evolved into a site moderator.
 
 ### 1. Solved Kata
 
@@ -71,4 +62,9 @@ Here I am going into detail about what it means to be a moderator on Codewars. T
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
+Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamantal principles of computer programming.
 
+Eventually I decided to also study C, and later branched out into other languages such as JavaScript, C++, Ruby, C#, and Java. This taught me how to rapidly learn the basics of a new language.
+As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
+After some experience with that I created several original kata which were all approved and are currently in use online.
+With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
