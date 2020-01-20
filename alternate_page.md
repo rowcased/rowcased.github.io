@@ -2,22 +2,14 @@
 
 ### Overview
 
-Codewars offers thousands of code challenges on a variety of topics in over 40 supported languages. The site refers to these challenges as 'kata', in the style of _Kendo_. The notion of kata is form practice, or in this case solving kata, and it was extremely helpful in the course of my code study: at first I just solved kata, later I began translating kata, then I wrote some kata, and along the way evolved into a site moderator. Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamantal principles of computer programming.
+Codewars is a prominant, user-driven website offering thousands of code challenges on a variety of topics in over 40 supported languages. The site borrows from _Kendo_ by using a 'kyu' rank system, refers to code challenges as 'kata', and points are considered _honor_.
 
-solve
-translate
-learn
-create
-moderate
+First I only solved kata, later I translated kata, then I created kata, and along the way evolved into a site moderator.
 
-I solved kata.
-I translated Python kata into C for use on the website.
-I learned how to rapidly learn a language.
-I created several original kata.
-I moderate.
 
-This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics while holding a high standard for quality content, thorough testing, and user accountability. The site refers to their code challenges as "kata", taken from _Kendo_.
-At first my involvement was only in solving kata in Python as I began learning to code.
+
+Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamantal principles of computer programming.
+
 Eventually I decided to also study C, and later branched out into other languages such as JavaScript, C++, Ruby, C#, and Java. This taught me how to rapidly learn the basics of a new language.
 As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
 After some experience with that I created several original kata which were all approved and are currently in use online.
