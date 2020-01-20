@@ -10,11 +10,11 @@ At first I only solved kata in Python just to learn to code, next I learned C an
 
 ### 1. Solved Kata
 
-Solving code challenges is main feature of the website.
+Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving.
 
-*   2,83x total
-* - 2,01x distinct kata
-*     81x solves of kata in multiple languages
+* 2,849 total correct solutions
+* 2,032 distinct kata
+*   817 additional solves in alternate languages
 
 * Python     1,643
 * JavaScript   478
@@ -23,9 +23,6 @@ Solving code challenges is main feature of the website.
 * C#            66
 * C++           63
 * Java          50
-
-
-Most of these kata were in Python at 1,632. JavaScript and C come next with 477 and 444 respectively. The sum of kata solved in Ruby, C++, C#, and Java is 281.
 
 ### 2. Translations
 
