@@ -2,7 +2,7 @@
 
 ### Overview
 
-Codewars offers thousands of code challenges in many languages.
+Codewars offers thousands of code challenges on a variety of topics in over 40 supported languages. The site refers to these challenges as 'kata', in the style of _Kendo_. The notion of kata is form practice, or in this case solving kata, and it was extremely helpful in the course of my code study: at first I just solved kata, later I began translating kata, then I wrote some kata, and along the way evolved into a site moderator. Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamantal principles of computer programming.
 
 solve
 translate
@@ -16,17 +16,11 @@ I learned how to rapidly learn a language.
 I created several original kata.
 I moderate.
 
-
 This user-managed website offers thousands of interesting and well-structured code challenges in a variety of levels and topics while holding a high standard for quality content, thorough testing, and user accountability. The site refers to their code challenges as "kata", taken from _Kendo_.
-
 At first my involvement was only in solving kata in Python as I began learning to code.
-
 Eventually I decided to also study C, and later branched out into other languages such as JavaScript, C++, Ruby, C#, and Java. This taught me how to rapidly learn the basics of a new language.
-
 As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
-
 After some experience with that I created several original kata which were all approved and are currently in use online.
-
 With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
 
 ### 1. Solved Kata
