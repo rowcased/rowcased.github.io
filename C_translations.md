@@ -28,7 +28,7 @@
 	 26 Discover The Original Price
 	 27 Do I get a bonus?
 	 28 Remove n exclamation marks from left to right
-	 29 Factorial
+	 29 Factorial For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 	 30 Find the Integral
 	 31 Find the Mine!
 	 32 Find the Nexus of the Codewars Universe
