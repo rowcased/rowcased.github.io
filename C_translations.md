@@ -14,8 +14,7 @@
 10 [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)<br>
 
 <!-- <a href="http://example.com/" target="_blank">Hello, world!</a> -->
-
-[1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130){:target="_blank"}
+<!-- [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130){:target="_blank"} -->
 
 11 Build a square
 
