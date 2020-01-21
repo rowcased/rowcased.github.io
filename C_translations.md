@@ -5,17 +5,13 @@
 1 [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130)<br>
 2 [A String of Sorts](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a)<br>
 3 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)<br>
-4 [Ackermann Function](https://www.codewars.com/kata/53ad69892a27079b34000bd9)
-5 [Adding Big Numbers](https://www.codewars.com/kata/55c11989e13716e35f000013)
-6 [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
-
-7 [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958)
-
-8 [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
-
-9 [Alternating between three values](https://www.codewars.com/kata/596776fbb4f24d0d82000141)
-
-10 [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
+4 [Ackermann Function](https://www.codewars.com/kata/53ad69892a27079b34000bd9)<br>
+5 [Adding Big Numbers](https://www.codewars.com/kata/55c11989e13716e35f000013)<br>
+6 [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)<br>
+7 [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958)<br>
+8 [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)<br>
+9 [Alternating between three values](https://www.codewars.com/kata/596776fbb4f24d0d82000141)<br>
+10 [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)<br>
 
 11 Build a square
 
