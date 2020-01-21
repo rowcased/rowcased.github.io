@@ -30,7 +30,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 ### 2. Translator
 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
-As part of my study of the C language, I started publishing translations of kata I had previously solved in Python into C for use on the website. Translations are peer-reviewed by a moderator knowledgable in the language. Once any issues are fixed by the translator, the moderator may approve the translation for use on the website. My 117 translations amount to about 18% of the total approved C kata on the site and have been collectively solved over 5,000 times worldwide.
+As part of my study of the C language, I started publishing translations of kata I had previously solved in Python into C for use on the website. Translations are peer-reviewed by a moderator knowledgable in the language. Once any issues are fixed by the translator, the moderator may approve the translation for use on the website. My 118 translations amount to about 18% of the total approved C kata on the site and have been collectively solved over 5,000 times worldwide.
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
