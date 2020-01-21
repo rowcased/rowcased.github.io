@@ -40,18 +40,27 @@ Here is a list of my approved [C Translations](/C_translations) currently active
 
 Here I put a piece of Python code for you to look at:
 ```python
-def add(a, b):
-    c = a + b
+def str_sum(a, b):
+    c = str(a + b)
     print("{} + {} = {}".format(a, b, c))
     return c
 ```
 An here is an equivalent piece of code in the C language:
 ```c
+
+#include <stdlib.h>
+#include <sring.h>
 #include <stdio.h>
 
-int add(int a, int b) {
-    int c = a + b;
-    printf("%d + %d = %d\n", a, b, c);
+#define ull unsigned long long
+
+char *str_sum(ull a, ull b) {
+    char c_str[22];
+    sprintf(c_str, "%llu", a + b);
+    size_t req_mem = strlen(str_sum);
+    char *c = (char *) malloc((req_mem + 1) * sizeof(char));
+    strcpy(c, c_str);
+    printf("%llu + %llu = %s\n", a, b, c);
     return c;
 }
 ```
