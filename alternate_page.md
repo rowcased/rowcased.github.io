@@ -8,7 +8,7 @@ Codewars is a prominent, user-driven website with a highly interactive community
 
 At first I only solved kata in Python to learn how to code, next I studied C and translated kata into that language, then I studied some additional languages, and then eventually I created several original kata. As I earned more honor, I evolved from user to contributor to moderator; in providing maintainance to kata, ranking beta submissions, and guiding new users.
 
-### 1. Solved Kata
+### 1. Coder
 
 Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving.
 
@@ -24,7 +24,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
     6 C++           63
     7 Java          50
 
-### 2. Translations
+### 2. Translator
 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
 As part of my study of the C language, I started publishing translations of kata I had previously solved in Python into C for use on the website. Translations are peer-reviewed by a moderator knowledgable in the language. Once any issues are fixed by the translator, the moderator may approve the translation for use on the website. My 117 translations amount to about 18% of the total approved C kata on the site and have been collectively solved over 5,000 times worldwide.
@@ -49,7 +49,7 @@ int add(int a, int b) {
 }
 ```
 
-### 3. Original Content
+### 3. Creator
 
     1 is_sator_square
     The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
@@ -62,7 +62,7 @@ int add(int a, int b) {
 
 <!-- <img src="images/grass pile.JPG"/> -->
 
-### 4. Moderation
+### 4. Moderator
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
 Here I am going into detail about what it means to be a moderator on Codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
