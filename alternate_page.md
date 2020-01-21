@@ -30,7 +30,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 <hr>
 ### 2. Translator
 
-One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the website. I really enjoyed this process and just kept translating. I like that coders worldwide use my tests suites to improve their skills.
+One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the website. I really enjoyed this process and just kept translating. I like that there are coders webwide using my tests suites to improve their skills.
 
 * 119 ~ number of approved translations active on Codewars
 * 18% ~ percentage these make of all approved C kata on site
