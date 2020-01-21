@@ -2,11 +2,11 @@
 
 #### The Site
 
-Codewars is a prominent, user-driven website with a highly interactive community, offering thousands of coding challenges on a variety of topics in over 40 supported languages. The site borrows from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered _honor_. As increasing levels of honor are acheived, additional site privileges are granted to the user.
+Codewars is a prominent, user-driven website with a highly interactive community, offering thousands of coding challenges on a variety of topics in over 40 supported languages. The site borrows from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered _honor_. As increasing levels of honor are achieved, additional site privileges are granted to the user.
 
 #### My involvement
 
-At first I only solved kata in Python to learn how to code, next I studied C and translated kata into that language, then I studied some additional languages, and then eventually I created several original kata. As I earned more honor, I evolved from user to contributor to moderator; in providing maintainance to kata, ranking beta submissions, and guiding new users.
+At first I only solved kata in Python to learn how to code, next I studied C and translated kata into that language, then I studied some additional languages, and then eventually I created several original kata. As I earned more honor, I evolved from user to contributor to moderator; in providing maintenance to kata, ranking beta submissions, and guiding new users.
 
 ### 1. Coder
 
@@ -71,7 +71,7 @@ Here I am going into detail about what it means to be a moderator on Codewars. T
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
-Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamantal principles of computer programming.
+Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamental principles of computer programming.
 
 Eventually I decided to also study C, and later branched out into other languages such as JavaScript, C++, Ruby, C#, and Java. This taught me how to rapidly learn the basics of a new language.
 As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
