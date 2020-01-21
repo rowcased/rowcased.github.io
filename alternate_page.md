@@ -10,20 +10,20 @@ At first I only solved kata in Python to learn how to code, next I studied C and
 
 ### 1. Coder
 
-Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving.
+Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study.
 
-#### 2,849 total correct solutions
-* 2,032 distinct kata
-*   817 additional solves in alternate languages
-
+* 2,967 total correct solutions
+* 2,033 is the base number of solved kata that are distinct
+*   943 represents resolving the above in multiple languages
 ```
 * Python     1,643
-* JavaScript   478
+* JavaScript   479
 * C            445
 * Ruby         104
 * C#            66
 * C++           63
-* Java          50
+* Java          52
+* 27 others    115
 ```
 ### 2. Translator
 
