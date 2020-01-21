@@ -11,7 +11,7 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 <hr>
 ### 1. Coder
 
-Solving code challenges is the main feature of the website. I solved a lot of them. I learned a lot while solving. Blah, blah, blah. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study. Happy days.
+Solving code challenges is the main feature of the website. I solved a lot of them. I learned a lot while solving. Blah. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study. Happy days.
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 137 leaderboard position 
