@@ -32,9 +32,9 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the website. I really enjoyed this and just kept translating. I like that coders worldwide use my tests to improve their skills.
 
-* 119 ~ number of translations from Python to C
-* 18% ~ percentage of the total approved C kata on the site
-* 5,000 ~ have been collectively solved worldwide
+* 119 ~ number of approved translations currently active on Codewars
+* 18% ~ percentage these make up of all approved C kata on the site
+* 5,000 ~ number of times they've been solved collectively worldwide
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
