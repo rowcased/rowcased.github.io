@@ -150,6 +150,6 @@
 	117 You're a square!
 	118 Binary to Text (ASCII) Conversion
 	
-<a href="https://rowcased.github.io/alternate_page">(return to codewars main page)</a>
+<a href="https://rowcased.github.io/alternate_page">(return to codewars page)</a>
 <br>
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
