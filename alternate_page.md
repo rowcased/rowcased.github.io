@@ -13,8 +13,8 @@ At first I only solved kata in Python to just learn how to code. Later I took on
 Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study.
 
 * 2,967 total correct solutions
-    * 2,033 is the base number of solved kata that are distinct
-    *   943 represents resolving the above in multiple languages
+    * 2,033 is the base number of distinct solved kata
+    *   943 represents resolving in multiple languages
 ```
 * Python     1,643
 * JavaScript   479
