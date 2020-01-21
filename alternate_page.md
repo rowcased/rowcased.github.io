@@ -6,7 +6,7 @@ Codewars is a prominent, user-driven website with a highly interactive community
 
 #### My involvement
 
-At first I only solved kata in Python to just learn how to code. Later I took on C and started translating kata into that language, then I added on additional languages, and eventually I created several original kata. While I was earning additional honor and advancing through the ranks, I unexpectedly evolved from user to contributor into an ad hoc site moderator.
+At first I only solved kata in Python to just learn how to code, next I began C and translated kata into that language, then I added on additional languages, and eventually I created several original kata. While I was earning additional honor and advancing through the ranks, I unexpectedly evolved from user to contributor into an ad hoc site moderator.
 
 ### 1. Coder
 
