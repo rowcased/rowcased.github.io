@@ -49,14 +49,18 @@ And here is an equivalent piece of code in the C language:
 ```c
 #include <stdlib.h>
 #include <string.h>
+#include <limits.h>
 #include <stdio.h>
 
 #define ull unsigned long long
 
-char *str_mult(ull a, ull b) {
-    ull mult = a * b;
+char *str_sum(ull a, ull b) {
+    if(ULONG_MAX - a < b) {
+        printf("Overflow Error\n");
+        return NULL;
+    }
     char c_str[21];
-    sprintf(c_str, "%llu", mult);
+    sprintf(c_str, "%llu", a + b);
     size_t m = strlen(c_str);
     char *c = (char *) malloc((m + 1) * sizeof(char));
     strcpy(c, c_str);
