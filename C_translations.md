@@ -135,16 +135,17 @@
 	108 Validate Credit Card Number
 	109 Vowel-consonant lexicon
 	
-	110 [Vowels Back](https://www.codewars.com/kata/57cfd92c05c1864df2001563)<br>
-	111 [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7)<br>
-	112 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)<br>
-	113 [White or Black?](https://www.codewars.com/kata/563319974612f4fa3f0000e0)<br>
-	114 [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)<br>
-	115 [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)<br>
-	116 [Yoga Class](https://www.codewars.com/kata/5c79c07b4ba1e100097f4e1a)<br>
-	117 [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)<br>
-	118 [Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/5583d268479559400d000064)<br>
-	119 [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)<br>
+110 [Vowels Back](https://www.codewars.com/kata/57cfd92c05c1864df2001563)<br>
+111 [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7)<br>
+112 [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)<br>
+113 [White or Black?](https://www.codewars.com/kata/563319974612f4fa3f0000e0)<br>
+114 [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)<br>
+115 [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)<br>
+116 [Yoga Class](https://www.codewars.com/kata/5c79c07b4ba1e100097f4e1a)<br>
+117 [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)<br>
+118 [Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/5583d268479559400d000064)<br>
+119 [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)<br>
+
 <hr>
 <a href="https://rowcased.github.io/alternate_page">(return to codewars page)</a>
 <hr>
