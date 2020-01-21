@@ -12,7 +12,7 @@ At first I only solved kata in Python to learn how to code, next I studied C and
 
 Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving.
 
-* 2,849 total correct solutions
+#### 2,849 total correct solutions
 * 2,032 distinct kata
 *   817 additional solves in alternate languages
 
