@@ -64,11 +64,11 @@ char *str_sum(ull a, ull b) {
         printf("Overflow Error\n");
         return NULL;
     }
-    char c_str[21];
-    sprintf(c_str, "%llu", a + b);
-    size_t m = strlen(c_str);
+    char local[21];
+    sprintf(local, "%llu", a + b);
+    size_t m = strlen(local);
     char *c = (char *) malloc((m + 1) * sizeof(char));
-    strcpy(c, c_str);
+    strcpy(c, local);
     printf("%llu + %llu = %s\n", a, b, c);
     return c;
 }
