@@ -34,7 +34,7 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 
 * 119 ~ number of approved translations active on Codewars
 * 18% ~ percentage these make of all approved C kata on site
-* 5,000 ~ number of correct solves collectively worldwide
+* 5,000 ~ number of correct solves made collectively worldwide
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
