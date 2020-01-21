@@ -16,14 +16,14 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
     * 2,033 is the base number of distinct solved kata
     *   943 represents resolving in multiple languages
 ```
-* Python     1,643
-* JavaScript   479
-* C            445
-* Ruby         104
-* C#            66
-* C++           63
-* Java          52
-* 27 others    115
+1 Python     1,643
+2 JavaScript   479
+3 C            445
+4 Ruby         104
+5 C#            66
+6 C++           63
+7 Java          52
+& 27 others    115
 ```
 
 ### 2. Translator
