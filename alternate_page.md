@@ -55,7 +55,6 @@ def str_sum(a, b):
 #include <stdio.h>
 
 #define ull unsigned long long
-
 char *str_sum(ull a, ull b) {
     if(ULONG_MAX - a < b) {
         printf("Overflow Error\n");
