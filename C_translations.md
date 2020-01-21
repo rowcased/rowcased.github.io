@@ -13,6 +13,8 @@
 9 [Alternating between three values](https://www.codewars.com/kata/596776fbb4f24d0d82000141)<br>
 10 [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)<br>
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 11 Build a square
 
 12 By 3, or not by 3? That is the question . . .
