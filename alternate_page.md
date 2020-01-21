@@ -36,7 +36,7 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 * 18% ~ percentage these make of all approved C kata on site
 * 5,000 ~ number of correct solves made collectively worldwide
 
-Here is a list of my approved [C Translations](/C_translations) currently active on the website.
+Here is a list of the [C Translations](/C_translations) now available on the website.
 
 Here I put a piece of Python code for you to look at:
 ```python
