@@ -1,4 +1,11 @@
 Kata translated into C for use on Codewars
+
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
 1 1RM Calculato
 2 A String of Sorts
 	  3 Absent vowel
