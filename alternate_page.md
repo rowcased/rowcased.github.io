@@ -29,10 +29,8 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 
 ### 2. Translator
 
-#### The Short Story<br>
 One day I tried translating a kata from Python to C. A moderator reviewed it, I made revisions, and it was approved for use on the website. I enjoyed this and just kept translating. I like that coders worldwide use my tests to improve their skills.
 
-#### The Stats<br>
 * 119 ~ number of translations from Python to C
 * 18% ~ percentage of the total approved C kata on the site
 * 5,000 ~ have been collectively solved worldwide
