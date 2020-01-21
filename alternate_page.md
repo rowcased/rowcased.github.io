@@ -2,7 +2,7 @@
 
 #### The Site
 
-Codewars is a prominent, user-driven coding website with a highly interactive community, offering thousands of challenges on a variety of topics in over 40 supported languages. The site borrows terminology from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered _honor_. As increasing levels of honor are acheived, additional site privileges are granted to the user.
+Codewars is a prominent, user-driven coding website with a highly interactive community, offering thousands of challenges on a variety of topics in over 40 supported languages. The site borrows from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered _honor_. As increasing levels of honor are acheived, additional site privileges are granted to the user.
 
 #### My involvement
 
