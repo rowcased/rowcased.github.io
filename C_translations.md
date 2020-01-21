@@ -1,3 +1,5 @@
+<!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
+
 #### Kata translated into C for use on Codewars
 
 <!-- eventually these could be ranked by solves and live updated -->
@@ -52,7 +54,7 @@
 
 28 Remove n exclamation marks from left to right
 
-29 Factorial For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+29 Factorial
 
 30 Find the Integral
 	 31 Find the Mine!
