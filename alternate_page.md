@@ -15,6 +15,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 * 2,967 total correct solutions
     * 2,033 is the base number of distinct solved kata
     *   943 represents resolving in multiple languages
+
 ```
 1 Python     1,643
 2 JavaScript   479
