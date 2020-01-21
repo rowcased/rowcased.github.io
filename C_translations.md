@@ -1,4 +1,4 @@
-## Kata translated into C for use on Codewars
+#### Kata translated into C for use on Codewars
 
 <!-- eventually these could be ranked by solves and live updated -->
 
