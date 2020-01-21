@@ -28,9 +28,16 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 ```
 
 ### 2. Translator
+publishing
+into C for use on the website.
 
-Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
-As part of my study of the C language, I started publishing translations of kata I had previously solved in Python into C for use on the website. Translations are peer-reviewed by a moderator knowledgable in the language. Once any issues are fixed by the translator, the moderator may approve the translation for use on the website. My 118 translations amount to about 18% of the total approved C kata on the site and have been collectively solved over 5,000 times worldwide.
+#### The Story
+Shortly after beginning my study of C, I decided to try writing a translation into that language of a simple kata I had previously solved in Python. I made some mistakes, but there were moderators knowlegable in the language to scrutinize my work. I appreciated that they would usually only tell me _what_ the problem was so up to me to figure out how to fix it. All new kata and translation submissions are thus peer-reviewed by moderators, and only when all issues are fixed by the translator will the moderator approve the translation for use on the website. Once it's active on the site, if any issue arises, it's up to the translator to fix the problem to resolve the issue. Once I started writing translations, I just kept going.
+
+#### The Stats
+* 119 ~ number of translations from Python to C
+* 18% ~ percentage of the total approved C kata on the site
+* 5,000 ~ have been collectively solved worldwide
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
@@ -67,10 +74,24 @@ int add(int a, int b) {
 
 ### 4. Moderator
 
+One of the greatest features of Codewars is the community of members that develop and maintain the site. Most of the day to day activity is managed by a large set of highly active and very talented programmers
+
+oh, and you can get banned or punished
+fix kata
+answer questions
+raise issues on kata
+resolve issues, mostly wrongs, but somwtimes I fix a problem
+
+### site maintainance
+could add a test, change a parameter, alter syntax or name-casing according to language, 
+### issues
+
+### 
+
 moderator; in providing maintenance to kata, ranking beta submissions, and guiding new users.
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
-Here I am going into detail about what it means to be a moderator on Codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
+ There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
