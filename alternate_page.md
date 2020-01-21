@@ -11,7 +11,7 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 <hr>
 ### 1. Coder
 
-Solving kata is the main feature of the website. I never imagined I would solve so many. In conjunction with online tutorials, youtube videos, stack overflow, coding blogs, and language documentation, this site is where I really learned to code. I benefitted greatly from being able to read other people's solutions and make comparisons. I read comments about the quality of code and found many new directions in which to improve. Solving the same code in multiple languages was invaluable.
+In conjunction with tutorials, videos, blogs, and language docs, this site is where I really learned to code. I thrived on reading and studying other people's solutions. I followed up on comments about optimization, readability, maintainability, and best practices. Solving the same code in multiple languages was invaluable. I never thought I would have solved so many.
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 137 leaderboard position 
