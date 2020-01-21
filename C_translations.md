@@ -1,7 +1,9 @@
 Kata translated into C for use on Codewars
 
 see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
