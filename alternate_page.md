@@ -29,11 +29,8 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 
 ### 2. Translator
 
-#### The Long Story<br>
-Shortly after beginning my study of C, I decided to try writing a translation into that language of a simple kata I had previously solved in Python. I made some mistakes, but there were moderators knowlegable in the language to scrutinize my work. I appreciated that they would usually only tell me _what_ the problem was so up to me to figure out how to fix it. Much to my delight the translation was approved and I just kept making more. All new kata and translation submissions are thus peer-reviewed by moderators, and only when all issues are fixed by the translator will the moderator approve the translation for use on the website. Once it's active on the site, if any issue arises, it's up to the translator to fix the problem to resolve the issue. I like the idea that coders all around the world are honing their skills on the random tests suites I constructed for use on the wensite. Learned how interact.
-
 #### The Short Story<br>
-One day while studying C, I thought I'd try translating a kata. A moderator reviewed it, and after I made some revisions it was approved for use on the website. I enjoyed the experience and just kept on making translations. I like the idea that coders all around the world are honing their skills on the random tests suites I constructed for use on the wensite.
+One day I tried translating a kata from Python to C. A moderator reviewed it, I made revisions, and it was approved for use on the website. I enjoyed this and just kept translating. I like that coders worldwide use my tests to improve their skills.
 
 #### The Stats<br>
 * 119 ~ number of translations from Python to C
@@ -104,3 +101,10 @@ Eventually I decided to also study C, and later branched out into other language
 As part of my study of the C language, I began translating kata I had previously solved in Python into C for use on the site. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
 After some experience with that I created several original kata which were all approved and are currently in use online.
 With the earned privileges of rank, I now may also serve the site as a moderator; creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
+
+
+#### The Long Story<br>
+Shortly after beginning my study of C, I decided to try writing a translation into that language of a simple kata I had previously solved in Python. I made some mistakes, but there were moderators knowlegable in the language to scrutinize my work. I appreciated that they would usually only tell me _what_ the problem was so up to me to figure out how to fix it. Much to my delight the translation was approved and I just kept making more. All new kata and translation submissions are thus peer-reviewed by moderators, and only when all issues are fixed by the translator will the moderator approve the translation for use on the website. Once it's active on the site, if any issue arises, it's up to the translator to fix the problem to resolve the issue. I like the idea that coders all around the world are honing their skills on the random tests suites I constructed for use on the wensite. Learned how interact.
+
+
+
