@@ -10,7 +10,7 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 
 ### 1. Coder
 
-Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study.
+Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study. I'm in the top 100 users for solved kata, my honor percentile is in thd top 0.074%, and my leaderboard position is #137.
 
 * 2,967 total correct solutions
     * 2,033 is the base number of distinct solved kata
