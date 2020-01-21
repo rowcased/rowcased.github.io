@@ -38,14 +38,14 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 
 Here is a list of my approved [C Translations](/C_translations) currently active on the website.
 
-Here I put a piece of Python code for you to look at:
+##### Here I put a piece of Python code for you to look at:
 ```python
 def str_sum(a, b):
     c = str(a + b)
     print("{} + {} = {}".format(a, b, c))
     return c
 ```
-An here is an equivalent piece of code in the C language:
+##### And here is an equivalent piece of code in the C language:
 ```c
 #include <stdlib.h>
 #include <sring.h>
