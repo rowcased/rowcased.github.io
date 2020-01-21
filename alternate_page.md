@@ -28,11 +28,9 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 ```
 
 ### 2. Translator
-publishing
-into C for use on the website.
 
 #### The Story<br>
-Shortly after beginning my study of C, I decided to try writing a translation into that language of a simple kata I had previously solved in Python. I made some mistakes, but there were moderators knowlegable in the language to scrutinize my work. I appreciated that they would usually only tell me _what_ the problem was so up to me to figure out how to fix it. All new kata and translation submissions are thus peer-reviewed by moderators, and only when all issues are fixed by the translator will the moderator approve the translation for use on the website. Once it's active on the site, if any issue arises, it's up to the translator to fix the problem to resolve the issue. Once I started writing translations, I just kept going.
+Shortly after beginning my study of C, I decided to try writing a translation into that language of a simple kata I had previously solved in Python. I made some mistakes, but there were moderators knowlegable in the language to scrutinize my work. I appreciated that they would usually only tell me _what_ the problem was so up to me to figure out how to fix it. Much to my delight the translation was approved and I just kept making more. All new kata and translation submissions are thus peer-reviewed by moderators, and only when all issues are fixed by the translator will the moderator approve the translation for use on the website. Once it's active on the site, if any issue arises, it's up to the translator to fix the problem to resolve the issue. I like the idea that coders all around the world are honing their skills on the random tests suites I constructed for use on the wensite.
 
 #### The Stats<br>
 * 119 ~ number of translations from Python to C
