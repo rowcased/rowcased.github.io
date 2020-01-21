@@ -143,6 +143,7 @@
 	116 Yoga Class
 	117 You're a square!
 	118 Binary to Text (ASCII) Conversion
+	119 Pokemon Damage Calculator
 <hr>
 <a href="https://rowcased.github.io/alternate_page">(return to codewars page)</a>
 <hr>
