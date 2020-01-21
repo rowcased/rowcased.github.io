@@ -151,5 +151,5 @@
 	118 Binary to Text (ASCII) Conversion
 	
 <a href="https://rowcased.github.io/alternate_page">(return to codewars page)</a>
-<br>
+<hr>
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
