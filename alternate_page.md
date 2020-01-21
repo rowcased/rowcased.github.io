@@ -1,13 +1,14 @@
 ## Codewars.com
+<hr>
 
 #### The Site
 
 Codewars is a prominent, user-driven website with a highly interactive community, offering thousands of coding challenges on a variety of topics in over 40 supported languages. The site borrows from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered _honor_. As increasing levels of honor are achieved, additional site privileges are granted to the user.
-
+<hr>
 #### My involvement
 
 At first I just solved a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started translating kata into that language. For a while I solved kata in a multitude of  new languages. I also finally created several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site moderator.
-
+<hr>
 ### 1. Coder
 
 Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study. I'm in the top 100 users for solved kata, my honor percentile is in thd top 0.074%, and my leaderboard position is #137. Rank is 2kyu.
@@ -26,7 +27,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 7 Java          52
 & 27 others    115
 ```
-
+<hr>
 ### 2. Translator
 
 One day I tried translating a kata from Python to C. A moderator reviewed it, I made revisions, and it was approved for use on the website. I enjoyed this and just kept translating. I like that coders worldwide use my tests to improve their skills.
@@ -54,7 +55,7 @@ int add(int a, int b) {
     return c;
 }
 ```
-
+<hr>
 ### 3. Creator
 
     1 is_sator_square
@@ -64,10 +65,8 @@ int add(int a, int b) {
     This is the second one.
     
     3 mutations
-    And the third.
-
-<!-- <img src="images/grass pile.JPG"/> -->
-
+    And the third. <!-- <img src="images/grass pile.JPG"/> -->
+<hr>
 ### 4. Moderator
 
 One of the greatest features of Codewars is the community of members that develop and maintain the site. Most of the day to day activity is managed by a large set of highly active and very talented programmers
@@ -88,7 +87,7 @@ moderator; in providing maintenance to kata, ranking beta submissions, and guidi
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
  There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
-
+<hr>
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
