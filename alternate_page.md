@@ -75,17 +75,26 @@ char *str_sum(ull a, ull b) {
 ```
 <hr>
 ### 3. Creator
-
-    1 is_sator_square
+1
+2
+3
+4
+5
+* is_sator_square
     The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
     
-    2 build_square
+* build_square
     This is the second one.
     
-    3 mutations
+* mutations
     And the third. <!-- <img src="images/grass pile.JPG"/> -->
 <hr>
 ### 4. Moderator
+1
+2
+3
+4
+5
 
 One of the greatest features of Codewars is the community of members that develop and maintain the site. Most of the day to day activity is managed by a large set of highly active and very talented programmers
 
