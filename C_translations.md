@@ -1,5 +1,7 @@
 Kata translated into C for use on Codewars
 
+<!-- eventually these could be ranked by solves and live updated -->
+
 1 [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130)
 
 2 [A String of Sorts](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a)
