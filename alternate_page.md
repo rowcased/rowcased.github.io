@@ -38,15 +38,17 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 
 Here is a list of my [C Translations](/C_translations) currently available for use online.
 
-Here I put a piece of Python code for you to look at:
 ```python
+# Here I put a piece of Python code for you to look at:
+
 def str_sum(a, b):
     c = str(a + b)
     print("{} + {} = {}".format(a, b, c))
     return c
 ```
-And here is an equivalent piece of code in the C language:
 ```c
+// And here is an equivalent piece of code in the C language:
+
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
