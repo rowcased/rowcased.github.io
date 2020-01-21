@@ -16,6 +16,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 * 2,032 distinct kata
 *   817 additional solves in alternate languages
 
+```
 * Python     1,643
 * JavaScript   478
 * C            445
@@ -23,7 +24,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 * C#            66
 * C++           63
 * Java          50
-
+```
 ### 2. Translator
 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
