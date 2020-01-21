@@ -39,7 +39,7 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 Here is a list of my [C Translations](/C_translations) currently available for use online.
 
 ```python
-# Here I put a piece of Python code for you to look at:
+# Here is a piece of Python code for you to look at:
 
 def str_sum(a, b):
     c = str(a + b)
@@ -47,7 +47,7 @@ def str_sum(a, b):
     return c
 ```
 ```c
-// And here is an equivalent piece of code in the C language:
+// And here is the equivalent code in the C language:
 
 #include <stdlib.h>
 #include <string.h>
