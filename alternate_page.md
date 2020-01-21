@@ -13,10 +13,10 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 
 Solving code challenges is main feature of the website. I solved a lot of them. I learned a lot while solving. Blah, blah, blah. You will see the good and the bad. Most of it was serious, some of it was play, some of it was art, but all of it was study. Happy days.
 <br>
+* 2kyu ~ rank (began as 8kyu)
+* 137 ~ leaderboard position
 * honor ~ 14,933 points 
 * 0.074% ~ honor percentile
-* 137 ~ leaderboard position
-* 2kyu ~ rank (began as 8kyu)
 * 2,968 total correct solutions
     * 2,033 is the base number of distinct solved kata
     *   935 represents resolving in multiple languages
