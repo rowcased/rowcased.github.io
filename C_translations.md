@@ -10,15 +10,15 @@ Kata translated into C for use on Codewars
 
 5 [Adding Big Numbers](https://www.codewars.com/kata/55c11989e13716e35f000013)
 
-6 Alan Partridge II - Apple Turnover
+6 [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)
 
-7 Alphabetical Addition
+7 [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958)
 
-8 Alternate capitalization
+8 [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)
 
-9 Alternating between three values
+9 [Alternating between three values](https://www.codewars.com/kata/596776fbb4f24d0d82000141)
 
-10 Blackjack Scorer
+10 [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)
 
 11 Build a square
 
