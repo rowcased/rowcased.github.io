@@ -6,33 +6,59 @@ Kata translated into C for use on Codewars
 
 3 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c).
 
-4 Ackermann Function 
+4 Ackermann Function
+
 5 Adding Big Numbers
+
 6 Alan Partridge II - Apple Turnover
+
 7 Alphabetical Addition
+
 8 Alternate capitalization
+
 9 Alternating between three values
-	 10 Blackjack Scorer
-	 11 Build a square
-	 12 By 3, or not by 3? That is the question . . .
-	 13 Closest elevator
-	 14 Coding 3min: Virus in Apple
-	 15 Collatz
-	 16 Complete the table pattern
-	 17 Computer problem series #1: Fill the Hard Disk Drive
-	 18 Consonant value
-	 19 Convert a Number to a String!
-	 20 Count the divisible numbers
-	 21 Count the number of cubes with paint on
-	 22 Counting Duplicates
-	 23 Decode the Morse code 
-	 24 Delete occurrences of element if occurs > n times
-	 25 Difference of Volumes of Cuboids
-	 26 Discover The Original Price
-	 27 Do I get a bonus?
-	 28 Remove n exclamation marks from left to right
-	 29 Factorial For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-	 30 Find the Integral
+
+10 Blackjack Scorer
+
+11 Build a square
+
+12 By 3, or not by 3? That is the question . . .
+
+13 Closest elevator
+
+14 Coding 3min: Virus in Apple
+
+15 Collatz
+
+16 Complete the table pattern
+
+17 Computer problem series #1: Fill the Hard Disk Drive
+
+18 Consonant value
+
+19 Convert a Number to a String!
+
+20 Count the divisible numbers
+
+21 Count the number of cubes with paint on
+
+22 Counting Duplicates
+
+23 Decode the Morse code 
+
+24 Delete occurrences of element if occurs > n times
+
+25 Difference of Volumes of Cuboids
+
+26 Discover The Original Price
+
+27 Do I get a bonus?
+
+28 Remove n exclamation marks from left to right
+
+29 Factorial For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+30 Find the Integral
 	 31 Find the Mine!
 	 32 Find the Nexus of the Codewars Universe
 	 33 Find the force of gravity between two objects
