@@ -40,6 +40,7 @@ Here is a list of my [C Translations](/C_translations) currently available for u
 
 ```python
 # some Python code for you to look at:
+
 def str_sum(a, b):
     c = str(a + b)
     print("{} + {} = {}".format(a, b, c))
@@ -47,6 +48,7 @@ def str_sum(a, b):
 ```
 ```c
 // equivalent code in the C language:
+
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
