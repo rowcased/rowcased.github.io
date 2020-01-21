@@ -6,7 +6,7 @@ Codewars is a prominent, user-driven website with a highly interactive community
 
 #### My involvement
 
-At first I only solved kata in Python to learn how to code, next I studied C and translated kata into that language, then I studied some additional languages, and then eventually I created several original kata. As I earned more honor, I evolved from user to contributor to moderator; in providing maintenance to kata, ranking beta submissions, and guiding new users.
+At first I only solved kata in Python to just learn how to code. Later I took on C and started translating kata into that language, then I added on additional languages, and eventually I created several original kata. While I was earning additional honor and advancing through the ranks, I unexpectedly evolved from user to contributor into an ad hoc site moderator.
 
 ### 1. Coder
 
@@ -64,6 +64,8 @@ int add(int a, int b) {
 <!-- <img src="images/grass pile.JPG"/> -->
 
 ### 4. Moderator
+
+moderator; in providing maintenance to kata, ranking beta submissions, and guiding new users.
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
 Here I am going into detail about what it means to be a moderator on Codewars. There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
