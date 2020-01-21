@@ -1,10 +1,10 @@
 Kata translated into C for use on Codewars
 
-see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1 [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130).
 
-see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2 [A String of Sorts](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a).
 
-see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+3 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c).
 
 
 
