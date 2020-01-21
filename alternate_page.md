@@ -75,11 +75,11 @@ char *str_sum(ull a, ull b) {
 ```
 <hr>
 ### 3. Creator
-1
-2
-3
-4
-5
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
 * is_sator_square
     The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
     
@@ -90,11 +90,11 @@ char *str_sum(ull a, ull b) {
     And the third. <!-- <img src="images/grass pile.JPG"/> -->
 <hr>
 ### 4. Moderator
-1
-2
-3
-4
-5
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
 
 One of the greatest features of Codewars is the community of members that develop and maintain the site. Most of the day to day activity is managed by a large set of highly active and very talented programmers
 
