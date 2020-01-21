@@ -48,15 +48,17 @@ def str_sum(a, b):
 And here is an equivalent piece of code in the C language:
 ```c
 #include <stdlib.h>
-#include <sring.h>
+#include <string.h>
 #include <stdio.h>
+
 #define ull unsigned long long
 
-char *str_sum(ull a, ull b) {
-    char c_str[22];
-    sprintf(c_str, "%llu", a + b);
-    size_t req_mem = strlen(str_sum);
-    char *c = (char*)malloc((req_mem+1) * sizeof(char));
+char *str_mult(ull a, ull b) {
+    ull mult = a * b;
+    char c_str[21];
+    sprintf(c_str, "%llu", mult);
+    size_t m = strlen(c_str);
+    char *c = (char *) malloc((m + 1) * sizeof(char));
     strcpy(c, c_str);
     printf("%llu + %llu = %s\n", a, b, c);
     return c;
