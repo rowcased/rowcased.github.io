@@ -2,11 +2,11 @@
 
 <!-- eventually these could be ranked by solves and live updated -->
 
-1 [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130)
+ 1 [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130)
 
-2 [A String of Sorts](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a)
+  2 [A String of Sorts](https://www.codewars.com/kata/536c6b8749aa8b3c2600029a)
 
-3 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
+   3 [Absent vowel](https://www.codewars.com/kata/56414fdc6488ee99db00002c)
 
 4 [Ackermann Function](https://www.codewars.com/kata/53ad69892a27079b34000bd9)
 
