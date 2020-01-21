@@ -47,11 +47,9 @@ def str_sum(a, b):
 ```
 An here is an equivalent piece of code in the C language:
 ```c
-
 #include <stdlib.h>
 #include <sring.h>
 #include <stdio.h>
-
 #define ull unsigned long long
 
 char *str_sum(ull a, ull b) {
