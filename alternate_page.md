@@ -25,6 +25,7 @@ Solving code challenges is main feature of the website. I solved a lot of them. 
 * Java          52
 * 27 others    115
 ```
+
 ### 2. Translator
 
 Codewars supports over 40 programming languages. A kata might have a version available in any number of these languages.
