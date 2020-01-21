@@ -2,11 +2,11 @@
 
 #### The Site
 
-Codewars is a prominent, user-driven website with a highly active and responsive community, offering thousands of code challenges on a variety of topics in over 40 supported languages. The site borrows terminology from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered honor. As various levels of honor are earned, additional privileges become granted to a power-user
+Codewars is a prominent, user-driven coding website with a highly interactive community, offering thousands of challenges on a variety of topics in over 40 supported languages. The site borrows terminology from Kendo; using a ‘kyu’ rank system and referring to challenges as ‘kata’. Points earned by activity on the site are considered _honor_. As increasing levels of honor are acheived, additional site privileges are granted to the user.
 
 #### My involvement
 
-At first I only solved kata in Python just to learn to code, next I learned C and translated kata into that language, then I studied additional languages, and finally I created some original kata. As my honor advanced, I gradually evolved into an ad hoc site moderator, providing maintainance to kata, ranking beta submissions, and guiding members new to the community.
+At first I only solved kata in Python just to learn coding, next I learned C and translated kata into that language, then I studied some additional languages, and finally I created several original kata. As my honor advanced, I gradually evolved into an ad hoc site moderator; providing maintainance to kata, ranking beta submissions, and guiding members new to the community.
 
 ### 1. Solved Kata
 
