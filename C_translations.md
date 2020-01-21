@@ -1,6 +1,6 @@
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
-#### Kata translated into C for use on Codewars
+#### Kata translated into C currently in use on Codewars.com
 
 <!-- eventually these could be ranked by solves and live updated -->
 
