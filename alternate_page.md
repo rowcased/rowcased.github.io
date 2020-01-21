@@ -56,7 +56,7 @@ char *str_sum(ull a, ull b) {
     char c_str[22];
     sprintf(c_str, "%llu", a + b);
     size_t req_mem = strlen(str_sum);
-    char *c = (char*)malloc((req_mem + 1) * sizeof(char));
+    char *c = (char*)malloc((req_mem+1) * sizeof(char));
     strcpy(c, c_str);
     printf("%llu + %llu = %s\n", a, b, c);
     return c;
