@@ -143,7 +143,8 @@
 	116 Yoga Class
 	117 You're a square!
 	118 Binary to Text (ASCII) Conversion
-	
+<hr>
 <a href="https://rowcased.github.io/alternate_page">(return to codewars page)</a>
 <hr>
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
+<hr>
