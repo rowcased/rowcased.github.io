@@ -11,9 +11,7 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 <hr>
 ### 1. Coder
 
-This taught me how to rapidly learn the basics of a new language. Along the way, I learned many things other than algorithms and data sets, such as maintainability, legibility, portability, optimization, documentation, unit testing, and many other fundamental principles of computer programming.
-
-In conjunction with tutorials, videos, blogs, and language documentation, this site is where I really learned how to code. I thrived on studying other people's solutions. I followed up on comments about maintainability, best practices, readability, and optimization. Solving the same code in multiple languages was invaluable. I never thought I would have solved so many.
+I started Codewars as a noob so I was baffled by most challenges at first. Many of my earliest solutions were clumsy or inefficient, but I quickly begain to learn a great deal about algorithms, optimization, and best practices from studying other coder's solutions and reading comments. Solving the same kata in multiple languages was invaluable to gaining a better insight to computer programming in general. I never thought I would have solved so many.
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 137 leaderboard position 
@@ -77,9 +75,9 @@ char *str_sum(ull a, ull b) {
 ```
 <hr>
 ### 3. Creator
-1<br>
-2<br>
-3<br>
+1User contributions.<br>
+2Peer reviewed.<br>
+3Beta stage.<br>
 4<br>
 5<br>
 * is_sator_square
