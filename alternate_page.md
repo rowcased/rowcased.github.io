@@ -38,9 +38,9 @@ In conjunction with tutorials, videos, blogs, and language documentation, this s
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the website. I really enjoyed this process and just kept translating. I like that coders around the globe are using my test suites to improve their skills. I leaned about code structure, maintainability, and writing strong unit tests.
 
-* 119 ~ number of approved translations active on Codewars
+* 119 ~ number of my translations now available on Codewars
 * 18% ~ percentage these make of all approved C kata on site
-* 5,000 ~ number of correct solves made collectively worldwide
+* 5,000 ~ number of valid solves made collectively worldwide
 
 Here is a list of my --> [C Translations](/C_translations) <-- currently available for use online.
 
