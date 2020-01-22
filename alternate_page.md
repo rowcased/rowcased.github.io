@@ -97,6 +97,25 @@ The first kata was based on a stone tablet found at Pompeii. It was an example o
 4<br>
 5<br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;indent me
+
+
+::::indent me
+
+
+> indent me
+
+
+* indent me
+
+
+** indent me
+
+
+*** indent me
+
+
+
 One of the greatest features of Codewars is the community of members that develop and maintain the site. Most of the day to day activity is managed by a large set of highly active and very talented programmers
 
 oh, and you can get banned or punished
