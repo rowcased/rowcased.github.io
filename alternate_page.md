@@ -22,14 +22,14 @@ Because I began Codewars as a noob, I was baffled by some challenges and many ea
     *   935 represents resolving in multiple languages
 <br>
 ```
-1 Python     1,643
-2 JavaScript   479
-3 C            446
-4 Ruby         104
-5 C#            66
-6 C++           63
-7 Java          52
-& 27 others    115
+Python     1,643
+JavaScript   479
+C            446
+Ruby         104
+C#            66
+C++           63
+Java          52
+27 others    115
 ```
 <hr>
 ### 2. Translator
