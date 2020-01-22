@@ -34,17 +34,9 @@ In conjunction with tutorials, videos, blogs, and language documentation, this s
 & 27 others    115
 ```
 <hr>
-
-MODEL UN50M530DAFXZA
-VERSION DA01
-
-One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the website. I really enjoyed this process and just kept translating. I like that coders around the globe are using my test suites to improve their skills.
-
 ### 2. Translator
 
-One day I translating a kata from Python to C. It was reviewed, I made revisions, and it was approved. I really enjoyed this and just kept translating. I like that coders around the globe are using my test suites to improve their skills.
-
-This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
+One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the website. I really enjoyed this process and just kept translating. I like that coders around the globe are using my test suites to improve their skills. This taught me a lot about code structure, maintainability, legibility, and writing strong unit tests.
 
 * 119 ~ number of approved translations active on Codewars
 * 18% ~ percentage these make of all approved C kata on site
