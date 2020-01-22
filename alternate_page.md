@@ -82,13 +82,13 @@ char *str_sum(ull a, ull b) {
 5<br>
 
 1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
 
 2 [build_square](https://www.codewars.com/kata/5cab471da732b30018968071/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;This is the second one.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the second one.
 
 2 [mutations](https://www.codewars.com/kata/5cb5eb1f03c3ff4778402099/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;And the third.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the third.
 <hr>
 ### 4. Moderator <!-- <img src="images/grass pile.JPG"/> -->
 1<br>
