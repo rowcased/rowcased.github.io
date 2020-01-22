@@ -81,9 +81,8 @@ char *str_sum(ull a, ull b) {
 4<br>
 5<br>
 
-    1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)
-
-    The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
+1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)
+The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
     
 * build_square
     This is the second one.
