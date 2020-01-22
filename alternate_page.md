@@ -11,7 +11,7 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 <hr>
 ### 1. Coder
 
-I started Codewars as a noob so I was baffled by most challenges at first. Many of my earliest solutions were clumsy or inefficient, but I quickly begain to learn a great deal about algorithms, optimization, and best practices from studying other coder's solutions and reading comments. Solving the same kata in multiple languages was invaluable to gaining a better insight to computer programming in general. I never thought I would have solved so many.
+I began Codewars as a noob, so many early solutions were clumsy or inefficient. But I rapidly learned about algorithms, optimization, and best practices by studying other people's code and reading comments. Solving the same kata in multiple languages offered invaluable insights to programming. I never thought I would have solved so many.
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 137 leaderboard position 
