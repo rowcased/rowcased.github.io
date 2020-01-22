@@ -15,20 +15,20 @@ Because I began Codewars as a noob, I was baffled by some challenges and many ea
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 137 leaderboard position 
-* 14,933 ~ honor points 
+* 14,953 ~ honor points 
 * 0.074% ~ honor percentile
 * 2,968 total correct solutions
-    * 2,033 is the base number of distinct solved kata
+    * 2,035 is the base number of distinct solved kata
     *   935 represents resolving in multiple languages
 <br>
 ```
 Python     1,643
-JavaScript   479
-C            446
+JavaScript   481
+C            448
 Ruby         104
 C#            66
 C++           63
-Java          52
+Java          53
 27 others    115
 ```
 <hr>
