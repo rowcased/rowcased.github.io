@@ -14,10 +14,10 @@ At first I just solved a lot of kata in Python as I learned the basics of coding
 Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving the same kata in multiple languages offered invaluable insights to programming. I never thought I would solve so many or learn so much.
 <br>
 * 2kyu ~ rank (began as 8kyu)
-* 137 leaderboard position 
+* 137 ~ leaderboard position 
 * 14,953 ~ honor points 
 * 0.074% ~ honor percentile
-* 2,968 total correct solutions
+* 2,968 ~ total correct solutions
     * 2,035 is the base number of distinct solved kata
     *   935 represents resolving in multiple languages
 <br>
