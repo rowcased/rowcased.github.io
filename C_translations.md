@@ -138,6 +138,8 @@
 119 [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)<br>
 120 [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e/c)<br>
 121 [Thinking & Testing : True or False](https://www.codewars.com/kata/56d931ecc443d475d5000003/c)<br>
+122 [Thinking & Testing : Retention and discard](https://www.codewars.com/kata/56ee0448588cbb60740013b9/solutions/c)<br>
+
 
 
 <hr>
