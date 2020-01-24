@@ -147,6 +147,9 @@
 117 [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)<br>
 118 [Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/5583d268479559400d000064)<br>
 119 [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)<br>
+120 [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e/c)<br>
+121 [Thinking & Testing : True or False](https://www.codewars.com/kata/56d931ecc443d475d5000003/c)<br>
+
 
 <hr>
 <a href="https://rowcased.github.io/alternate_page">(return to codewars page)</a>
