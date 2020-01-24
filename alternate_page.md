@@ -76,7 +76,7 @@ char *str_sum(ull a, ull b) {
 <hr>
 ### 3. Creator
 
-All 8,000 kata are member construbutions. Once a member has created a kata, they submit it to the beta process, where coders try solving the problem, and either make comments, or create tags under questions, suggestions, issues. The kata author is expected to address all feedback and correct all faults with the kata. If the kata is solved enough times and has an approval rating of at least 80%, a power-user (moderator) can review, edit, and then finally approve the kata for regular use on the website. It is a considerble challenge to come up with an idea that has not already been covered. Many publications wallow in the beta stage, sometimes for years, and can eventually be depricated.
+All 8,000 kata are member contributions. Once a member has created a kata, they submit it to the beta process, where coders try solving the problem, and either make comments, or create tags under questions, suggestions, issues. The kata author is expected to address all feedback and correct all faults with the kata. If the kata is solved enough times and has an approval rating of at least 80%, a power-user (moderator) can review, edit, and then finally approve the kata for regular use on the website. It is a considerable challenge to come up with an idea that has not already been covered. Many publications wallow in the beta stage, sometimes for years, and can eventually be deprecated.
 
 All three of my original kata taken up by some other coder and translated into a new language.
 
@@ -84,7 +84,7 @@ My kata have been solved about 338 times collectively so far.
 
 
 1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two-dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square.
 
 2 [build_square](https://www.codewars.com/kata/5cab471da732b30018968071/python)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This one was based on my experience playing with toy blocks with my daughter and as a kid myself. I simply created a challenge for the coder to determine if a square could be built out of the available different-sized blocks.
@@ -125,7 +125,7 @@ oh, and you can get banned or punished
 fix kata
 answer questions
 raise issues on kata
-resolve issues, mostly wrongs, but somwtimes I fix a problem
+resolve issues, mostly wrongs, but sometimes I fix a problem
 
 could add a test, change a parameter, alter syntax or name-casing according to language, 
 creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
