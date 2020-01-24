@@ -75,11 +75,13 @@ char *str_sum(ull a, ull b) {
 ```
 <hr>
 ### 3. Creator
-1User contributions.<br>
-2Peer reviewed.<br>
-3Beta stage.<br>
-4Translated by fellows<br>
-5Used 338 times collectively so far<br>
+
+All 8,000 kata are member construbutions. Once a member has created a kata, they submit it to the beta process, where coders try solving the problem, and either make comments, or create tags under questions, suggestions, issues. The kata author is expected to address all feedback and correct all faults with the kata. If the kata is solved enough times and has an approval rating of at least 80%, a power-user (moderator) can review, edit, and then finally approve the kata for regular use on the website. It is a considerble challenge to come up with an idea that has not already been covered. Many publications wallow in the beta stage, sometimes for years, and can eventually be depricated.
+
+All three of my original kata taken up by some other coder and translated into a new language.
+
+My kata have been solved about 400 times collectively so far. 
+
 
 1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
