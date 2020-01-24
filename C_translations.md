@@ -18,25 +18,16 @@
 <!-- <a href="http://example.com/" target="_blank">Hello, world!</a> -->
 <!-- [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130){:target="_blank"} -->
 
-11 Build a square
-
-12 By 3, or not by 3? That is the question . . .
-
-13 Closest elevator
-
-14 Coding 3min: Virus in Apple
-
-15 Collatz
-
-16 Complete the table pattern
-
-17 Computer problem series #1: Fill the Hard Disk Drive
-
-18 Consonant value
-
-19 Convert a Number to a String!
-
-20 Count the divisible numbers
+11 [Build a square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/c)<br>
+12 [By 3, or not by 3? That is the question . . .](https://www.codewars.com/kata/59f7fc109f0e86d705000043/c)<br>
+13 [Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/c)<br>
+14 [Coding 3min: Virus in Apple](https://www.codewars.com/kata/5700af83d1acef83fd000048/c)<br>
+15 [Collatz](https://www.codewars.com/kata/5286b2e162056fd0cb000c20/c)<br>
+16 [Complete the table pattern](https://www.codewars.com/kata/5827e2efc983ca6f230000e0/c)<br>
+17 [Computer problem series #1: Fill the Hard Disk Drive](https://www.codewars.com/kata/5d49c93d089c6e000ff8428c/c)<br>
+18 [Consonant value](https://www.codewars.com/kata/59c633e7dcc4053512000073/c)<br>
+19 [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/c)<br>
+20 [Count the divisible numbers](https://www.codewars.com/kata/55a5c82cd8e9baa49000004c/c)<br>
 
 21 Count the number of cubes with paint on
 
