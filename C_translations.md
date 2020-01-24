@@ -14,10 +14,8 @@
 8 [Alternate capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)<br>
 9 [Alternating between three values](https://www.codewars.com/kata/596776fbb4f24d0d82000141)<br>
 10 [Blackjack Scorer](https://www.codewars.com/kata/534ffb35edb1241eda0015fe)<br>
-
 <!-- <a href="http://example.com/" target="_blank">Hello, world!</a> -->
 <!-- [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130){:target="_blank"} -->
-
 11 [Build a square](https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/c)<br>
 12 [By 3, or not by 3? That is the question . . .](https://www.codewars.com/kata/59f7fc109f0e86d705000043/c)<br>
 13 [Closest elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/c)<br>
