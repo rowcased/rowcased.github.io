@@ -134,6 +134,7 @@
 115 [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018)<br>
 116 [Yoga Class](https://www.codewars.com/kata/5c79c07b4ba1e100097f4e1a)<br>
 117 [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)<br>
+<hr>
 118 [Binary to Text (ASCII) Conversion](https://www.codewars.com/kata/5583d268479559400d000064)<br>
 119 [Pokemon Damage Calculator](https://www.codewars.com/kata/536e9a7973130a06eb000e9f)<br>
 120 [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e/c)<br>
