@@ -80,7 +80,7 @@ All 8,000 kata are member construbutions. Once a member has created a kata, they
 
 All three of my original kata taken up by some other coder and translated into a new language.
 
-My kata have been solved about 400 times collectively so far. 
+My kata have been solved about 338 times collectively so far. 
 
 
 1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)<br>
