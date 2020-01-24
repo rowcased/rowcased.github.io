@@ -84,13 +84,14 @@ My kata have been solved about 400 times collectively so far.
 
 
 1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii. It was an example of a "sator square"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two-dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square.
 
 2 [build_square](https://www.codewars.com/kata/5cab471da732b30018968071/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the second one.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This one was based on my experience playing with toy blocks with my daughter and as a kid myself. I simply created a challenge for the coder to determine if a square could be built out of the available different-sized blocks.
 
 2 [mutations](https://www.codewars.com/kata/5cb5eb1f03c3ff4778402099/python)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the third.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This kata was inspired by playing word games on road trips. This game involves altering a word by changing one letter. The coder is tasked with running a game between two fictional players who are trying to think up new words, such that the program determines the winner of the game.
+
 <hr>
 ### 4. Moderator <!-- <img src="images/grass pile.JPG"/> -->
 1<br>
