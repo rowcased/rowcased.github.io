@@ -101,11 +101,11 @@
 	 83 Smallest possible sum 
 	 84 Spacify
 	 85 Split and then add both sides of an array together.
-	 86 Student's Final Grade
-	 87 Sum of angles
-	 88 Summing a number's digits
-	 89 Take a Ten Minute Walk
-	 90 The Feast of Many Beasts
+	 86 Student's Final Grade<br>
+	 87 Sum of angles<br>
+	 88 [Summing a number's digits](https://www.codewars.com/kata/52f3149496de55aded000410/c)<br>
+	 89 Take a Ten Minute Walk<br>
+	 90 The Feast of Many Beasts<br>
 	 91 The Ladies of ENIAC
 	 92 The Spider and the Fly (Jumping Spider)
 	 93 The wheat/rice and chessboard problem
@@ -140,7 +140,6 @@
 120 [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e/c)<br>
 121 [Thinking & Testing : True or False](https://www.codewars.com/kata/56d931ecc443d475d5000003/c)<br>
 122 [Thinking & Testing : Retention and discard](https://www.codewars.com/kata/56ee0448588cbb60740013b9/solutions/c)<br>
-
 
 
 <hr>
