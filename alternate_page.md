@@ -74,7 +74,7 @@ char *str_sum(ull a, ull b) {
 }
 ```
 <hr>
-<h3 id="translator">3. Creator</h3>
+<h3 id="creator">3. Creator</h3>
 ### 3. Creator
 
 
