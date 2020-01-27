@@ -11,4 +11,4 @@ This kata was inspired by playing word games on road trips. This game involves a
 <br>
 ...
 <br>
-<a href="https://rowcased.github.io/alternate_page.md#creator">(return to codewars page)</a>
+<a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
