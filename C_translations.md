@@ -115,7 +115,6 @@
 107 Valid Phone Number<br>
 108 Validate Credit Card Number<br>
 109 Vowel-consonant lexicon<br>
-	
 110 Vowels Back<br>
 111 Welcome!<br>
 112 Well of Ideas - Easy Version<br>
