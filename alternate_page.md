@@ -8,6 +8,7 @@ Codewars is a user-driven website with a highly interactive community, offering 
 
 At first I just solved a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started translating kata into that language. For a while I solved kata in a multitude of  new languages. I also finally created several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site moderator.
 <hr>
+<h3 id="coder">1. Coder</h3>
 ### 1. Coder
 
 Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
@@ -95,7 +96,9 @@ My kata have been attempted about 347 + 575 + 295 = 1217 times collectively so f
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This kata was inspired by playing word games on road trips. This game involves altering a word by changing one letter. The coder is tasked with running a game between two fictional players who are trying to think up new words, such that the program determines the winner of the game. -->
 
 <hr>
-### 4. Moderator <!-- <img src="images/grass pile.JPG"/> -->
+<h3 id="creator">4. Moderator</h3>
+### 4. Moderator
+
 1 answer questions<br>
 2 create issues<br>
 3 resolve issues<br>
