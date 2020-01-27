@@ -8,7 +8,6 @@ This kata was inspired by playing word games on road trips. This game involves a
 * 295 ~ codewarriors who have attempted this kata
 * 58 ~ correct submitted solutions
 * 94% ~ satisfaction rating
-<br>
-...
-<br>
+
+
 <a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
