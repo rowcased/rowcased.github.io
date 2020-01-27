@@ -1,5 +1,5 @@
-## mutations
-Full title: Four Letter Words ~ Mutations
+## Four Letter Words ~ Mutations
+<br>
 <img src="images/mutations_screen_shot.png?raw=true"/>
 <br>
 This kata was inspired by playing word games on road trips. This game involves altering a word by changing one letter. The coder is tasked with running a game between two fictional players who are trying to think up new words, such that the program determines the winner of the game.t conforms to the regulations of a sator square.
