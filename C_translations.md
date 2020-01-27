@@ -68,24 +68,24 @@
 	 50 Maximum subarray sum
 	 51 MinMinMax
 	 52 Most valuable character
-	 53 Music Fun #1 - Major Scale
-	 54 New Cashier Does Not Know About Space or Shift 
-	 55 Not very secure
-	 56 Numericals of a String
-	 57 Odder Than the Rest
-	 58 Olympic Rings
-	 59 Ordered Count of Characters
-	 60 Permute a Palindrome
-	 61 Persistent Bugger.
-	 62 Plus - minus - plus - plus - ... - Count
-	 63 Power of two
-	 64 Powers of 3
-	 65 Principal Diagonal | VS | Secondary Diagonal
-	 66 Progressive Spiral Number Position
-	 67 Remove String Spaces
-	 68 Remove anchor from URL
-	 69 Return pyramids
-	 70 Return the day 
+	 53 Music Fun #1 - Major Scale<br>
+	 54 New Cashier Does Not Know About Space or Shift<br>
+	 55 Not very secure<br>
+	 56 Numericals of a String<br>
+	 57 Odder Than the Rest<br>
+	 58 Olympic Rings<br>
+	 59 Ordered Count of Characters<br>
+	 60 Permute a Palindrome<br>
+	 61 Persistent Bugger.<br>
+	 62 Plus - minus - plus - plus - ... - Count<br>
+	 63 Power of two<br>
+	 64 Powers of 3<br>
+	 65 Principal Diagonal | VS | Secondary Diagonal<br>
+	 66 Progressive Spiral Number Position<br>
+	 67 Remove String Spaces<br>
+	 68 Remove anchor from URL<br>
+	 69 Return pyramids<br>
+	 70 Return the day<br>
 	 71 Reverse List Order
 	 72 Reverse words
 	 73 Shift Left
