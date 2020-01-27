@@ -85,7 +85,8 @@ All three of my original kata taken up by some other coder and translated into a
 My kata have been solved about 338 times collectively so far. 
 
 
-1 [is_sator_square](https://www.codewars.com/kata/5cb7baa989b1c50014a53333/python)<br>
+1 [is_sator_square](https://rowcased.github.io/is_sator_square)<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square.
 
 2 [build_square](https://www.codewars.com/kata/5cab471da732b30018968071/python)<br>
