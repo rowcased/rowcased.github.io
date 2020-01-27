@@ -132,7 +132,7 @@
 
 <hr>
 <!-- MAKE THIS RETURN TO THE SPECIFIC SCROLL POSITION ON THE PAGE, WITH THE 2. Translator HEADING AT THE TOP -->
-<a href="https://github.com/rowcased/rowcased.github.io/alternate_page.md#translator">(return to codewars page)</a>
+<a href="https://rowcased.github.io/alternate_page.html#translator">(return to codewars page)</a>
 <hr>
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 <hr>
