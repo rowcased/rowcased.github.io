@@ -96,12 +96,13 @@ My kata have been solved about 338 times collectively so far.
 
 <hr>
 ### 4. Moderator <!-- <img src="images/grass pile.JPG"/> -->
-1<br>
-2<br>
-3<br>
-4<br>
-5<br>
-
+1 answer questions<br>
+2 create issues<br>
+3 resolve issues<br>
+4 edit anykata<br>
+5 votes matter<br>
+6 approve / reject translations or kata<br>
+7
 &nbsp;&nbsp;&nbsp;&nbsp;indent me
 
 
