@@ -1,4 +1,4 @@
-sator_square
+## is_sator_square
 
 <img src="images/is_sator_square_screen_shot.png?raw=true"/>
 
