@@ -9,4 +9,4 @@ The first kata was based on a stone tablet found at Pompeii, known as a “sator
 * 101 ~ correct submitted solutions
 * 89% ~ satisfaction rating
 
-<a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
+<a href="https://rowcased.github.io/alternate_page.md#creator">(return to codewars page)</a>
