@@ -6,7 +6,7 @@ Codewars is a user-driven website with a highly interactive community, offering 
 
 #### My involvement
 
-At first I just <a href="https://rowcased.github.io/alternate_page.html#solver">(solved)</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/alternate_page.html#translator">(translating)</a> kata into that language. For a while I solved kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/alternate_page.html#creator">(created)</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/alternate_page.html#moderator">(moderator)</a>.
+At first I just <a href="https://rowcased.github.io/alternate_page.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/alternate_page.html#translator">translating</a> kata into that language. For a while I solved kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/alternate_page.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/alternate_page.html#moderator">moderator</a>.
 <hr>
 <h3 id="solver">1. Solver</h3>
 
