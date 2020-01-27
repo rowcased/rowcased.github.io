@@ -75,8 +75,6 @@ char *str_sum(ull a, ull b) {
 ```
 <hr>
 <h3 id="creator">3. Creator</h3>
-### 3. Creator
-
 
 After solving about 1,000 kata I decided to create some of my own. All material on site is created by the users / members. Once a submission is published, it begins its existence in the beta stage where it is heavily scrutinized by power-users. This peer-review process is what ensures only quality material is used on the site. The kata is ranked for difficulty, and users can vote based on their satisfaction. The kata cannot be approved with a less than 80% satisfaction rating. If there are any issues with the kata, the author must fix the kata to the standards expected by the moderators. Many kata never make it out of the beta stage.
 
