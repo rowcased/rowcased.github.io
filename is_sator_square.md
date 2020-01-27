@@ -8,3 +8,4 @@ The first kata was based on a stone tablet found at Pompeii, known as a “sator
 this kata has been attempted by 347 codewarriors and solved with 101 correct solutions.
 it has a satisfaction rating of 89%
 
+<a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
