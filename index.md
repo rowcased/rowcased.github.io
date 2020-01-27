@@ -1,7 +1,5 @@
 ## Portfolio
 
----
-
 <!-- ### Main Projects -->
 
 [Codewars.com](/alternate_page.md)
