@@ -1,5 +1,5 @@
-## build_square
-Full title: Playing With Toy Blocks ~ Can you build a 4x4 square?
+## Playing With Toy Blocks ~ Can you build a 4x4 square?
+<br>
 <img src="images/build_square_screen_shot.png?raw=true"/>
 <br>
 This one was based on my experience playing with toy blocks with my daughter and as a kid myself. I simply created a challenge for the coder to determine if a square could be built out of the available different-sized blocks.
