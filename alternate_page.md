@@ -91,7 +91,7 @@ My kata have been solved about 347 + 575 + 295 = 1217 times collectively so far 
 2 [build_square](https://rowcased.github.io/build_square)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This one was based on my experience playing with toy blocks with my daughter and as a kid myself. I simply created a challenge for the coder to determine if a square could be built out of the available different-sized blocks. -->
 
-1 [mutations](https://rowcased.github.io/mutations)<br>
+3 [mutations](https://rowcased.github.io/mutations)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This kata was inspired by playing word games on road trips. This game involves altering a word by changing one letter. The coder is tasked with running a game between two fictional players who are trying to think up new words, such that the program determines the winner of the game. -->
 
 <hr>
