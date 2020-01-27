@@ -8,7 +8,6 @@ This one was based on my experience playing with toy blocks with my daughter and
 * 575 ~ codewarriors who have attempted this kata
 * 180 ~ correct submitted solutions
 * 98% ~ satisfaction rating
-<br>
-...
-<br>
+
+
 <a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
