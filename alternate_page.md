@@ -82,7 +82,7 @@ All 8,000 kata are member contributions. Once a member has created a kata, they 
 
 All three of my original kata taken up by some other coder and translated into a new language.
 
-My kata have been solved about 338 times collectively so far. 
+My kata have been solved about 347 + 575 + 295 = 1217 times collectively so far for a total of 340 correct solves. 
 
 
 1 [is_sator_square](https://rowcased.github.io/is_sator_square)<br>
