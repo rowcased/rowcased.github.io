@@ -10,4 +10,4 @@ This one was based on my experience playing with toy blocks with my daughter and
 * 98% ~ member satisfaction rating
 
 
-<a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
+<a href="https://rowcased.github.io/codewars_page.html#creator">(return to codewars page)</a>
