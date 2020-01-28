@@ -8,7 +8,7 @@
 
 At first I just <a href="https://rowcased.github.io/alternate_page.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/alternate_page.html#translator">translating</a> kata into that language. Then I began to solve kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/alternate_page.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/alternate_page.html#moderator">moderator</a>.
 
-<h3 id="solver"><br>1. Solver</h3>
+<h3 id="solver"><br>1. Problem Solver</h3>
 
 Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
 <br>
@@ -31,7 +31,7 @@ Java          53
 27 others    115
 ```
 
-<h3 id="translator"><br>2. Translator</h3>
+<h3 id="translator"><br>2. C Translator</h3>
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the site. I really enjoyed this process and just kept on translating. I like the idea that coders around the globe are using my test suites to improve their skills. I learned about code structure, maintainability, and writing strong unit tests.
 
@@ -59,7 +59,7 @@ char *say_hello(const char *name) {
 }
 ```
 
-<h3 id="creator"><br>3. Creator</h3>
+<h3 id="creator"><br>3. Kata Creator</h3>
 
 Codewars is built on user contributions. New kata begin in a beta stage, being scrutinized by moderators. Issues must be resolved and satisfaction must reach 80% prior to approval. Many never make it out of beta; it's hard to create new material for a site with over 8,000 kata! All three of mine were approved and were also translated to new languages by other members.
 
@@ -76,7 +76,7 @@ Codewars is built on user contributions. New kata begin in a beta stage, being s
 * 340 ~ number correct solutions submitted
 * 93.6% ~ average satisfaction rating
 
-<h3 id="moderator"><br>4. Moderator</h3>
+<h3 id="moderator"><br>4. Site Moderator</h3>
 
 1 answer questions<br>
 2 create issues<br>
