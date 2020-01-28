@@ -80,13 +80,13 @@ Codewars is built on user contributions. New kata begin in a beta stage, being s
 
 One of the greatest features of Codewars is that it is mostly maintained by an unofficial network of moderators (power-users) that have earned site privilages through earning honor points. However, members that abuse their authority can be banned. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
 
-* create / resolve kata issues
 * answer questions for newer members
-* directly edit / update live kata production code
+* create / resolve posted kata issues
 * vote and rank new beta kata submissions
-* approve / reject kata or their translations
-* 
 * report unethical / forbidden behavior
+* directly edit live kata production code
+* approve / reject kata or translations
+
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
