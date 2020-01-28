@@ -50,35 +50,6 @@ void *greeting(void) {
     printf("Hello, world!\n");
 }
 ```
-<!--
-```python
-def str_sum(a, b): # some Python code:
-    c = str(a + b)
-    print("{} + {} = {}".format(a, b, c))
-    return c
-```
-```c
-#include <stdlib.h> // translation to C:
-#include <string.h>
-#include <limits.h>
-#include <stdio.h>
-#define ull unsigned long long
-
-char *str_sum(ull a, ull b) {
-    if(ULONG_MAX - a < b) {
-        printf("Overflow Error\n");
-        return NULL;
-    }
-    char local[21];
-    sprintf(local, "%llu", a + b);
-    size_t m = strlen(local);
-    char *c = (char *) malloc((m + 1) * sizeof(char));
-    strcpy(c, local);
-    printf("%llu + %llu = %s\n", a, b, c);
-    return c;
-}
-```
--->
 <hr>
 <h3 id="creator"><br>3. Creator</h3>
 
