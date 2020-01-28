@@ -70,13 +70,7 @@ char *str_sum(ull a, ull b) {
 <hr>
 <h3 id="creator"><br>3. Creator</h3>
 
-One of the most interesting aspects of Codewars is that all material is contributed by members. After solving about 1,000 kata I decided to create some of my own. A new kata submission must undergo a beta stage where it is tested by users and scrutinized by moderators. Any issues raised must be resolved by the author before approval, and many kata never make it out of the beta stage.
-
-After solving about 1,000 kata I decided to create some of my own. All material on site is created by the users / members. Once a submission is published, it begins its existence in the beta stage where it is heavily scrutinized by power-users. This peer-review process is what ensures only quality material is used on the site. The kata is ranked for difficulty, and users can vote based on their satisfaction. The kata cannot be approved with a less than 80% satisfaction rating. If there are any issues with the kata, the author must fix the kata to the standards expected by the moderators. Many kata never make it out of the beta stage.
-
-All 8,000 kata are member contributions. Once a member has created a kata, they submit it to the beta process, where coders try solving the problem, and either make comments, or create tags under questions, suggestions, issues. The kata author is expected to address all feedback and correct all faults with the kata. If the kata is solved enough times and has an approval rating of at least 80%, a power-user (moderator) can review, edit, and then finally approve the kata for regular use on the website. It is a considerable challenge to come up with an idea that has not already been covered. Many publications wallow in the beta stage, sometimes for years, and can eventually be deprecated.
-
-All three of my original kata taken up by some other coder and translated into a new language.
+Codewars is built on user contributions. New kata begin in a beta stage, being scrutinized by moderators. Any issues must be resolved and satisfaction must reach 80% prior to approval. Many never make it out of beta; it's hard to create new material for a site with over 8,000 kata! All 3 of mine were approved for use on the site and went on to be translated to new languages by other members.
 
 1 [is_sator_square](https://rowcased.github.io/is_sator_square)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square. -->
