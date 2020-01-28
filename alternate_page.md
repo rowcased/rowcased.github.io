@@ -7,7 +7,7 @@
 #### My involvement
 
 At first I just <a href="https://rowcased.github.io/alternate_page.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/alternate_page.html#translator">translating</a> kata into that language. For a while I solved kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/alternate_page.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/alternate_page.html#moderator">moderator</a>.
-<hr>
+
 <h3 id="solver"><br>1. Solver</h3>
 
 Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
@@ -30,7 +30,6 @@ C++           63
 Java          53
 27 others    115
 ```
-<hr>
 
 <h3 id="translator"><br>2. Translator</h3>
 
@@ -59,7 +58,7 @@ char *say_hello(const char *name) {
     return greet;
 }
 ```
-<hr>
+
 <h3 id="creator"><br>3. Creator</h3>
 
 Codewars is built on user contributions. New kata begin in a beta stage, being scrutinized by moderators. Issues must be resolved and satisfaction must reach 80% prior to approval. Many never make it out of beta; it's hard to create new material for a site with over 8,000 kata! All three of mine were approved and were also translated to new languages by other members.
@@ -76,7 +75,7 @@ Codewars is built on user contributions. New kata begin in a beta stage, being s
 * 1217 ~ number of attempts made by codewarriors
 * 340 ~ number correct submitted solutions 
 * 93.6% ~ average satisfaction rating
-<hr>
+
 <h3 id="moderator"><br>4. Moderator</h3>
 
 1 answer questions<br>
@@ -120,7 +119,7 @@ moderator; in providing maintenance to kata, ranking beta submissions, and guidi
 
 Because rank, did stuff... in answering questions and repairing issues with faulty kata
  There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
-<hr>
+
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
