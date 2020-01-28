@@ -6,7 +6,7 @@ This one was based on my experience playing with toy blocks with my daughter and
 <br>
 * 6 kyu ~ kata difficulty ranking (1 kyu being the hardest)
 * 575 ~ number of members attempting this kata
-* 180 ~ correct submitted solutions
+* 180 ~ number correct solutions submitted
 * 98% ~ satisfaction rating
 
 
