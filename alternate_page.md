@@ -70,7 +70,7 @@ char *str_sum(ull a, ull b) {
 <hr>
 <h3 id="creator"><br>3. Creator</h3>
 
-Codewars is built on user contributions. New kata begin in a beta stage, being scrutinized by moderators. Any issues must be resolved and satisfaction must reach 80% prior to approval. Many never make it out of beta; it's hard to create new material for a site with over 8,000 kata! All 3 of mine were approved for use on the site and went on to be translated to new languages by other members.
+Codewars is built on user contributions. New kata begin in a beta stage, being scrutinized by moderators. Issues must be resolved and satisfaction must reach 80% prior to approval. Many never make it out of beta; it's hard to create new material for a site with over 8,000 kata! All 3 of mine were approved for use on the site and went on to be translated to new languages by other members.
 
 1 [is_sator_square](https://rowcased.github.io/is_sator_square)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square. -->
