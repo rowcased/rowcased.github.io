@@ -78,47 +78,15 @@ Codewars is built on user contributions. New kata begin in a beta stage, being s
 
 <h3 id="moderator"><br>4. Site Moderator</h3>
 
-1 answer questions<br>
-2 create issues<br>
-3 resolve issues<br>
-4 edit anykata<br>
-5 votes matter<br>
-6 approve / reject translations or kata<br>
-7
-&nbsp;&nbsp;&nbsp;&nbsp;indent me
+One of the greatest features of Codewars is that it's mostly maintained by an unofficial network of power-user moderators that have earned site privilages through earning honor points. However, members that abuse their authority can be banned. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
 
-
-::::indent me
-
-
-> indent me
-
-
-* indent me
-
-
-** indent me
-
-
-*** indent me
-
-
-
-One of the greatest features of Codewars is the community of members that develop and maintain the site. Most of the day to day activity is managed by a large set of highly active and very talented programmers
-
-oh, and you can get banned or punished
-fix kata
-answer questions
-raise issues on kata
-resolve issues, mostly wrongs, but sometimes I fix a problem
-
-could add a test, change a parameter, alter syntax or name-casing according to language, 
-creating or resolving issues, answering questions, as well as improving the site by directly live-editing the production code of other code author's kata material.
-
-moderator; in providing maintenance to kata, ranking beta submissions, and guiding new users.
-
-Because rank, did stuff... in answering questions and repairing issues with faulty kata
- There is no pay, but the hours are good. I have no real authority, although I do have the power to make some changes. I like that I have earned the ability to alter things on the website, so I respect that power and tread very carefully. 
+* create / resolve kata issues
+* answer questions for newer members
+* directly edit / update live kata production code
+* vote on beta kata rankings
+* approve / reject kata or their translations
+* just need one more thing to say here
+* report unethical / forbidden behavior
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
