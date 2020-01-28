@@ -1,4 +1,4 @@
-## Four Letter Words ~ Mutations
+### Four Letter Words ~ Mutations
 <img src="images/mutations_screen_shot.png?raw=true"/>
 <br>
 <br> 
