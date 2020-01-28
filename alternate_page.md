@@ -43,9 +43,9 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 
 ```python
 def say_hello(name):
-    greeting = "Hello, {}!".format(name)
-    print(greeting)
-    return greeting
+    greet = "Hello, {}!".format(name)
+    print(greet)
+    return greet
 ```
 ```c
 #include <stdlib.h>
@@ -54,9 +54,9 @@ def say_hello(name):
 
 char *say_hello(const char *name) {
     size_t n_len = strlen(name);
-    char *greeting = (char *) malloc((n_len + 9) * sizeof(char));
+    char *greet = (char *) malloc((n_len + 9) * sizeof(char));
     printf("Hello, %s!\n", name);
-    return greeting;
+    return greet;
 }
 ```
 <hr>
