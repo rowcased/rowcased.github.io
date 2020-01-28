@@ -41,12 +41,16 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 
 
 ```python
+# an example of a simple python funtion
+
 def say_hello(name):
     greet = "Hello, {}!".format(name)
     print(greet)
     return greet
 ```
 ```c
+// the equivalent code translated to C
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
