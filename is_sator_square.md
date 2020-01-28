@@ -1,4 +1,4 @@
-## Is Sator Square?
+### Is Sator Square?
 <img src="images/is_sator_square_screen_shot.png?raw=true"/>
 <br>
 <br>
