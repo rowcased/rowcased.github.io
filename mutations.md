@@ -5,7 +5,7 @@
 This kata was inspired by playing word games on road trips. This game involves altering a word by changing one letter. The coder is tasked with running a game between two fictional players who are trying to think up new words, such that the program determines the winner of the game.
 <br>
 * 5 kyu ~ kata difficulty ranking (1 kyu being the hardest)
-* 295 ~ codewarriors who have attempted this kata
+* 295 ~ number of members attempting this kata
 * 58 ~ correct submitted solutions
 * 94% ~ satisfaction rating
 
