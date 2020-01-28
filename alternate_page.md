@@ -72,7 +72,7 @@ Codewars is built on user contributions. New kata begin in a beta stage, being s
 3 [mutations](https://rowcased.github.io/mutations)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This kata was inspired by playing word games on road trips. This game involves altering a word by changing one letter. The coder is tasked with running a game between two fictional players who are trying to think up new words, such that the program determines the winner of the game. -->
 
-* 1217 ~ number of attempts made by codewarriors
+* 1217 ~ number of attempts made by users
 * 340 ~ number correct submitted solutions 
 * 93.6% ~ average satisfaction rating
 
