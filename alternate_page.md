@@ -32,7 +32,7 @@ Java          53
 ```
 <hr>
 
-<h3 id="translator">2. Translator</h3>
+<h3 id="translator"><br>2. Translator</h3>
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the site. I really enjoyed this process and just kept on translating. I like the idea that coders around the globe are using my test suites to improve their skills. I learned about code structure, maintainability, and writing strong unit tests.
 
@@ -68,7 +68,7 @@ char *str_sum(ull a, ull b) {
 }
 ```
 <hr>
-<h3 id="creator">3. Creator</h3>
+<h3 id="creator"><br>3. Creator</h3>
 
 After solving about 1,000 kata I decided to create some of my own. All material on site is created by the users / members. Once a submission is published, it begins its existence in the beta stage where it is heavily scrutinized by power-users. This peer-review process is what ensures only quality material is used on the site. The kata is ranked for difficulty, and users can vote based on their satisfaction. The kata cannot be approved with a less than 80% satisfaction rating. If there are any issues with the kata, the author must fix the kata to the standards expected by the moderators. Many kata never make it out of the beta stage.
 
@@ -89,7 +89,7 @@ All three of my original kata taken up by some other coder and translated into a
 * 340 ~ number correct submitted solutions 
 * 93.6% ~ average satisfaction rating
 <hr>
-<h3 id="moderator">4. Moderator</h3>
+<h3 id="moderator"><br>4. Moderator</h3>
 
 1 answer questions<br>
 2 create issues<br>
