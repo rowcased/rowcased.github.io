@@ -58,7 +58,8 @@ def say_hello(name):
 char *say_hello(const char *name) {
     size_t n = strlen(name);
     char *greet = (char*) malloc((n+10) * sizeof(char));
-    printf("Hello, %s!\n", name);
+    sprintf(greet, "Hello, %s!\n", name);
+    printf("%s", greet);
     return greet;
 }
 ```
