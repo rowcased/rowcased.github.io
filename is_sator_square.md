@@ -7,7 +7,7 @@ The first kata was based on a stone tablet found at Pompeii, known as a “sator
 * 7 kyu ~ kata difficulty ranking (1 kyu being the hardest)
 * 347 ~ number of members attempting this kata
 * 101 ~ number correct solutions submitted
-* 89% ~ satisfaction rating
+* 89% ~ member satisfaction rating
 
 
 <a href="https://rowcased.github.io/alternate_page.html#creator">(return to codewars page)</a>
