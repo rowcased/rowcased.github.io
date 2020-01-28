@@ -39,7 +39,7 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 * 122 ~ number of [C translations available for use on Codewars](/C_translations)
 * 18.5% ~ percentage these make of all approved C kata on site
 * 5,000 ~ number of valid solves made collectively worldwide
-<!--
+<br>
 ```python
 def greeting():
     print("Hello, world!")
@@ -50,6 +50,7 @@ void *greeting(void) {
     printf("Hello, world!\n");
 }
 ```
+<!--
 ```python
 def str_sum(a, b): # some Python code:
     c = str(a + b)
