@@ -39,7 +39,7 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 * 122 ~ number of [C translations available for use on Codewars](/C_translations)
 * 18.5% ~ percentage these make of all approved C kata on site
 * 5,000 ~ number of valid solves made collectively worldwide
-
+<!--
 ```python
 def str_sum(a, b): # some Python code:
     c = str(a + b)
@@ -67,6 +67,7 @@ char *str_sum(ull a, ull b) {
     return c;
 }
 ```
+-->
 <hr>
 <h3 id="creator"><br>3. Creator</h3>
 
