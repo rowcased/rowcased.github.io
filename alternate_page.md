@@ -8,7 +8,7 @@
 
 At first I just <a href="https://rowcased.github.io/alternate_page.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/alternate_page.html#translator">translating</a> kata into that language. For a while I solved kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/alternate_page.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/alternate_page.html#moderator">moderator</a>.
 <hr>
-<h3 id="solver">1. Solver</h3>
+<h3 id="solver"><br>1. Solver</h3>
 
 Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
 <br>
