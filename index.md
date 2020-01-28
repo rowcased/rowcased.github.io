@@ -1,6 +1,6 @@
 ## Portfolio
 
-[Codewars.com](/alternate_page.md)
+[Codewars.com](/codewars_page.md)
 <img src="images/codewars kata.png?raw=true"/>
 
 [Personal Dev ToolKit](/acode_snippet.md)
