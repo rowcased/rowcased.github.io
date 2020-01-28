@@ -3,7 +3,7 @@
 [Codewars.com](/codewars_page.md)
 <img src="images/codewars kata.png?raw=true"/>
 
-[Personal Dev ToolKit](/acode_snippet.md)
+[Personal Dev ToolKit](/toolkit_page.md)
 <img src="images/dev_toolz.png?raw=true"/>
 
 [Code Timer Program](/C_translations.md)
