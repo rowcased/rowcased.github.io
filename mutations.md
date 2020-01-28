@@ -6,7 +6,7 @@ This kata was inspired by playing word games on road trips. This game involves a
 <br>
 * 5 kyu ~ kata difficulty ranking (1 kyu being the hardest)
 * 295 ~ number of members attempting this kata
-* 58 ~ correct submitted solutions
+* 58 ~ number correct solutions submitted
 * 94% ~ satisfaction rating
 
 
