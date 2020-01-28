@@ -1,4 +1,4 @@
-## Playing With Blocks ~ Can you build a 4x4 square?
+## Playing With Toy Blocks ~ Can you build a 4x4 square?
 <img src="images/build_square_screen_shot.png?raw=true"/>
 <br>
 <br>
