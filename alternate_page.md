@@ -42,13 +42,21 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 
 
 ```python
-def greeting():
-    print("Hello, world!")
+def say_hello(name):
+    greeting = "Hello, {}!".format(name)
+    print(greeting)
+    return greeting
 ```
 ```c
+#include <stdlib.h>
+#include <string.h>
 #include <stdio.h>
-void *greeting(void) {
-    printf("Hello, world!\n");
+
+char *say_hello(const char *name) {
+    size_t name_length = strlen(name);
+    char *greeting = (char *) malloc((name_length + 9) * sizeof(char));
+    printf("Hello, %s!\n", name);
+    return greeting;
 }
 ```
 <hr>
