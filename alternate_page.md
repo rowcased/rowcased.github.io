@@ -10,7 +10,7 @@ At first I just <a href="https://rowcased.github.io/alternate_page.html#solver">
 
 <h3 id="solver"><br>1. Solver</h3>
 
-Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
+Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have here.
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 137 ~ leaderboard position 
