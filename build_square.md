@@ -2,7 +2,7 @@
 <img src="images/build_square_screen_shot.png?raw=true"/>
 <br>
 <br>
-This one was based on my experience playing with toy blocks with my daughter and as a kid myself. I simply created a challenge for the coder to determine if a square could be built out of the available different-sized blocks.
+This one was based on my experience playing with toy blocks with my daughter and as a kid myself. I simply created a challenge for the coder to determine if a square could be built out of the different-sized blocks.
 <br>
 * 6 kyu ~ kata difficulty ranking (1 kyu being the hardest)
 * 575 ~ number of members attempting this kata
