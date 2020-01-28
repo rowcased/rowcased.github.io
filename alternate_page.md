@@ -41,13 +41,13 @@ One day I tried translating a kata from Python to C. It was reviewed by a modera
 * 5,000 ~ number of valid solves made collectively worldwide
 
 ```python
-def str_sum(a, b): # some Python code for you to look at:
+def str_sum(a, b): # some Python code:
     c = str(a + b)
     print("{} + {} = {}".format(a, b, c))
     return c
 ```
 ```c
-#include <stdlib.h> // equivalent code in the C language:
+#include <stdlib.h> // translation to C:
 #include <string.h>
 #include <limits.h>
 #include <stdio.h>
