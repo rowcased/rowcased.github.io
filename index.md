@@ -9,4 +9,5 @@
 [Code Timer Program](/C_translations.md)
 <img src="images/jazz notes.jpg?raw=true"/>
 
-- [my_web_site.com](http://example.com/)
+[Portfolio](/portfolio_page.md)
+<img src="images/portfolio_screen_shot.png?raw=true"/>
