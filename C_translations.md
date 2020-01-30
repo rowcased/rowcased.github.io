@@ -129,6 +129,7 @@
 120 Count the divisors of a number<br>
 121 Thinking & Testing : True or False<br>
 122 Thinking & Testing : Retention and discard<br>
+123 Mean Square Error<br>
 
 <hr>
 <!-- MAKE THIS RETURN TO THE SPECIFIC SCROLL POSITION ON THE PAGE, WITH THE 2. Translator HEADING AT THE TOP -->
