@@ -6,7 +6,7 @@
 [Personal Dev ToolKit](/toolkit_page.md)
 <img src="images/dev_toolz.png?raw=true"/>
 
-[Code Timer Program](/C_translations.md)
+[Code Timer Program](/code_timer_page.md)
 <img src="images/jazz notes.jpg?raw=true"/>
 
 [Portfolio](/portfolio_page.md)
