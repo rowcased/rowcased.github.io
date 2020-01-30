@@ -94,6 +94,7 @@ One of the greatest features of Codewars is that it is mostly maintained by an u
 * report unethical / forbidden behavior
 * approve new kata for use on site
 * approve or reject kata translations
+* adding missing tests to kata
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
