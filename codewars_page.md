@@ -85,13 +85,13 @@ One of the greatest features of Codewars is that it is mostly maintained by an u
 
 * answer questions on the dashboard
 * address suggestions made for kata
+* directly edit live production code
 * debug code for newer members
 * post issues on kata with faults
 * resolve kata issues (often bogus)
 * vote on new beta kata submissions 
 * rank new beta kata submissions
 * report unethical / forbidden behavior
-* directly edit live kata production code
 * approve new kata for use on site
 * approve or reject kata translations
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
