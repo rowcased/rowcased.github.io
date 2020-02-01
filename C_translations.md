@@ -131,6 +131,7 @@
 122 Thinking & Testing : Retention and discard<br>
 123 Mean Square Error<br>
 124 Tetris Series #1 — Scoring System<br>
+125 Help Bob count letters and digits.<br>
 
 <hr>
 <!-- MAKE THIS RETURN TO THE SPECIFIC SCROLL POSITION ON THE PAGE, WITH THE 2. Translator HEADING AT THE TOP -->
