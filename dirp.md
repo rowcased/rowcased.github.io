@@ -1,7 +1,7 @@
 hi this is dirp
 
 ```python
-def dirp(name): # well, shit. can
+def dirp(name): # well, uh... can
     import inspect
     head = inspect.stack()[1][-2][0][
            inspect.stack()[1][-2][0].index('(')+1:
