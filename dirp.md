@@ -1,22 +1,20 @@
 hi this is dirp
 
 ```python
-#from toolbox import namer
-
 def dirp(name):
 
     ''' pretty prints the directory of an object '''
     
     head = __import__('toolbox').namer(name)
     lead = "\n dirp({}):\n\n  {}\n"
+    directory = dir(name)
     
-    print(lead.format(head, type(name)))
-    
-    for d, nom in enumerate(dir(name)):
-        print("  {} {}".format(d, nom))
+    print(lead.format(head, type(name))) 
+    for i, item in enumerate(directory, 1):
+        print("  {} {}".format(i, item))
     print()
     
-    return dir(name)
+    return directory
 ```
 
 
