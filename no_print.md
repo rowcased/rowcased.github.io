@@ -6,7 +6,7 @@ no_print() and print_on are a program pair
 def no_print():
 
     ''' this function disables the Python built-in
-        print function, print_on is a counterprogram '''
+        print function, counterprogram of print_on '''
     
     global temp_print
     temp_print = sys.stdout
@@ -15,7 +15,7 @@ def no_print():
 def print_on():
 
     ''' this function reenables the Python built-in
-        print function, no_print is a counterprogram '''
+        print function, counterprogram of no_print '''
 
     global temp_print
     sys.stdout = temp_print
