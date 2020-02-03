@@ -1,3 +1,5 @@
+## Progress Dots
+
 dor was made for a timing program 
 
 
