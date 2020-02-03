@@ -1,6 +1,11 @@
 here ya go
 
 ```python
+class Node:
+    def __init__(self,val,at_bat=None):
+        self.value = val
+        self.next  = at_bat
+
 def lili(li):
 012345678901234567890123456789012345678901234567890123456
     ''' this function converts a list into a linked list
