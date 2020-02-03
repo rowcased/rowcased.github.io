@@ -1,5 +1,4 @@
-welcome to 'ip' derived from "input pause"
-
+## Input Pause
 
 ```python
 def input_pause(text='foo'):
