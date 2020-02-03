@@ -1,6 +1,6 @@
 ## Print Disabler
 
-no_print() and print_on() are a program pair
+`no_print()` and `print_on()` are a program pair
 
 ```python
 def no_print():
