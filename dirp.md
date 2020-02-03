@@ -1,7 +1,7 @@
 hi this is dirp
 
 ```python
-from toobox import namer
+from toolbox import namer
 
 def dirp(name):
 
