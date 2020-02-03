@@ -4,7 +4,7 @@ dor was made for a timing program
 ```python
 def dot(lens=None):
 
-   ''' prints 10 dots based on the progress of a process '''
+   ''' prints dots based on progress of a process '''
 
     if lens:
         if lens < 10:
