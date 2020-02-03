@@ -1,5 +1,8 @@
 ## List / Linked List Converter
 
+I created this while I was studying linked lists because
+at the time I needed a way to compare the two types.
+
 ```python
 class Node:
     def __init__(self,val,at_bat=None):
