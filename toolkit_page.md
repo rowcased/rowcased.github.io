@@ -9,7 +9,7 @@ While working on personal projects on my computer, I found out it was very conve
 3 [namer](/namer.md)&nbsp;&nbsp;\~&nbsp;&nbsp;returns a string of the name of whatever object was passsed in<br><br>
 4 [no_print](/no_print.md)&nbsp;&nbsp;\~&nbsp;&nbsp;temporarily disables the print function during a program<br><br>
 5 [ip](/ip.md)&nbsp;&nbsp;&nbsp;\~&nbsp;temporarily halts the program with an optional message<br><br>
-6 [timer](/timer.md)&nbsp;&nbsp;\~&nbsp;&nbsp;times the speed of a piece of code<br><br>
+6 [timer](/timer.md)&nbsp;&nbsp;\~&nbsp;&nbsp;times a function based on inputs and repetitions<br><br>
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
