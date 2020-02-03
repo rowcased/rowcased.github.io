@@ -1,5 +1,7 @@
 ## Directory Print
 
+put some text blurb thing here
+
 ```python
 def dirp(name):
 
