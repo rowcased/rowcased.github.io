@@ -14,7 +14,7 @@ def lili(li):
         output = None
         while li:
             output = Node(li.pop(),output)
-    else: # gotta do a try on .value, .next attributes            
+    else: # gotta do a try on .value, .next attributes
         output = []
         while li:
             output.append(li.value)
