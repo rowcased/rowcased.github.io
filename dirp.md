@@ -9,7 +9,7 @@ def dirp(name):
     
     head = __import__('toolbox').namer(name)
    
-    #print('\n dirp(' + head + '):\n\n ',type(name),'\n')
+    #print('\n dirp('+head+'):\n\n ',type(name),'\n')
     
     lead = "\n dirp({}):\n\n  {}\n"
     
