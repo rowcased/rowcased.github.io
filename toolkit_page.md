@@ -5,8 +5,4 @@ def func():
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
 
-
-
-
-
-[check out dirp](/dirp)
+[check out dirp](/dirp.md)
