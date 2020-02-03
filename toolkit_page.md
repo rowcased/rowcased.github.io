@@ -21,7 +21,7 @@ While working on personal projects on my computer, I found out it was very conve
 &nbsp;&nbsp;\~&nbsp;&nbsp; 
                times a function based on inputs and repetitions<br><br>
 7 [dot()](/dot.md)&nbsp;&nbsp;\~&nbsp;&nbsp;prints dots to show progress of a process in increments of tenths<br><br>
-
+<!-- dot could become a generator object -->
 
 <!--
 01234567890123456789012345678901234567890123456789012345678901234567890123456  67
