@@ -17,23 +17,18 @@ def dot(lens=None):
         global decca
         decca = 10
         return lens
-        
     try:
         count
     except NameError:
         print('   ***  (there was no count)  ***')
         return
-        
     if decca == 100:
         return
-        
     count += 1
     percent = round(count / total * 100)
-    
     if percent >= decca:
         print('.', end = '')
         decca += 10
-        
     return count
 ```
 
