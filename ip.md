@@ -4,7 +4,7 @@ While learning to code, I occasionally needed the program
 to stop somewhere to make it easier to debug.
 
 ```python
-def input_pause(text='foo'):
+def input_pause(text=' ** program paused **'):
 
     ''' pauses a program by waiting for input
         an optional message can be included'''
