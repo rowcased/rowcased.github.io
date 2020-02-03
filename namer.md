@@ -1,7 +1,7 @@
 ## Variable Name Getter
 
 ```python
-def namer(whatever):
+def namer(object):
 
     ''' returns a string of the name of any object'''
     
