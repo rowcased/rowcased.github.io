@@ -1,6 +1,7 @@
 ## Progress Dots
 
-dor was made for a timing program 
+this program was made for a timing program,
+and thus part of a larger program, "codewars code timer"
 
 
 ```python
