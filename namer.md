@@ -1,7 +1,7 @@
 ## Variable Name Getter
 
 This program gets put to use by several other tools
-in my toolbox. For example, see [dirp()](/dirp.md).
+in my toolbox.<br>For example, see [dirp()](/dirp.md).
 
 ```python
 def namer(object):
