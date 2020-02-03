@@ -1,0 +1,16 @@
+```
+def lili(li):
+    ''' this function will transform a standard list into a linked list 
+        or a linked list into a standard list, depending which is input '''
+    if type(li) == list: # any sequence, maybe even collections
+        output = None
+        while li:
+            output = Node(li.pop(),output)
+    else: # gotta do a try on .value and .next attributes            
+        output = []
+        while li:
+            output.append(li.value)
+            li = li.next
+    return output
+
+```
