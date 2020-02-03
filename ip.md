@@ -1,5 +1,8 @@
 ## Input Pause
 
+While learning to code, I occasionally needed the program
+to stop somewhere to make it easier to debug.
+
 ```python
 def input_pause(text='foo'):
 
