@@ -1,4 +1,6 @@
-```
+here ya go
+
+```python
 def lili(li):
     ''' this function will transform a standard list into a linked list 
         or a linked list into a standard list, depending which is input '''
@@ -12,5 +14,5 @@ def lili(li):
             output.append(li.value)
             li = li.next
     return output
-
 ```
+
