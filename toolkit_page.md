@@ -20,9 +20,7 @@ While working on personal projects on my computer, I found out it was very conve
 6 [timer()](/timer.md)
 &nbsp;&nbsp;\~&nbsp;&nbsp; 
                times a function based on inputs and repetitions<br><br>
-7 [dot()](/dot.md)
-&nbsp;&nbsp;\~&nbsp;&nbsp;
-            prints dots to show progress of a process in increments of tenths<br><br>
+7 [dot()](/dot.md)&nbsp;&nbsp;\~&nbsp;&nbsp;prints dots to show progress of a process in increments of tenths<br><br>
 
 
 <!--
