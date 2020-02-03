@@ -1,25 +1,27 @@
-
-no_print()
+no_print() and print_on are a program pair.
 
 ```python
 def no_print():
-    '''   The no_print docstring   '''
+
+    ''' this function disables the Python built-in print
+        function, print_on is its counterprogram'''
+    
     global mess
     mess = sys.stdout
     sys.stdout = open(os.devnull, 'w')
-nop = no_print
 
-def prant(chat=None):
-    def nope(*args):
-        pass
-    if not chat:
-        print = nope
+
 
 def print_on():
-    '''   The print_on docstring   '''
+
+    ''' this function reenables the Python built-in print
+        function, no_print is its counterprogram'''
+
     global mess
     sys.stdout = mess
+
 pon = print_on
+nop = no_print
 
 ```
 
