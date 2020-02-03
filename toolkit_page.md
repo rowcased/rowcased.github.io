@@ -4,7 +4,7 @@ While working on personal projects on my computer, I found out it was very conve
 
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-1 [dirp](/dirp.md)&nbsp;&nbsp;\~&nbsp;&nbsp;takes in any Python object and lists its directory<br><br>
+1 [dirp](/dirp.md)&nbsp;&nbsp;\~&nbsp;&nbsp;takes in any Python object and pretty prints its directory items<br><br>
 2 [lili](/lili.md)&nbsp;&nbsp;\~&nbsp;&nbsp;converts a list to a linked list or vice versa, depending on input type<br><br>
 3 [namer](/namer.md)&nbsp;&nbsp;\~&nbsp;&nbsp;returns a string of the name of whatever object was passsed in<br><br>
 4 [no_print](/no_print.md)&nbsp;&nbsp;\~&nbsp;&nbsp;temporarily disables the print function during a program<br><br>
