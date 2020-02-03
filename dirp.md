@@ -8,15 +8,11 @@ def dirp(name):
     ''' pretty prints the directory of an object '''
     
     head = __import__('toolbox').namer(name)
-   
-    #print('\n dirp('+head+'):\n\n ',type(name),'\n')
-    
     lead = "\n dirp({}):\n\n  {}\n"
     
     print(lead.format(head, type(name)))
     
     for d, nom in enumerate(dir(name)):
-        #print(' ', d, nom)
         print("  {} {}".format(d, nom))
     print()
     
