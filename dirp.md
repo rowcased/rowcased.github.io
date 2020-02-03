@@ -1,13 +1,13 @@
 hi this is dirp
 
 ```python
-from toolbox import namer
+#from toolbox import namer
 
 def dirp(name):
 
     ''' pretty prints a directory list of an object '''
     
-    head = namer(name)
+    head = __import__('toolbox').namer(name)
     
     print('\n dirp('+head+'):\n\n ',type(name),'\n')
     for d,nom in enumerate(dir(name)):
