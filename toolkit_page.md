@@ -1,6 +1,5 @@
 # Personal Developer Toolkit
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
-### TABLE OF CONTENTS
 1 [dirp](/dirp.md)&nbsp;&nbsp;&nbsp;&nbsp;takes in any Python object and lists its directory<br><br>
 2 [lili](/lili.md)&nbsp;&nbsp;&nbsp;&nbsp;changes a list into a linked list or a linked list into a list depending on what is passed in<br><br>
 3 [namer](/namer.md)&nbsp;&nbsp;&nbsp;&nbsp;returns a string of the name of whatever object was passsed in<br><br>
