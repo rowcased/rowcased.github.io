@@ -1,4 +1,4 @@
-# Personal Homemade Developer Toolkit
+# Personal Developer Toolkit
 
 ### TABLE OF CONTENTS
 1 [check out dirp](/dirp.md)<br>
