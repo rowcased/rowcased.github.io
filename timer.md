@@ -1,4 +1,4 @@
-### Timer!
+## Function Timer
 <!--    # <-- write declaration to compare multiple of same  -->
 ```python
 def timer(function, args=None, reps=1, show=True):
