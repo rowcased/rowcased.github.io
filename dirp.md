@@ -5,7 +5,7 @@ hi this is dirp
 
 def dirp(name):
 
-    ''' pretty prints a directory list of an object '''
+    ''' pretty prints the directory of an object '''
     
     head = __import__('toolbox').namer(name)
     
