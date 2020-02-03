@@ -1,4 +1,8 @@
 # Personal Developer Toolkit
+
+While working on personal projects on my computer, I found out it was very convenient to have certain tools at my fingertips. I also realized I could just write them
+
+
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
 1 [dirp](/dirp.md)&nbsp;&nbsp;&nbsp;&nbsp;takes in any Python object and lists its directory<br><br>
 2 [lili](/lili.md)&nbsp;&nbsp;&nbsp;&nbsp;changes a list into a linked list or a linked list into a list depending on what is passed in<br><br>
