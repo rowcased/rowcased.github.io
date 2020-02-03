@@ -1,4 +1,4 @@
-hi this is dirp
+## Directory Print
 
 ```python
 def dirp(name):
