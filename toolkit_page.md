@@ -10,7 +10,7 @@ While working on personal projects on my computer, I found out it was very conve
              converts a list to a linked list or vice versa, depending on input<br><br>
 3 [namer()](/namer.md)
 &nbsp;&nbsp;\~&nbsp;&nbsp;
-              returns a string of the name of the object that was passsed in<br><br>
+              returns a string of the name of the object passsed to it<br><br>
 4 [no_print()](/no_print.md)
 &nbsp;&nbsp;\~&nbsp;&nbsp;
                  temporarily disables the print function during a program<br><br>
