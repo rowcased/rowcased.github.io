@@ -1,10 +1,8 @@
 ### Timer!
-
+<!--    # <-- write declaration to compare multiple of same  -->
 ```python
 def timer(function, args=None, reps=1, show=True):
 
-<!--    # <-- write declaration to compare multiple of same  -->
-    
     ''' returns (optionally prints) execution time
         of a program based on given input and reps '''
     
