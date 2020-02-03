@@ -1,4 +1,4 @@
-Hi, this is namer. enjoy
+## Variable Name Getter
 
 ```python
 def namer(whatever):
