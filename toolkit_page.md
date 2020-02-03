@@ -6,3 +6,8 @@ def func():
 
 
 [check out dirp](/dirp.md)
+
+
+here's some code about lists:
+
+[check out lili](/lili.md)
