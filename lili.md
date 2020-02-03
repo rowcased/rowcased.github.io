@@ -2,13 +2,15 @@ here ya go
 
 ```python
 def lili(li):
-    ''' this function will transform a standard list into a linked list 
-        or a linked list into a standard list, depending which is input '''
-    if type(li) == list: # any sequence, maybe even collections
+012345678901234567890123456789012345678901234567890123456
+    ''' this function converts a list into a linked list
+                            or a linked list into a list,
+        depending on which type is input '''
+    if type(li) == list: # any sequence / collections
         output = None
         while li:
             output = Node(li.pop(),output)
-    else: # gotta do a try on .value and .next attributes            
+    else: # gotta do a try on .value, .next attributes            
         output = []
         while li:
             output.append(li.value)
