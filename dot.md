@@ -7,18 +7,15 @@ def dot(lens=None):
    ''' prints 10 dots based on the progress of a process '''
 
     if lens:
-    
         if lens < 10:
             print('..........', end='')
             return
-            
         global total
         total = lens
         global count
         count = 0
         global decca
         decca = 10
-        
         return lens
         
     try:
@@ -31,7 +28,6 @@ def dot(lens=None):
         return
         
     count += 1
-    
     percent = round(count / total * 100)
     
     if percent >= decca:
