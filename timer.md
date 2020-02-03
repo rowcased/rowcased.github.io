@@ -1,4 +1,9 @@
 ## Function Timer
+
+Before I knew about the timeit() function, I simply
+vreated something myself, which I used a great deal
+while learning how to optimize my code.
+
 <!--    # <-- write declaration to compare multiple of same  -->
 ```python
 def timer(function, args=None, reps=1, show=True):
