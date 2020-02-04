@@ -1,7 +1,8 @@
 ## Input Pause
 
-While learning to code, I occasionally needed the program
-to stop somewhere to make it easier to debug.
+This little piece of code was a debugging tool.
+It just stops the program where you wannt it to.
+You have the option of printing out a message.
 
 ```python
 def input_pause(text=' ** program paused **'):
