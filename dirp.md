@@ -1,6 +1,7 @@
 ## Directory Print
 
-put some text blurb thing here
+This was helpful when was first learning data types.
+Note: it contains a call to the _namer()_ function.
 
 ```python
 def dirp(name):
