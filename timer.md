@@ -1,8 +1,6 @@
 ## Function Timer
 
-Before I knew about the timeit() library, I simply
-created something myself. I used this a great deal
-while learning how to optimize my code.
+Before I knew about the timeit() library, I created something for myself. I used this a great deal while learning how to optimize my code.
 
 <!--    # <-- write declaration to compare multiple of same  -->
 ```python
