@@ -1,7 +1,7 @@
 ## Input Pause
 
 This little piece of code was a debugging tool.
-It just stops the program where you wannt it to.
+It just stops the program where you want it to.
 You have the option of printing out a message.
 
 ```python
