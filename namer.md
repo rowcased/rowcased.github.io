@@ -10,9 +10,9 @@ def namer(object):
     
     import inspect
     
-    inst = inspect.stack()[1][-2][0]      # gotta
-    start = inst.index('(') + 1           # regex
-    stop = -(inst[::-1].index(')') + 1)   # this!
+    inst = inspect.stack()[1][-2][0]
+    start = inst.index('(') + 1
+    stop = -(inst[::-1].index(')') + 1)
     name = inst[start:stop]
     
     return name
