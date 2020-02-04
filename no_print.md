@@ -1,6 +1,8 @@
 ## Print Disabler
 
-`no_print()` and `print_on()` are a program pair
+This program pairing was created to temporarily 
+disable the print function while running a huge
+set of codes, some of which _may_ print something.
 
 ```python
 def no_print():
