@@ -1,7 +1,7 @@
 ## Progress Dots
 
-this program was made for a timing program,
-and thus part of a larger program, "codewars code timer"
+This program was made for a timing program,
+and thus part of a larger program, "codewars code timer".
 
 
 ```python
