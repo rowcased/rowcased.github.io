@@ -1,6 +1,6 @@
 # Personal Developer Toolkit
 
-One of my favorite revelations about the art of coding came from wanting certain tools while working on personal projects on my computer and realizing I could just write those tools myself. So I did, and it a success. Some of them are obsolete. Several were very useful. I learned a lot by creating them.
+One of my favorite revelations about the art of coding came from wanting certain tools while working on personal projects on my computer and realizing I could simply write those tools for myself. So I did, and it a success. Some of them are obsolete. Several were very useful. I learned a lot by creating them.
 
 1 [dirp()](/dirp.md)&nbsp;&nbsp;\~&nbsp;&nbsp;takes in any Python object and pretty prints its directory items<br><br>
 2 [lili()](/lili.md)&nbsp;&nbsp;\~&nbsp;&nbsp;converts a list to a linked list or vice versa, depending on input<br><br>
