@@ -1,7 +1,7 @@
 ## Directory Print
 
 This was helpful when was first learning data types.
-Note: it contains a call to the [namer()](/namer) function.
+Note: it contains a call to the [namer()](/namer.md) function.
 
 ```python
 def dirp(name):
