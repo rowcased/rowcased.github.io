@@ -5,7 +5,7 @@ It just stops the program where you want it to.
 You have the option of printing out a message.
 
 ```python
-def input_pause(text=' ** program paused **'):
+def input_pause(text=' ** program paused ** '):
 
     ''' pauses a program by waiting for input
         an optional message can be included'''
