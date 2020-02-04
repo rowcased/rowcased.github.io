@@ -22,8 +22,8 @@ def print_on():
     global temp_print
     sys.stdout = temp_print
 
-pon = print_on
 nop = no_print
+pon = print_on
 
 ```
 
