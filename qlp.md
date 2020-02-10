@@ -9,9 +9,7 @@ def qlp(thing,sub='',I=1,ind=5,comment=''):
     import inspect
     print()
     lent = len(thing)
-    head = inspect.stack()[1][-2][0][
-           inspect.stack()[1][-2][0].index('(')+1:
-           -(inspect.stack()[1][-2][0][::-1].index(')')+1)]
+    head = __import__('toolbox').namer(thing)
     typo = type(thing)
     if typo in [list,tuple,set,dict,frozenset] and len(thing) > 1:
 #    if type(thing) != str and len(thing) > 1:
