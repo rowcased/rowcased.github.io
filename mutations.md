@@ -11,4 +11,4 @@ This kata challenges the coder with running a game between two fictional players
 * 94% ~ member satisfaction rating
 
 
-<a href="https://rowcased.github.io/codewars_page.html#creator">(return to codewars page)</a>
+<a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
