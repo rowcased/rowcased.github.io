@@ -1,13 +1,13 @@
 ## Portfolio
 
-[Codewars.com](/codewars_page.md)
+[Codewars.com](/codewars.md)
 <img src="images/codewars kata.png?raw=true"/>
 
-[Personal Dev ToolKit](/toolkit_page.md)
+[Personal Dev ToolKit](/toolkit.md)
 <img src="images/dev_toolz.png?raw=true"/>
 
-[Code Timer Program](/code_timer_page.md)
+[Code Timer Program](/code_timer.md)
 <img src="images/jazz notes.jpg?raw=true"/>
 
-[Portfolio](/portfolio_page.md)
+[Portfolio](/portfolio.md)
 <img src="images/portfolio_screen_shot.png?raw=true"/>
