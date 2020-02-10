@@ -1,0 +1,30 @@
+
+
+
+```python
+def getests(num):  # <-- FUCK YEAH, MAN (not ready for prime-time, tho)
+    tests=[]        # ...need remaining data types: tuples, sets, dicts, ?
+    tempL=[]
+    while len(tests)!=num:
+        pars=[] # HERE ...
+        print('\n'+' Enter Test',str(len(tests)+1),'Items:')
+        while '' not in pars:
+            varin=input(' ') # <--- needs to handle triple-quoted variables
+            if not varin:break
+            if varin[0]=='[':
+                if varin[-1]!=']':tempL.append(eval(varin[1:-2]))
+                else:pars.append(eval(varin[:]))                  
+            elif tempL:
+                if varin[-1]==']':
+                    tempL.append(eval(varin[1:-1]))
+                    pars.append(tempL)
+                    tempL=[]
+                else:tempL.append(eval(varin[1:-2]))
+            else:pars.append(eval(varin)) # trips modded here ?1!             
+        tests.append(pars)
+        pars=[] # OR HERE ?
+    for t in tests:
+        if t==tests[0]:print('tests = ['+str(t)+',\n')
+        elif t==tests[-1]:print('         '+str(t)+']\n')
+        else:print('         '+str(t)+',\n')
+```
