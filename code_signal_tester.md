@@ -4,8 +4,8 @@ I wrote this program very early on in my study when I was working on a site now 
 <br>Note: it uses tests created by user input with this function: [get_tests()](/get_tests.md) function.
 
 ```python
-def test(code, start=None, stop=None): # dev to choose test by number(s), slice, full...
-    from pprint import pprint, pformat # ...get the number (and types) of parameters
+def test(code, start=None, stop=None):
+    from pprint import pprint, pformat
     from __main__ import tests
     import inspect
     results='.'
