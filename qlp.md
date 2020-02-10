@@ -1,0 +1,42 @@
+
+
+
+```python
+def qlp(thing,sub='',I=1,ind=5,comment=''):
+    """ quick code to display items of any sequence  """ # taken from jools, don't know if different
+    import inspect
+    print()
+    lent = len(thing)
+    head = inspect.stack()[1][-2][0][
+           inspect.stack()[1][-2][0].index('(')+1:
+           -(inspect.stack()[1][-2][0][::-1].index(')')+1)]
+    typo = type(thing)
+    if typo in [list,tuple,set,dict,frozenset] and len(thing) > 1:
+#    if type(thing) != str and len(thing) > 1:
+        if typo == list:
+            book = '['
+            ends = ']'
+        elif typo == tuple:
+            book = '('
+            ends = ')'
+        else:
+            book = '{'
+            ends = '}'
+        print('\n '*I+head+'\t',comment,'\n  ', book, end=' ')
+        
+        if sub:
+            sub = sub + ' = '
+        if type(thing) == dict:
+            listo = sorted(thing)
+        else:
+            listo = thing
+        for i, t in enumerate(listo):
+            if type(thing) == dict:
+                print('\n'*(i not in (0,lent))+' '*ind*(i!=0)+sub+str(t),':',thing[t], end=' ')
+            else:
+                print('\n'*(i not in (0,lent))+' '*ind*(i!=0)+sub+str(t), end=' ')
+        print(ends)
+    else:
+        print(' '+head,'=',thing)
+    print()
+```
