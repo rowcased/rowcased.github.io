@@ -2,6 +2,7 @@
 
 I created this to have my own form of pretty printing lists.
 <br>Note: it contains a call to the [namer()](/namer.md) function.
+<br>Note: qlp is used in the [get_tests()](/get_tests.md) function, among others.
 
 ```python
 def qlp(thing,sub='',I=1,ind=5,comment=''):
