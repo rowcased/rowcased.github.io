@@ -22,7 +22,6 @@ def qlp(thing,sub='',I=1,ind=5,comment=''):
             book = '{'
             ends = '}'
         print('\n '*I+head+'\t',comment,'\n  ', book, end=' ')
-        
         if sub:
             sub = sub + ' = '
         if type(thing) == dict:
