@@ -9,26 +9,33 @@ def getests(num):
     tempL=[]
     while len(tests)!=num:
         pars=[]
-        print('\n'+' Enter Test',str(len(tests)+1),'Items:')
+        print()
+        print(' Enter Test',len(tests)+1,'Items:')
         while '' not in pars:
             varin=input(' ')
             if not varin:break
             if varin[0]=='[':
-                if varin[-1]!=']':tempL.append(eval(varin[1:-2]))
-                else:pars.append(eval(varin[:]))                  
+                if varin[-1]!=']':
+                    tempL.append(eval(varin[1:-2]))
+                else:
+                    pars.append(eval(varin[:]))                  
             elif tempL:
                 if varin[-1]==']':
                     tempL.append(eval(varin[1:-1]))
                     pars.append(tempL)
                     tempL=[]
-                else:tempL.append(eval(varin[1:-2]))
-            else:pars.append(eval(varin)) # trips modded here ?1!             
+                else:
+                    tempL.append(eval(varin[1:-2]))
+            else:
+                pars.append(eval(varin))          
         tests.append(pars)
-        pars=[] # OR HERE ?
     for t in tests:
-        if t==tests[0]:print('tests = ['+str(t)+',\n')
-        elif t==tests[-1]:print('         '+str(t)+']\n')
-        else:print('         '+str(t)+',\n')
+        if t==tests[0]:
+            print('tests = ['+str(t)+',\n')
+        elif t==tests[-1]:
+            print('         '+str(t)+']\n')
+        else:
+            print('         '+str(t)+',\n')
 ```
 
 
