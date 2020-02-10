@@ -4,14 +4,14 @@ I wrote this function to input data for tests that were for asserting the validi
 <br>Note: these tests are used in the testing function: [code_signal_tester()](/code_signal_tester.md) function.
 
 ```python
-def getests(num):  # <-- FUCK YEAH, MAN (not ready for prime-time, tho)
-    tests=[]        # ...need remaining data types: tuples, sets, dicts, ?
+def getests(num):
+    tests=[]
     tempL=[]
     while len(tests)!=num:
-        pars=[] # HERE ...
+        pars=[]
         print('\n'+' Enter Test',str(len(tests)+1),'Items:')
         while '' not in pars:
-            varin=input(' ') # <--- needs to handle triple-quoted variables
+            varin=input(' ')
             if not varin:break
             if varin[0]=='[':
                 if varin[-1]!=']':tempL.append(eval(varin[1:-2]))
