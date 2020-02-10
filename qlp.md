@@ -5,14 +5,13 @@ I created this to have my own form of pretty printing lists.
 
 ```python
 def qlp(thing,sub='',I=1,ind=5,comment=''):
-    """ quick code to display items of any sequence  """ # taken from jools, don't know if different
+    """ quick code to display items of any sequence  """
     import inspect
     print()
     lent = len(thing)
     head = __import__('toolbox').namer(thing)
     typo = type(thing)
     if typo in [list,tuple,set,dict,frozenset] and len(thing) > 1:
-#    if type(thing) != str and len(thing) > 1:
         if typo == list:
             book = '['
             ends = ']'
