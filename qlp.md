@@ -42,4 +42,4 @@ def qlp(thing,sub='',I=1,ind=5,comment=''):
 
 
 
-[back to toolkit](/toolkit_page)
+[back to toolkit](/toolkit)
