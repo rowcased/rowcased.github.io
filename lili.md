@@ -10,8 +10,8 @@ class Node:
         self.next  = at_bat
 
 def lili(li):
-    ''' converts a list into a linked list
-              or a linked list into a list,
+    ''' converts a list into a linked list or
+        converts a linked list into a list,
         depending on which type is input '''
     if type(li) == list: # any sequence / collections
         output = None
