@@ -1,4 +1,8 @@
+## Variable Renamer
 
+This function is part of a larger program. Its purpose was to rename a function in a "_raw.py" file that contained many dufferent solutions of the same function. These functions were later to be parsed fromm the raw file and then each run for time seperately.
+
+<br>Note: it contains a call to the [namer()](/namer.md) function.
 
 ```python
 def rename(old, new):
@@ -10,3 +14,6 @@ def rename(old, new):
     with open(new + '_raw.py','w', encoding = ('UTF-8')) as file: file.write(raw)
 ```
 
+
+
+[back to toolkit](/toolkit_page)
