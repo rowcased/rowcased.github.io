@@ -38,10 +38,12 @@ def test(code, start=None, stop=None):
         F = ['Invalid Index Input']
     elif stop == None:
         stop = start
-    if p:print('\n'*2+'_'*4+' Codefight: "'+str(code)[10:-16]+'" Results '+'_'*(60-(   len(str(code)[10:-16])     ))+'\n')
-    for t in range(start-1,stop):
+    if p:
+        print('\n'*2+'_'*4+' Codefight: "'+str(code)[10:-16]+'" Results '+'_'*(60-(   len(str(code)[10:-16])     ))+'\n')
+    for t in range(start - 1, stop):
         milt=0       
-        if TEST and p:print('TEST #',(t+1),'\n')
+        if TEST and p:
+            print('TEST #', (t + 1), '\n')
         if GGG != 'Nope':
             result = eval('code('+', '.join(['tests[t]['+str(i)+']' for i in range(len(list(inspect.getargspec(code))[0])-1)])+GGG+')')
         else:
@@ -57,7 +59,7 @@ def test(code, start=None, stop=None):
                     else:
                         None
                 result = eval('code('+', '.join(['tests[t]['+str(i)+']'
-                                                 for i in range(len(list(inspect.getargspec(code))[0])-len(temp))])+', '+', '.join([str(default)
+                         for i in range(len(list(inspect.getargspec(code))[0])-len(temp))])+', '+', '.join([str(default)
                                                                                                                                                  for default in temp])+')')
             else:
                 result = eval('code('+', '.join(['tests[t]['+str(i)+']'
