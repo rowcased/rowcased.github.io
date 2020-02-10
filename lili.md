@@ -13,11 +13,11 @@ def lili(li):
     ''' converts a list into a linked list or
         converts a linked list into a list,
         depending on which type is input '''
-    if type(li) == list: # any sequence / collections
+    if type(li) == list:
         output = None
         while li:
             output = Node(li.pop(),output)
-    else: # gotta do a try on .value, .next attributes
+    else:
         output = []
         while li:
             output.append(li.value)
