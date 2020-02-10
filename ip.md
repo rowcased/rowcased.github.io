@@ -15,4 +15,4 @@ def input_pause(text=' ** program paused ** '):
 ip = input_pause
 ```
 
-[back to toolkit](/toolkit_page)
+[back to toolkit](/toolkit)
