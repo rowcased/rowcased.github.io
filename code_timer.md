@@ -1,4 +1,4 @@
-## Code Timer Project
+# Code Timer Project
 
 this page is not updated
 
