@@ -7,7 +7,7 @@ You have the option of printing out a message.
 ```python
 def input_pause(text=' ** program paused ** '):
 
-    ''' pauses a program by waiting for input
+    ''' pauses a program by waiting for input,
         an optional message can be included '''
         
     input('\n%s\n' % text)
