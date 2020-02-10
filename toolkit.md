@@ -1,4 +1,4 @@
-## Personal Developer Toolkit
+# Personal Developer Toolkit
 
 One of my favorite revelations about the art of coding came from wanting certain tools while working on personal projects on my computer and then realizing I could simply write those tools for myself.
 
