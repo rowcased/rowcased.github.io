@@ -1,4 +1,7 @@
+## Code Tester
 
+I wrote this program very early on in my study when I was working on a site now called Code Signal.
+<br>Note: it uses tests created by user input with this function: [get_tests()](/get_tests.md) function.
 
 ```python
 def test(code, start=None, stop=None): # dev to choose test by number(s), slice, full...
@@ -112,3 +115,7 @@ def test(code, start=None, stop=None): # dev to choose test by number(s), slice,
     if p:print('_'*4+' fin '+'_'*78+'\n'*2)
     return PASS_FAIL
 ```
+
+
+
+[back to toolkit](/toolkit_page)
