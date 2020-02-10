@@ -1,4 +1,4 @@
-## Codewars.com
+# Codewars.com
 
 #### The Site
 
