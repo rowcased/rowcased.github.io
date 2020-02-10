@@ -39,4 +39,4 @@ def get_tests(num, show=False):
 
 
 
-[back to toolkit](/toolkit_page)
+[back to toolkit](/toolkit)
