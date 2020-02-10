@@ -1,7 +1,7 @@
 ## Get Test Data
 
 I wrote this function to input data for tests that were for asserting the validity of an algorithm I was writing while studying on the Code Signal website.
-<br>Note: these tests are used in the testing function: [code_tester()](/code_tester.md) function.
+<br>Note: these tests are used in the [code_tester()](/code_tester.md) function.
 <br>Note: a call to "quick list print" [qlp()](/qlp.md) function.
 
 ```python
