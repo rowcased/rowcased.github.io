@@ -45,7 +45,8 @@ def test(code, start=None, stop=None):
         if TEST and p:
             print('TEST #', (t + 1), '\n')
         if GGG != 'Nope':
-            result = eval('code('+', '.join(['tests[t]['+str(i)+']' for i in range(len(list(inspect.getargspec(code))[0])-1)])+GGG+')')
+            result = eval('code('+', '.join(['tests[t]['+str(i)+']'
+                for i in range(len(list(inspect.getargspec(code))[0])-1)])+GGG+')')
         else:
             if code.__defaults__:
                 temp = list(code.__defaults__)
@@ -59,11 +60,11 @@ def test(code, start=None, stop=None):
                     else:
                         None
                 result = eval('code('+', '.join(['tests[t]['+str(i)+']'
-                         for i in range(len(list(inspect.getargspec(code))[0])-len(temp))])+', '+', '.join([str(default)
-                                                                                                                                                 for default in temp])+')')
+                    for i in range(len(list(inspect.getargspec(code))[0])-len(temp))])+', '+', '.join([str(default)
+                        for default in temp])+')')
             else:
                 result = eval('code('+', '.join(['tests[t]['+str(i)+']'
-                                                 for i in range(len(list(inspect.getargspec(code))[0]))])+')')
+                    for i in range(len(list(inspect.getargspec(code))[0]))])+')')
         answer=tests[t][-1]
         if result==answer:
             verdict='PASS'
