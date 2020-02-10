@@ -27,4 +27,4 @@ def timer(function, args=None, reps=1, show=True):
 
 
 
-[back to toolkit](/toolkit_page)
+[back to toolkit](/toolkit)
