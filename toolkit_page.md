@@ -2,7 +2,7 @@
 
 One of my favorite revelations about the art of coding came from wanting certain tools while working on personal projects on my computer and then realizing I could simply write those tools for myself. So I did, and it a success. Some of them are obsolete. Several were very useful. I learned a lot by creating them.
 
-1 [code_signal_tester()](/code_signal_tester.md)&nbsp;&nbsp;\~&nbsp;&nbsp;tests an algorithm afgainst a set of tests<br><br>
+1 [code_tester()](/code_tester.md)&nbsp;&nbsp;\~&nbsp;&nbsp;tests an algorithm against a set of tests<br><br>
 2 [dirp()](/dirp.md)&nbsp;&nbsp;\~&nbsp;&nbsp;takes in any Python object and pretty prints its directory items<br><br>
 3 [dot()](/dot.md)&nbsp;&nbsp;\~&nbsp;&nbsp;prints dots to show progress of a process in increments of tenths<br><br>
 4 [get_tests()](/get_tests.md)&nbsp;&nbsp;\~&nbsp;&nbsp;creates a tests suite for an algorithm from user input<br><br>
