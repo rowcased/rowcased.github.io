@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 [Codewars.com](/codewars.md)
 <img src="images/codewars kata.png?raw=true"/>
