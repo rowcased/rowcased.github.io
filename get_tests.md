@@ -16,7 +16,8 @@ def get_tests(num, show=False):
         print(' Enter Test',len(tests)+1,'Items:')
         while '' not in pars:
             varin=input(' ')
-            if not varin:break
+            if not varin:
+                break
             if varin[0]=='[':
                 if varin[-1]!=']':
                     tempL.append(eval(varin[1:-2]))
