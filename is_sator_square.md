@@ -10,4 +10,4 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 * 89% ~ member satisfaction rating
 
 
-<a href="https://rowcased.github.io/codewars_page.html#creator">(return to codewars page)</a>
+<a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
