@@ -7,11 +7,18 @@ This function is part of a larger program. Its purpose was to rename a function 
 ```python
 def rename(old, new):
     
-    '''   rename docstring   '''
+    '''   replaces occurances of a given
+          name with a replacement name '''
     
-    with open(new + '_raw.py','r', encoding = ('UTF-8')) as file: raw = file.read()
+    with open(new + '_raw.py','r',
+        encoding = ('UTF-8')) as file:
+            raw = file.read()
+            
     raw = raw.replace(old, new)
-    with open(new + '_raw.py','w', encoding = ('UTF-8')) as file: file.write(raw)
+    
+    with open(new + '_raw.py','w',
+        encoding = ('UTF-8')) as file:
+            file.write(raw)
 ```
 
 
