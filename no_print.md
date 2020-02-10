@@ -28,4 +28,4 @@ pon = print_on
 ```
 
 
-[back to toolkit](/toolkit_page)
+[back to toolkit](/toolkit)
