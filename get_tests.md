@@ -4,7 +4,7 @@ I wrote this function to input data for tests that were for asserting the validi
 <br>Note: these tests are used in the testing function: [code_signal_tester()](/code_signal_tester.md) function.
 
 ```python
-def getests(num):
+def get_tests(num):
     tests=[]
     tempL=[]
     while len(tests)!=num:
