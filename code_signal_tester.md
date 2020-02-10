@@ -20,7 +20,7 @@ def test(code, start=None, stop=None):
     if stop == 'nopr':
         GGG = ', '+str(-start)
         start = 1
-        p = None # def print(*args):return
+        p = None
         stop = len(tests)
     elif type(start) != int:
         if stop:
@@ -28,7 +28,7 @@ def test(code, start=None, stop=None):
         stop = len(tests)
         if start == 'nopr':
             start = 1
-            p = None # def print(*args):return
+            p = None
         elif not start:
             start = 1
             stop = len(tests)
@@ -74,10 +74,7 @@ def test(code, start=None, stop=None):
         else:
             num=str(t+1)
         if miltime:
-            True
-            #milt=testruns(progs,x,y,ans,reps)
-            #ttime+=float(milt)
-            #print('\n'+'  TEST',num,'= ('+milt+') '+verdict)           
+            True        
         else:
             if p:print('\n'+'  TEST',num,'=',verdict)
         if results:
