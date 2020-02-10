@@ -18,7 +18,7 @@ def getests(num):
                 if varin[-1]!=']':
                     tempL.append(eval(varin[1:-2]))
                 else:
-                    pars.append(eval(varin[:]))                  
+                    pars.append(eval(varin[:]))
             elif tempL:
                 if varin[-1]==']':
                     tempL.append(eval(varin[1:-1]))
@@ -27,7 +27,7 @@ def getests(num):
                 else:
                     tempL.append(eval(varin[1:-2]))
             else:
-                pars.append(eval(varin))          
+                pars.append(eval(varin))
         tests.append(pars)
     for t in tests:
         if t==tests[0]:
