@@ -7,7 +7,7 @@
 <img src="images/dev_toolz.png?raw=true"/>
 
 [Code Timer Program](/code_timer.md)
-<img src="images/timer_sceen_shot.jpg?raw=true"/>
+<img src="images/timer_sceen_shot.png?raw=true"/>
 
 [Portfolio](/portfolio.md)
 <img src="images/portfolio_screen_shot.png?raw=true"/>
