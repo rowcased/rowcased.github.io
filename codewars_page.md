@@ -33,7 +33,7 @@ Java          53
 ```
 
 <h3 id="translator"><br></h3>
-<a href="https://rowcased.github.io/codewars_page.html#translator">2. C Translator</a>
+<a href="https://rowcased.github.io/codewars_page.html#translator">###2. C Translator</a>
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the site. I really enjoyed this process and just kept on translating. I like the idea that coders around the globe are using my test suites to improve their skills. I learned about code structure, maintainability, and writing strong unit tests.
 
