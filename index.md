@@ -9,5 +9,5 @@
 [Code Timer Program](/code_timer.md)
 <img src="images/timer_screen_shot.png?raw=true"/>
 
-[Portfolio](/portfolio.md)
+[This Website](/portfolio.md)
 <img src="images/portfolio_screen_shot.png?raw=true"/>
