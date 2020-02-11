@@ -1,21 +1,17 @@
 title: Sean McCahill # your name (or website title) here
 logo: "/images/my_face.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  line 0
-  I am a self-taught programmer.
-  line 2
-  Skills: Python, C, JavaScript, HTML, CSS
-  line 4
-  line 5
-  line 6
-  line 7
-  line 8
-  line 9
-  line 10
-  <br>
-  <br>
-  <br>
-  <br>
+  line 0<br>
+  I am a self-taught programmer.<br>
+  line 2<br>
+  Skills: Python, C, JavaScript, HTML, CSS<br>
+  line 4<br>
+  line 5<br>
+  line 6<br>
+  line 7<br>
+  line 8<br>
+  line 9<br>
+  line 10<br>
   <!-- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
   
 theme: jekyll-theme-minimal
