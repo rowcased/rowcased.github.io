@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   line 2<br>
   Skills: Python, C, JavaScript, HTML, CSS<br>
   line 4<br>
-  line 5<br>
+  <p style="font-familt:menlo">this is an html paragraph</p><br>
   line 6<br>
   line 7 is different now<br>
   line 8<br>
