@@ -1,7 +1,7 @@
 title: Sean McCahill # your name (or website title) here
 logo: "/images/my_face.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  01234567890123456789012345678901234567890<br>
+  01234567890123456789012345678901234<br> <!-- 44 numbers marks the extent of (that) text to the picture-->
   I am a self-taught programmer.<br>
   line 2<br>
   Skills: Python, C, JavaScript, HTML, CSS<br>
