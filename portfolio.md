@@ -11,3 +11,6 @@ The site you are currenty navigating is one of my latest projects. I needed a ba
 
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
+
+<!-- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
+
