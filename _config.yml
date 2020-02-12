@@ -3,19 +3,19 @@ logo: "/images/my_face.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h0 style="font-family:menlo;font-size:9">01234567890123456789012345678901</h0><br> <!-- 44 numbers marks the extent of (that) text to the picture-->
   I am a self-taught programmer.<br>
-  line 2<br>
+  <br> <!-- line 2 left empty-->
   Skills: Python, C, JavaScript, HTML, CSS<br>
-  line 4<br>
+  <br> <!-- line 4 left empty-->
   <h0 style="font-family:menlo">this is an html header</h0><br>
-  line 6<br>
+  <br> <!-- line 6 left empty-->
   line 7 is different now<br>
-  line 8<br>
+  <br> <!-- line 8 left empty-->
   <h0 style="font-family:menlo;font-size:48">01234567890123456789012345678901</h0><br>
-  line 10<br>
-  line 11<br> 
+  <br> <!-- line 10 left empty-->
+  <br> <!-- line 11 left empty-->
   line 12<br> <!-- the last line to fit directly before the blurb, should be left empty-->
-  line 13<br> <!-- should be left empty-->
-  line 14<br> <!-- should be left empty-->
+  <br> <!-- line 13 left empty-->
+  <br> <!-- line 14 left empty-->
   line 15<br> <!-- it takes this many to push github link offpage-->
   <!-- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
   
