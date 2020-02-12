@@ -1,6 +1,6 @@
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
-#### Kata translated into C currently in use on Codewars.com
+## Kata translated into C currently in use on Codewars.com
 
 <!-- eventually these could be ranked by solves and live updated -->
 <!-- <a href="http://example.com/" target="_blank">Hello, world!</a> -->
