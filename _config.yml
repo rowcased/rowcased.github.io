@@ -8,9 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br> <!-- line 4 left empty-->
   <h0 style="font-family:menlo">this is an html header</h0><br>
   <br> <!-- line 6 left empty-->
-  line 7 is different now<br>
+  <br> <!-- line 7 is empty now -->
   <br> <!-- line 8 left empty-->
-  <h0 style="font-family:menlo;font-size:48">01234567890123456789012345678901</h0><br>
+  <br> <!-- line 9 left empty-->
   <br> <!-- line 10 left empty-->
   <br> <!-- line 11 left empty-->
   <br> <!-- the last line to fit directly before the blurb (line 12) should be left empty-->
