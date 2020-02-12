@@ -1,7 +1,7 @@
 ## Code Tester
 
 I wrote this program very early on in my study when I was working on a site now called Code Signal.
-<br>Note: it uses tests created by user input with this function: [get_tests()](/code_folder/get_tests.md) function.
+<br>Note: it uses tests created by user input with this function: [get_tests()](/get_tests.md) function.
 
 ```python
 def test(code, start=None, stop=None):
