@@ -132,10 +132,8 @@
 124  Yoga Class<br>
 125  You're a square!<br>
 
-<hr>
-<!-- MAKE THIS RETURN TO THE SPECIFIC SCROLL POSITION ON THE PAGE, WITH THE 2. Translator HEADING AT THE TOP -->
 <a href="https://rowcased.github.io/codewars.html#translator">(return to codewars page)</a>
-<hr>
+
 <!--
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 <hr>
