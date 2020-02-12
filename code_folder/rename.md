@@ -2,7 +2,7 @@
 
 This function is part of a larger program. Its purpose was to rename a function in a "_raw.py" file that contained many different solutions of the same function. These functions were later to be parsed fromm the raw file and then each run for time seperately [Code Timer Project](/code_timer.md).
 
-<br>Note: it contains a call to the [namer()](/code_folder/namer.md) function.
+<br>Note: it contains a call to the [namer()](/namer.md) function.
 
 ```python
 def rename(old, new):
