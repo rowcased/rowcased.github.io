@@ -6,132 +6,131 @@
 <!-- <a href="http://example.com/" target="_blank">Hello, world!</a> -->
 <!-- [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130){:target="_blank"} -->
 
-1 1RM Calculator<br>
-2 A String of Sorts<br>
-3 Absent vowel<br>
-4 Ackermann Function<br>
-5 Adding Big Numbers<br>
-6 Alan Partridge II - Apple Turnover<br>
-7 Alphabetical Addition<br>
-8 Alternate capitalization<br>
-9 Alternating between three values<br>
-10 Blackjack Scorer<br>
-11 Build a square<br>
-12 By 3, or not by 3? That is the question . . .<br>
-13 Closest elevator<br>
-14 Coding 3min: Virus in Apple<br>
-15 Collatz<br>
-16 Complete the table pattern<br>
-17 Computer problem series #1: Fill the Hard Disk Drive<br>
-18 Consonant value<br>
-19 Convert a Number to a String!<br>
-20 Count the divisible numbers<br>
-21 Count the number of cubes with paint on<br>
-22 Counting Duplicates<br>
-23 Decode the Morse code<br>
-24 Delete occurrences of element if occurs > n times<br>
-25 Difference of Volumes of Cuboids<br>
-26 Discover The Original Price<br>
-27 Do I get a bonus?<br>
-28 Remove n exclamation marks from left to right<br>
-29 Factorial<br>
-30 Find the Integral<br>
-31 Find the Mine!<br>
-32 Find the Nexus of the Codewars Universe<br>
-33 Find the force of gravity between two objects<br>
-34 Find the stray number<br>
-35 Framed Reflection<br>
-36 Function 1 - hello world<br>
-37 GCD sum<br>
-38 Generate range of integers<br>
-39 Geometry Basics: Cross Product in 3D<br>
-40 Greed is Good<br>
-41 Grouped by commas<br>
-42 How many stairs will Suzuki climb in 20 years?<br>
-43 If you can't sleep, just count sheep!!<br>
-44 Is It Negative Zero (-0)?<br>
-45 Is it a palindrome?<br>
-46 Is n divisible by x and y?<br>
-47 L1: Set Alarm<br>
-48 Longest palindrome<br>
-49 Matrix Addition<br>
-50 Maximum subarray sum<br>
-51 MinMinMax<br>
-52 Most valuable character<br>
-53 Music Fun #1 - Major Scale<br>
-54 New Cashier Does Not Know About Space or Shift<br>
-55 Not very secure<br>
-56 Numericals of a String<br>
-57 Odder Than the Rest<br>
-58 Olympic Rings<br>
-59 Ordered Count of Characters<br>
-60 Permute a Palindrome<br>
-61 Persistent Bugger.<br>
-62 Plus - minus - plus - plus - ... - Count<br>
-63 Power of two<br>
-64 Powers of 3<br>
-65 Principal Diagonal | VS | Secondary Diagonal<br>
-66 Progressive Spiral Number Position<br>
-67 Remove String Spaces<br>
-68 Remove anchor from URL<br>
-69 Return pyramids<br>
-70 Return the day<br>
-71 Reverse List Order<br>
-72 Reverse words<br>
-73 Shift Left<br>
-74 Shortest Knight Path<br>
-75 Shortest Word<br>
-76 Shortest steps to a number<br>
-77 Simple Fun #144: Distinct Digit Year<br>
-78 Simple Fun #63: Shape Area<br>
-79 Simple Fun #79: Delete a Digit<br>
-80 Simple Fun #87: Shuffled Array<br>
-81 Simple remove duplicates<br>
-82 Simple sum of pairs<br>
-83 Smallest possible sum<br>
-84 Spacify<br>
-85 Split and then add both sides of an array together.<br>
-86 Student's Final Grade<br>
-87 Sum of angles<br>
-88 Summing a number's digits<br>
-89 Take a Ten Minute Walk<br>
-90 The Feast of Many Beasts<br>
-91 The Ladies of ENIAC<br>
-92 The Spider and the Fly (Jumping Spider)<br>
-93 The wheat/rice and chessboard problem<br>
-94 This is a sadly story #1: Are they opposite?<br>
-95 Thinkful - String Drills: Repeater<br>
-96 Thinking & Testing : Something capitalized<br>
-97 Thinking & Testing : Uniq or not Uniq<br>
-98 Third Angle of a Triangle<br>
-99 Tick Toward<br>
-100 Total amount of points<br>
-101 Tower of Hanoi<br>
-102 Triangle type<br>
-103 Triangular Treasure<br>
-104 Tribonacci Sequence<br>
-105 Unlucky Days<br>
-106 Valid Parentheses<br>
-107 Valid Phone Number<br>
-108 Validate Credit Card Number<br>
-109 Vowel-consonant lexicon<br>
-110 Vowels Back<br>
-111 Welcome!<br>
-112 Well of Ideas - Easy Version<br>
-113 White or Black?<br>
-114 Who likes it?<br>
-115 Word values<br>
-116 Yoga Class<br>
-117 You're a square!<br>
-<hr>
-118 Binary to Text (ASCII) Conversion<br>
-119 Pokemon Damage Calculator<br>
-120 Count the divisors of a number<br>
-121 Thinking & Testing : True or False<br>
-122 Thinking & Testing : Retention and discard<br>
-123 Mean Square Error<br>
-124 Tetris Series #1 — Scoring System<br>
-125 Help Bob count letters and digits.<br>
+1  1RM Calculator
+2  A String of Sorts
+3  Absent vowel
+4  Ackermann Function 
+5  Adding Big Numbers
+6  Alan Partridge II - Apple Turnover
+7  Alphabetical Addition
+8  Alternate capitalization
+9  Alternating between three values
+10  Binary to Text (ASCII) Conversion
+11  Blackjack Scorer
+12  Build a square
+13  By 3, or not by 3? That is the question . . .
+14  Closest elevator
+15  Coding 3min: Virus in Apple
+16  Collatz
+17  Complete the table pattern
+18  Computer problem series #1: Fill the Hard Disk Drive
+19  Consonant value
+20  Convert a Number to a String!
+21  Count the divisible numbers
+22  Count the divisors of a number
+23  Count the number of cubes with paint on
+24  Counting Duplicates
+25  Decode the Morse code 
+26  Delete occurrences of an element if it occurs more than n times
+27  Difference of Volumes of Cuboids
+28  Discover The Original Price
+29  Do I get a bonus?
+30  Remove n exclamation marks in the sentence from left to right
+31  Factorial
+32  Find the Integral
+33  Find the Mine!
+34  Find the Nexus of the Codewars Universe
+35  Find the force of gravity between two objects
+36  Find the stray number
+37  Framed Reflection
+38  Function 1 - hello world
+39  GCD sum 
+40  Generate range of integers
+41  Geometry Basics: Cross Product in 3D
+42  Greed is Good
+43  Grouped by commas
+44  Help Bob count letters and digits.
+45  How many stairs will Suzuki climb in 20 years?
+46  If you can't sleep, just count sheep!!
+47  Is It Negative Zero (-0)?
+48  Is it a palindrome?
+49  Is n divisible by x and y?
+50  L1: Set Alarm
+51  Longest palindrome
+52  Matrix Addition
+53  Maximum subarray sum
+54  Mean Square Error
+55  MinMinMax
+56  Most valuable character
+57  Music Fun #1 - Major Scale
+58  New Cashier Does Not Know About Space or Shift 
+59  Not very secure
+60  Numericals of a String
+61  Odder Than the Rest
+62  Olympic Rings
+63  Ordered Count of Characters
+64  Permute a Palindrome
+65  Persistent Bugger.
+66  Plus - minus - plus - plus - ... - Count
+67  Pokemon Damage Calculator
+68  Power of two
+69  Powers of 3
+70  Principal Diagonal | VS | Secondary Diagonal
+71  Progressive Spiral Number Position
+72  Remove String Spaces
+73  Remove anchor from URL
+74  Return pyramids
+75  Return the day 
+76  Reverse List Order
+77  Reverse words
+78  Shift Left
+79  Shortest Knight Path
+80  Shortest Word
+81  Shortest steps to a number
+82  Simple Fun #144: Distinct Digit Year
+83  Simple Fun #63: Shape Area
+84  Simple Fun #79: Delete a Digit
+85  Simple Fun #87: Shuffled Array
+86  Simple remove duplicates
+87  Simple sum of pairs
+88  Smallest possible sum 
+89  Spacify
+90  Split and then add both sides of an array together.
+91  Student's Final Grade
+92  Sum of angles
+93  Summing a number's digits
+94  Take a Ten Minute Walk
+95  Tetris Series #1 — Scoring System
+96  The Feast of Many Beasts
+97  The Ladies of ENIAC
+98  The Spider and the Fly (Jumping Spider)
+99  The wheat/rice and chessboard problem
+100  Are they opposite?
+101  Thinkful - String Drills: Repeater
+102  Thinking & Testing : Retention and discard
+103  Thinking & Testing : Something capitalized
+104  Thinking & Testing : True or False
+105  Thinking & Testing : Uniq or not Uniq
+106  Third Angle of a Triangle
+107  Tick Toward
+108  Total amount of points
+109  Tower of Hanoi
+110  Triangle type
+111  Triangular Treasure
+112  Tribonacci Sequence
+113  Unlucky Days
+114  Valid Parentheses
+115  Valid Phone Number
+116  Validate Credit Card Number
+117  Vowel-consonant lexicon
+118  Vowels Back
+119  Welcome!
+120  Well of Ideas - Easy Version
+121  White or Black?
+122  Who likes it?
+123  Word values
+124  Yoga Class
+125  You're a square!
 
 <hr>
 <!-- MAKE THIS RETURN TO THE SPECIFIC SCROLL POSITION ON THE PAGE, WITH THE 2. Translator HEADING AT THE TOP -->
