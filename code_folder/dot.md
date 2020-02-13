@@ -10,7 +10,7 @@ def dot(lens=None):
    ''' prints dots based on the progress of a process.
        first called before a loop with length passed,
        then called with no argument for each iteration.
-       each tenth of progress; a progress dot appears'''
+       each 10th of progress; a progress dot appears'''
 
     if lens:
         if lens < 10:
