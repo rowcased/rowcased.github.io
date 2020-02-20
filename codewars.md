@@ -16,7 +16,7 @@ Being new to coding as I began Codewars, I was baffled by some challenges and so
 * 2kyu ~ rank (began as 8kyu)
 * 138 ~ leaderboard position 
 * 15,302 ~ honor points 
-* 0.072% ~ honor percentile
+* 0.071% ~ honor percentile
 * 3,058 ~ total correct solutions
     * 2,075 is the base number of distinct solved kata
     *   983 represents resolving in multiple languages
