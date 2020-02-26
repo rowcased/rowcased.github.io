@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a self-taught programmer.<br>
   <br> <!-- line 2 left empty-->
   Skills: Python, C, JavaScript, HTML, CSS<br>
-  <--!
+  <!--
   <br> <!-- line 4 left empty-->
   <br> <!-- line 5 left empty-->
   <br> <!-- line 6 left empty-->
