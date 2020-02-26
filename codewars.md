@@ -36,7 +36,7 @@ Java          59
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the site. I really enjoyed this process and just kept on translating. I like the idea that coders around the globe are using my test suites to improve their skills. I learned about code structure, maintainability, and writing strong unit tests.
 
-* 131 ~ number of [C translations available for use on Codewars](/C_translations)
+* 131 ~ number of my [C translations available for use on Codewars](/C_translations)
 * 19.4% ~ percentage these make of all 676 approved C kata
 * 14,926 ~ number of valid solves made collectively worldwide
 
