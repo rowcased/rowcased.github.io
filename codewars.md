@@ -14,21 +14,21 @@ At first I just <a href="https://rowcased.github.io/codewars.html#solver">solved
 Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
 <br>
 * 2kyu ~ rank (began as 8kyu)
-* 138 ~ leaderboard position 
-* 15,302 ~ honor points 
-* 0.071% ~ honor percentile
-* 3,058 ~ total correct solutions
-    * 2,075 is the base number of distinct solved kata
-    *   983 represents resolving in multiple languages
+* 135 ~ leaderboard position 
+* 15,504 ~ honor points 
+* Top 0.070% ~ honor percentile
+* 3,095 ~ total correct solutions
+    * 2,093 is the base number of distinct solved kata
+    * 1,002 represents resolving in multiple languages 
 <br>
 ```
-Python     1,674
-JavaScript   502
-C            465
-Ruby         107
+Python     1,686
+JavaScript   511
+C            474
+Ruby         108
 C#            73
-C++           66
-Java          55
+C++           68
+Java          59
 27 others    116
 ```
 
