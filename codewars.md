@@ -7,7 +7,7 @@ Codewars is a user-driven website with a highly interactive community, offering 
 
 #### My involvement
 
-At first I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding basics. When I moved on to C I soon begain <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata into that language. As my proficiency grew I branched out to a multitude of new languages. Soon I began <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original content. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding basics. C came next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added a multitude of languages. Eventually I started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. With additional honor and rank advancement, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
 <h3 id="solver"><br>1. Problem Solver</h3>
 
