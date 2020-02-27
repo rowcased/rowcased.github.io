@@ -11,7 +11,7 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 <h3 id="solver"><br>1. Problem Solver</h3>
 
-Being new to coding when I began Codewars, I found many kata baffling. Early solutions were inefficient or inelegant, but I strove to rapidly learn better algorithm practices by studying other coders' solutions. I found solving a kata in multiple languages offered many invaluable insights to coding.
+Being new to coding when I began Codewars, I found many kata baffling. Early solutions were inefficient or inelegant, but I strove to rapidly learn better algorithm practices by studying other coders' solutions. I found solving a kata in multiple languages offered invaluable insights to coding.
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 135 ~ leaderboard position 
