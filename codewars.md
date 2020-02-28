@@ -9,6 +9,12 @@ Codewars is a user-driven site with a very active community, offering thousands 
 
 First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
+<br><br>
+
+At first I just <a href="https://rowcased.github.io/codewars.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata into that language. Then I began to solve kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/codewars.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+
+<br><br>
+
 <h3 id="solver"><br>1. Problem Solver</h3>
 
 Being new to coding when I began Codewars, I found many kata baffling. Early solutions were inefficient or inelegant, but I strove to rapidly learn better algorithm practices by studying other coders' solutions. I found solving a kata in multiple languages offered invaluable insights to coding.
