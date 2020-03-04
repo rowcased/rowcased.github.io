@@ -56,8 +56,8 @@ Java          59
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the site. I really enjoyed this process and just kept on translating. I like the idea that coders around the globe are using my test suites to improve their skills. I learned about code structure, maintainability, and writing strong unit tests.
 
-* 131 ~ number of my [C translations available on Codewars](/C_translations)
-* 19.4% ~ percentage these make of all 676 approved C kata
+* 132 ~ number of my [C translations available on Codewars](/C_translations)
+* 19.4% ~ percentage these make of all 679 approved C kata
 * 14,926 ~ number of valid solves made collectively worldwide
 
 
@@ -115,7 +115,7 @@ One of the greatest features of Codewars is that it is mostly maintained by an u
 * report unethical / forbidden behavior
 * approve new kata for use on site
 * approve or reject kata translations
-* add / adjust kata test suites
+* repair & improve kata unit tests
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
