@@ -11,7 +11,7 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 <h3 id="solver"><br>1. Problem Solver</h3>
 
-I had zero skill when I first signed on. But I quickly learned how to learn by studyied other coders' solutions and reading the comments. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to learn a new language rapidly.
+I had zero skill when I first signed on. But I quickly learned how to learn by studying other coders' solutions and reading comments. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to learn a new language rapidly.
 
 
 
