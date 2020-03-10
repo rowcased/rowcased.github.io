@@ -9,7 +9,7 @@ Codewars is a very active user-driven site offering thousands of code challenges
 
 First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
-<h3 id="solver"><br>1. Problem Solver</h3>
+<h2 id="solver"><br>1. Problem Solver</h3>
 
 I had zero skill when I signed on. But I learned how to learn by studying other coders' solutions, reading the comments, and using tutorials. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to use documentation to more rapidly learn a new language.
 
@@ -32,7 +32,7 @@ Java          59
 27 others    116
 ```
 
-<h3 id="translator"><br>2. C Translator</h3>
+<h2 id="translator"><br>2. C Translator</h3>
 
 When I began C, I so was fascinated by how it differed from Python that I started creating translations into C for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
@@ -62,7 +62,7 @@ char *say_hello(const char *name) {
 }
 ```
 
-<h3 id="creator"><br>3. Kata Creator</h3>
+<h2 id="creator"><br>3. Kata Creator</h3>
 
 Codewars is built on user contributions. New kata begin in a beta stage, being scrutinized by moderators. Issues must be resolved and satisfaction must reach 80% prior to approval. Many never make it out of beta; it's hard to create new material for a site with over 8,000 kata! All three of mine were approved and were also translated to new languages by other members.
 
@@ -79,7 +79,7 @@ Codewars is built on user contributions. New kata begin in a beta stage, being s
 * 340 ~ number correct solutions submitted
 * 93.6% ~ average satisfaction rating
 
-<h3 id="moderator"><br>4. Site Moderator</h3>
+<h2 id="moderator"><br>4. Site Moderator</h3>
 
 One of the greatest features of Codewars is that it is mostly maintained by an unofficial network of moderators (power-users) that have earned site privileges through earning honor points. However, members that abuse their authority can be banned. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
 
