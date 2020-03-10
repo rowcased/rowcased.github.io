@@ -13,9 +13,7 @@ First I just <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 <br><br>
 
-First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding.
-
-C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
 <br><br>
 
