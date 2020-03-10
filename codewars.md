@@ -5,15 +5,15 @@
 <!-- <a href="https://codewars.com">Codewars</a> -->
 Codewars is a very active user-driven site offering thousands of code challenges in 48 languages. Borrowing from _Kendo_, challenges are called 'kata', a 'kyu' rank system is used, and points are known as 'honor'. As a member earns higher honor, they are granted additional site privileges.
 
-<br><br>
-
 #### My involvement
 
 First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
-<br><br>
-
 <h3 id="solver"><br>1. Problem Solver</h3>
+
+I signed on with no skill, unsure of solving kata. Soon I realized how useful the site was. I strove to learn better algorithm practices by studying other coders' solutions and reading comments. I used other tutorials and documentation to hone my skill. I especially found solving a kata in multiple languages offered invaluable insights to coding.
+
+<br><br>
 
 Being new to coding when I began Codewars, I found many kata baffling. Early solutions were inefficient or inelegant, but I strove to rapidly learn better algorithm practices by studying other coders' solutions. I found solving a kata in multiple languages offered invaluable insights to coding.
 
