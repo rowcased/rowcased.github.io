@@ -107,36 +107,37 @@
 99  Tetris Series #1 — Scoring System<br>
 100  The Feast of Many Beasts<br>
 101  The Ladies of ENIAC<br>
-102  The Spider and the Fly (Jumping Spider)<br>
-103  The wheat/rice and chessboard problem<br>
-104  Are they opposite?<br>
-105  Thinkful - String Drills: Repeater<br>
-106  Thinking & Testing : Retention and discard<br>
-107  Thinking & Testing : Something capitalized<br>
-108  Thinking & Testing : True or False<br>
-109  Thinking & Testing : Uniq or not Uniq<br>
-110  Third Angle of a Triangle<br>
-111  Tick Toward<br>
-112  Total amount of points<br>
-113  Tower of Hanoi<br>
-114  Triangle type<br>
-115  Triangular Treasure<br>
-116  Tribonacci Sequence<br>
-117  Two Joggers<br>
-118  Two Oldest Ages<br>
-119  Unlucky Days<br>
-120  Valid Parentheses<br>
-121  Valid Phone Number<br>
-122  Validate Credit Card Number<br>
-123  Vowel-consonant lexicon<br>
-124  Vowels Back<br>
-125  Welcome!<br>
-126  Well of Ideas - Easy Version<br>
-127  White or Black?<br>
-128  Who likes it?<br>
-129  Word values<br>
-130  Yoga Class<br>
-131  You're a square!<br>
+102  The Office VI - Sabbatical<br>
+103  The Spider and the Fly (Jumping Spider)<br>
+104  The wheat/rice and chessboard problem<br>
+105  Are they opposite?<br>
+106  Thinkful - String Drills: Repeater<br>
+107  Thinking & Testing : Retention and discard<br>
+108  Thinking & Testing : Something capitalized<br>
+109  Thinking & Testing : True or False<br>
+110  Thinking & Testing : Uniq or not Uniq<br>
+111  Third Angle of a Triangle<br>
+112  Tick Toward<br>
+113  Total amount of points<br>
+114  Tower of Hanoi<br>
+115  Triangle type<br>
+116  Triangular Treasure<br>
+117  Tribonacci Sequence<br>
+118  Two Joggers<br>
+119  Two Oldest Ages<br>
+120  Unlucky Days<br>
+121  Valid Parentheses<br>
+122  Valid Phone Number<br>
+123  Validate Credit Card Number<br>
+124  Vowel-consonant lexicon<br>
+125  Vowels Back<br>
+126  Welcome!<br>
+127  Well of Ideas - Easy Version<br>
+128  White or Black?<br>
+129  Who likes it?<br>
+130  Word values<br>
+131  Yoga Class<br>
+132  You're a square!<br>
 
 <a href="https://rowcased.github.io/codewars.html#translator">(return to codewars page)</a>
 
