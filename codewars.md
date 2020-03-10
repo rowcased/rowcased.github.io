@@ -13,7 +13,6 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 I had zero skill when I signed on. But I learned how to learn by studying other coders' solutions, reading the comments, and using tutorials. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to use documentation to more rapidly learn a new language.
 
-<br>
 * 2kyu ~ rank (began as 8kyu)
 * 135 ~ leaderboard position 
 * 15,504 ~ honor points 
