@@ -11,7 +11,9 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 <h3 id="solver"><br>1. Problem Solver</h3>
 
-I signed on with no skill, unsure of solving kata. Soon I realized how useful the site was. I strove to learn better algorithm practices by studying other coders' solutions and reading comments. I used other tutorials and documentation to hone my skill. I especially found solving a kata in multiple languages offered invaluable insights to coding.
+When first signed up I had no coding skill. Early  but with each small success I became more encouraged and 
+
+I quickly learned how to study other coders' solutions and strove to learn better algorithm practices by studying other coders' solutions and reading comments. I used other tutorials and documentation to hone my skill. I especially found solving a kata in multiple languages offered invaluable insights to coding.
 
 <br><br>
 
@@ -45,6 +47,12 @@ Java          59
 ```
 
 <h3 id="translator"><br>2. C Translator</h3>
+
+After studying only Python for many months I decided to finally begin learning C. I became fascinated with the comparisons between the languages and began submitting translations to the site. This taught me about language conventions, quality code structure, maintainability, and especially writing strong unit tests.
+
+
+<br><br>
+
 
 One day I tried translating a kata from Python to C. It was reviewed by a moderator, I made some revisions, and it was approved for use on the site. I really enjoyed this process and just kept on translating. I like the idea that coders around the globe are using my test suites to improve their skills. I learned about code structure, maintainability, and writing strong unit tests.
 
