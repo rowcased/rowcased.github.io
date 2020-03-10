@@ -54,7 +54,7 @@ Java          59
 
 <h3 id="translator"><br>2. C Translator</h3>
 
-When I finally began C I was fascinated by the language comparisons, so I started creating translations into C for the site. I learned about code structure, maintainability, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
+When I began C, I so was fascinated by how it differed from Python that I started creating translations into C for the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
 
 <br><br>
