@@ -11,7 +11,7 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 <h3 id="solver"><br>1. Problem Solver</h3>
 
-I signed up with no skill. Katas baffled me at first. So I strove to improve my algorithmic practices by studying other coders' solutions, reading comments, and using documentation / tutorials. I found that resolving a kata in multiple languages offered invaluable insights into coding as well as how to learn a new language rapidly.
+I signed up with no skill, so kata first baffled me. So I studied other coders' solutions, read comments, used tutorials & documentation. I learned that solving a kata in multiple languages offered invaluable insights into coding as well as how to learn a new language rapidly.
 
 
 
