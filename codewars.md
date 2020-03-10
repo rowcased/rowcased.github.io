@@ -13,25 +13,6 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 I had zero skill when I signed on. But I learned how to learn by studying other coders' solutions, reading the comments, and using tutorials. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to use documentation to learn a new language rapidly.
 
-
-
-offered invaluable insights to coding.
-
-<br><br>
-
-I quickly learned how to study other coders' solutions and strove to learn better algorithm practices by studying other coders' solutions and reading comments. I used other tutorials and documentation to hone my skill. I especially found solving a kata in multiple languages offered invaluable insights to coding.
-
-<br><br>
-
-Being new to coding when I began Codewars, I found many kata baffling. Early solutions were inefficient or inelegant, but I strove to rapidly learn better algorithm practices by studying other coders' solutions. I found solving a kata in multiple languages offered invaluable insights to coding.
-
-<br><br>
-
-Being new to coding as I began Codewars, I was baffled by some challenges and some early solutions were inefficient. I rapidly learned about algorithm best practices by reading comments and studying other people's solutions. Solving a kata in multiple languages offered invaluable insights to coding. I never imagined I would solve so many kata and learn as much as I have.
-
-<br><br>
-
-
 <br>
 * 2kyu ~ rank (began as 8kyu)
 * 135 ~ leaderboard position 
