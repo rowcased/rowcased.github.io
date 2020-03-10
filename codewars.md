@@ -5,23 +5,25 @@
 <!-- <a href="https://codewars.com">Codewars</a> -->
 Codewars is a very active user-driven site offering thousands of code challenges in 48 languages. Borrowing from _Kendo_, challenges are called 'kata', a 'kyu' rank system is used, and points are known as 'honor'. As a member earns higher honor, they are granted additional site privileges.
 
-
-Codewars is a user-driven site with a very active community, offering thousands
-of diverse coding challenges in 48 languages. The site uses a ‘kyu’ ranking system from _Kendo_. Challenges are called ‘kata’ and points 'honor'. Additional site privileges are granted at higher honor levels.
-
-<br><br>
-
-Codewars is a user-driven website with a highly interactive community, offering thousands of diverse coding challenges in almost 50 supported languages. The site borrows a ‘kyu’ rank system from _Kendo_ and refers to challenges as ‘kata’. Points earned are called _honor_. As increasing levels of honor are achieved, additional site privileges are granted to a member.
-
 <br><br>
 
 #### My involvement
 
-First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+First I just <a href="https://rowcased.github.io/codewars.html#solver">solved</a> a lot of kata in Python to learn coding. Next I started C I also learned to <a href="https://rowcased.github.io/codewars.html#translator">translate</a> kata to that language. Later I began to solve kata in a multitiude of languages and also started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
 <br><br>
 
-At first I just <a href="https://rowcased.github.io/codewars.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding. Eventually I studied C and started <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata into that language. Then I began to solve kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/codewars.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding.
+
+C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+
+<br><br>
+
+At first I just <a href="https://rowcased.github.io/codewars.html#solver">solved</a> a lot of kata in Python as I learned the basics of coding.
+
+Eventually I studied C and started <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata into that language.
+
+Then I began to solve kata in a multitude of  new languages. I also finally <a href="https://rowcased.github.io/codewars.html#creator">created</a> several original kata. As I earned additional honor and advanced through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
 <br><br>
 
