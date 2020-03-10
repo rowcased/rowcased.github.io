@@ -57,7 +57,7 @@ Java          59
 When I began C, I so was fascinated by how it differed from Python that I started creating translations into C for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
 * 132 ~ number of my [C translations available on Codewars](/C_translations)
-* 19.4% ~ percentage these make of all 679 approved C kata
+* 19.4% ~ percentage these make of all 680 approved C kata
 * 14,926 ~ number of valid solves made collectively worldwide
 
 ```python
