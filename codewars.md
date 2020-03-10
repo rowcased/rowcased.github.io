@@ -15,8 +15,8 @@ I had zero skill when I signed on. But I learned how to learn by studying other 
 
 * 2kyu ~ rank (began as 8kyu)
 * 135 ~ leaderboard position 
-* 15,504 ~ honor points 
-* Top 0.070% ~ honor percentile
+* 15,689 ~ honor points 
+* Top 0.069% ~ honor percentile
 * 3,095 ~ total correct solutions
     * 2,093 is the base number of distinct solved kata
     * 1,002 represents resolving in multiple languages 
