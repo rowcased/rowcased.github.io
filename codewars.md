@@ -54,7 +54,7 @@ Java          59
 
 <h3 id="translator"><br>2. C Translator</h3>
 
-After studying only Python for many months I decided to finally begin learning C. I became fascinated with the comparisons between the languages and began submitting translations to the site. This taught me about language conventions, quality code structure, maintainability, and especially writing strong unit tests.
+After months of only Python, I finally began C. Fascinated by the comparisons, I started submitting translations from Python to C for use on the site. I learned about conventions, code structure, maintainability, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
 
 <br><br>
