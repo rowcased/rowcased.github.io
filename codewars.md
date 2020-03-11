@@ -19,15 +19,16 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * Top 0.069% ~ honor percentile
 * 2,117 ~ number of distinct solved kata
 * 1,030 ~ resolved in multiple languages
-* 3,147 ~ total correct solutions<br>
+* 3,147 ~ total correct solutions<br><br>
   * <h style="white-space: pre;">Python      1,706</h>
   * <h style="white-space: pre;">JavaScript    519</h>
   * <h style="white-space: pre;">C                   478</h>
   * <h style="white-space: pre;">Ruby             115</h>
-  * <h style="white-space: pre;">C#                  78</h>
-  * <h style="white-space: pre;">C++                 69</h>
-  * <h style="white-space: pre;">Java                65</h>
+  * <h style="white-space: pre;">C#                   78</h>
+  * <h style="white-space: pre;">C++                  69</h>
+  * <h style="white-space: pre;">Java                 65</h>
   * <h style="white-space: pre;">27 others     117</h>
+  * <h style="{white-space: pre, font-size: 15px};">27 others     117</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
