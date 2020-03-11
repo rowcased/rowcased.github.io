@@ -88,7 +88,7 @@ One of the interesting features if Codewars is that it's maintained by its own m
 * directly edit live production code
 * post issues on kata with faults
 * resolve kata issues (often bogus)
-* assist newer members debug their code
+* help newer members debug their code
 * vote on new beta kata submissions 
 * rank new beta kata submissions
 * report unethical / forbidden behavior
