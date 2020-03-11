@@ -20,32 +20,14 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * 2,117 ~ number of distinct solved kata
 * 1,030 ~ resolved in multiple languages
 * 3,147 ~ total correct solutions<br><br>
-```
-Python      1,706
-JavaScript    519
-C             478
-Ruby          115
-C#             78
-C++            69
-Java           65
-27 others     117
-```
-   <br>
-one<br>
-two<br>
-
-
-  * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,706
-  * JavaScript&nbsp;&nbsp;&nbsp;&nbsp;519
-  * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;478
-  * Ruby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;115
-  * C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;78
-  * C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69
-  * Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65
-  * 27 others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;117
-  * <h style="white-space: pre;">27 others          117</h>
-  * <p style="white-space: pre;">27 others          117</p>
-  * <pre style="white-space: pre;">27 others          117</pre>
+  * <h style="white-space: pre;">Python      1,706</h>
+  * <h style="white-space: pre;">JavaScript    519</h>
+  * <h style="white-space: pre;">C             478</h>
+  * <h style="white-space: pre;">Ruby          115</h>
+  * <h style="white-space: pre;">C#             78</h>
+  * <h style="white-space: pre;">C++            69</h>
+  * <h style="white-space: pre;">Java           65</h>
+  * <h style="white-space: pre;">27 others     117</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
