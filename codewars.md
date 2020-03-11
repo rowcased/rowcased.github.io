@@ -64,7 +64,7 @@ char *say_hello(const char *name) {
 
 <h2 id="creator"><br>3. Kata Creator</h2>
 
-Codewars is built on user contributions. A new kata begin in a beta stage under the scrutiny of moderators. Issues must be resolved and satisfaction must reach 80% prior to approval. Each of the kata I created were well-received and also translated to new languages by other members.
+Codewars is built entirely on user contributions. A new kata begins in a beta stage under the scrutiny of moderators where any issues must be resolved and satisfaction must reach 80% prior to approval. Each of the kata I created were well-received and also translated to new languages by other members.
 
 1 [is_sator_square](https://rowcased.github.io/is_sator_square)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square. -->
@@ -81,7 +81,7 @@ Codewars is built on user contributions. A new kata begin in a beta stage under 
 
 <h2 id="moderator"><br>4. Site Moderator</h2>
 
-One of the greatest features of Codewars is that it is mostly maintained by an unofficial network of moderators (power-users) that have earned site privileges through earning honor points. However, members that abuse their authority can be banned. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
+Codewars a maintained by its own members. An unofficial network of power-users with full site privileges. However, members that abuse their authority can be banned. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
 
 * answer questions on the dashboard
 * address suggestions made for kata
