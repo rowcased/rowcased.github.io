@@ -20,14 +20,14 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * 3,095 ~ total correct solutions
 <br>&nbsp;&nbsp;[  2,093 is the base number of distinct solved kata
 <br>&nbsp;&nbsp;&nbsp;&nbsp;1,002 represents resolving in multiple languages  ]
-  * Python     1,686
-  * JavaScript   511
-  * C            474
-  * Ruby         108
-  * C#            73
-  * C++           68
-  * Java          59
-  * 27 others    116
+  * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,686
+  * JavaScript&nbsp;&nbsp;&nbsp;511
+  * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;474
+  * Ruby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;108
+  * C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73
+  * C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;68
+  * Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59
+  * 27 others&nbsp;&nbsp;&nbsp;&nbsp;116
 
 <br>
 
