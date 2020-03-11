@@ -17,7 +17,7 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * 135 ~ leaderboard position 
 * 15,689 ~ honor points 
 * Top 0.069% ~ honor percentile
-* 3,095 ~ total correct solutions
+* 3,095 ~ total correct solutions<br>
 &nbsp;&nbsp;2,093 is the base number of distinct solved kata
 &nbsp;&nbsp;1,002 represents resolving in multiple languages 
   * Python     1,686
