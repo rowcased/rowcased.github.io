@@ -14,20 +14,20 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 I had zero skill when I signed on, but quickly learned how to learn; studying other coders' solutions, reading the comments, and using tutorials. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to use documentation to more rapidly learn a new language.
 
 * 2kyu ~ rank (began as 8kyu)
-* 135 ~ leaderboard position 
-* 15,689 ~ honor points 
+* 136 ~ leaderboard position 
+* 15,708 ~ honor points 
 * Top 0.069% ~ honor percentile
-* 2,093 ~ number of distinct solved kata
-* 1,002 ~ resolved in multiple languages
-* 3,095 ~ total correct solutions<br><br>
-  * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,686
-  * JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;511
-  * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;474
-  * Ruby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;108
-  * C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;73
-  * C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;68
-  * Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59
-  * 27 others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;116
+* 2,117 ~ number of distinct solved kata
+* 1,030 ~ resolved in multiple languages
+* 3,147 ~ total correct solutions<br><br>
+  * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,706
+  * JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;519
+  * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;478
+  * Ruby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;115
+  * C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;78
+  * C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69
+  * Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65
+  * 27 others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;117
  
 <h2 id="translator"><br>2. C Translator</h2>
 
