@@ -18,8 +18,8 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * 15,689 ~ honor points 
 * Top 0.069% ~ honor percentile
 * 3,095 ~ total correct solutions
-<br>&nbsp;&nbsp;&nbsp;&nbsp;base number of distinct solved kata: 2,093
-<br>&nbsp;&nbsp;&nbsp;&nbsp;resolved kata in multiple languages: 1,002
+<br>&nbsp;&nbsp;&nbsp;[  number of distinct solved kata: 2,093
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;resolved in multiple languages: 1,002  ]
   * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,686
   * JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;511
   * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;474
