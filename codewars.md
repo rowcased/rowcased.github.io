@@ -19,7 +19,7 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * Top 0.069% ~ honor percentile
 * 2,093 ~ number of distinct solved kata
 * 1,002 ~ resolved in multiple languages
-* 3,095 ~ total correct solutions<br>
+* 3,095 ~ total correct solutions<br><br>
   * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,686
   * JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;511
   * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;474
