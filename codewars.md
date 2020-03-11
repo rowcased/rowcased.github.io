@@ -18,19 +18,18 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * 15,689 ~ honor points 
 * Top 0.069% ~ honor percentile
 * 3,095 ~ total correct solutions
-    * 2,093 is the base number of distinct solved kata
-    * 1,002 represents resolving in multiple languages 
+  * Python     1,686
+  * JavaScript   511
+  * C            474
+  * Ruby         108
+  * C#            73
+  * C++           68
+  * Java          59
+  * 27 others    116
+  2,093 is the base number of distinct solved kata
+  1,002 represents resolving in multiple languages 
 <br>
-```
-Python     1,686
-JavaScript   511
-C            474
-Ruby         108
-C#            73
-C++           68
-Java          59
-27 others    116
-```
+
 
 <h2 id="translator"><br>2. C Translator</h2>
 
