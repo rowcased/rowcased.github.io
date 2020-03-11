@@ -28,7 +28,7 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
   * C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69
   * Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65
   * 27 others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;117
-  * <h style={"fontfamnily:menlo"}>27 others          117</h>
+  * <h style={"font famnily:menlo"}>27 others          117</h>
  
 <h2 id="translator"><br>2. C Translator</h2>
 
