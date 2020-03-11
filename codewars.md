@@ -38,16 +38,14 @@ When I began C, I was so fascinated by how it differed from Python that I starte
 * 14,926 ~ number of valid solves made collectively worldwide
 
 ```python
-# an example of a simple Python function
 def say_hello(name):
     greet = "Hello, {}!".format(name)
     print(greet)
-    return greet
+    return greet # an example of a simple Python function
 ```
 ```c
-// the equivalent code translated to C
-#include <stdlib.h>
-#include <string.h>
+#include <stdlib.h> // the equivalent code
+#include <string.h> // translated to C
 #include <stdio.h>
 
 char *say_hello(const char *name) {
