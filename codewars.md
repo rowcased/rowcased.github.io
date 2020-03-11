@@ -38,7 +38,7 @@ When I began C, I was so fascinated by how it differed from Python that I starte
 * 14,926 ~ number of valid solves made collectively worldwide
 
 ```python
-def say_hello(name):
+def say_hello(name="World"):
     greet = "Hello, {}!".format(name)
     print(greet)                     #  a simple Python
     return greet                     # function example
@@ -49,9 +49,9 @@ def say_hello(name):
 #include <stdio.h>
 
 char *say_hello(const char *name) {
-    size_t n = strlen(name);
-    char *greet = (char*) malloc((n+10) * sizeof(char));
-    sprintf(greet, "Hello, %s!\n", name);
+    size_t n = name ? strlen(name) + 9 : 14;
+    char *greet = (char*) malloc(n * sizeof(char));
+    sprintf(greet, "Hello, %s!\n", name ? name : "World");
     printf("%s", greet);
     return greet;
 }
