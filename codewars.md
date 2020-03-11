@@ -81,7 +81,7 @@ Codewars is built entirely on user contributions. A new kata begins in a beta st
 
 <h2 id="moderator"><br>4. Site Moderator</h2>
 
-Codewars a maintained by its own members. An unofficial network of power-users with full site privileges. However, members that abuse their authority can be banned. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
+One of the great features if Codewars is that it's maintained by its own members, largely an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to help maintain the site and improve its overall quality. 
 
 * answer questions on the dashboard
 * address suggestions made for kata
