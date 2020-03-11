@@ -40,12 +40,12 @@ When I began C, I was so fascinated by how it differed from Python that I starte
 ```python
 def say_hello(name):
     greet = "Hello, {}!".format(name)
-    print(greet)               #        an example of a 
-    return greet               # simple Python function
+    print(greet)                     #  a simple Python
+    return greet                     # function example
 ```
 ```c
-#include <stdlib.h>              // the equivalent code
-#include <string.h>                  // translated to C
+#include <stdlib.h>                 //  equivalent code
+#include <string.h>                 //  translated to C
 #include <stdio.h>
 
 char *say_hello(const char *name) {
