@@ -40,9 +40,9 @@ Java           65
   * C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69
   * Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65
   * 27 others&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;117
-  * <h style="white-space: nowrap;">27 others          117</h>
-  * <p style="white-space: nowrap;">27 others          117</p>
-  * <pre style="white-space: nowrap;">27 others          117</pre>
+  * <h style="white-space: pre-wrap;">27 others          117</h>
+  * <p style="white-space: pre-wrap;">27 others          117</p>
+  * <pre style="white-space: pre-wrap;">27 others          117</pre>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
