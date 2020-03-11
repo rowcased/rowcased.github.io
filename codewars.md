@@ -20,6 +20,18 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 * 2,117 ~ number of distinct solved kata
 * 1,030 ~ resolved in multiple languages
 * 3,147 ~ total correct solutions<br><br>
+```
+Python      1,706
+JavaScript    519
+C             478
+Ruby          115
+C#             78
+C++            69
+Java           65
+27 others     117
+```
+
+
   * Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,706
   * JavaScript&nbsp;&nbsp;&nbsp;&nbsp;519
   * C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;478
