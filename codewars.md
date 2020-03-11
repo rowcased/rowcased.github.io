@@ -72,7 +72,7 @@ Codewars is built entirely on user contributions. A new kata begins in a beta st
 
 * 1,276 ~ number of members attempting my kata
 * 352 ~ number correct solutions submitted
-* 93.6% ~ average satisfaction rating
+* 93.6% ~ overall satisfaction rating
 
 <h2 id="moderator"><br>4. Site Moderator</h2>
 
