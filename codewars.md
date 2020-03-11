@@ -28,7 +28,6 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
   * <h style="white-space: pre;">C++                  69</h>
   * <h style="white-space: pre;">Java                 65</h>
   * <h style="white-space: pre;">27 others     117</h>
-  * <h style="{white-space: pre, font-size: 15px};">27 others     117</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
