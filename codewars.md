@@ -36,9 +36,9 @@ Next, I began learning C. My fascination with language differences moved me to c
 Other translators have copied over my C test suites for use in other languages, such as NASM.
 Then there's the _hajime_.
 
-* 132 ~ number of my [C translations available on Codewars](/C_translations)
-* 19.4% ~ percentage these make of all 680 approved C kata
-* 14,926 ~ number of valid solves made collectively worldwide
+* 135 ~ number of my [C translations available on Codewars](/C_translations)
+* 19.7% ~ percentage these make of all 685 approved C kata
+* 15,000+ ~ number of valid solves made collectively worldwide
 
 ```python
 def say_hello(name="World"):
