@@ -43,12 +43,12 @@ Then there's the _hajime_.
 ```python
 def say_hello(name="World"):
     greet = "Hello, {}!".format(name)
-    print(greet)                     #  a simple Python
-    return greet                     # function example
+    print(greet)
+    return greet               # simple Python function
 ```
 ```c
-#include <stdlib.h>                 //  equivalent code
-#include <string.h>                 //  translated to C
+#include <stdlib.h>            //  equivalent code in C
+#include <string.h>
 #include <stdio.h>
 
 char *say_hello(const char *name) {
