@@ -7,7 +7,7 @@ Codewars is a very active user-driven site offering thousands of coding challeng
 
 #### My involvement
 
-First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. C was next and I began <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn coding. Then I began C and stated <a href="https://rowcased.github.io/codewars.html#translator">translating</a> kata to that language. As my proficiency grew I added many new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
 
 <h2 id="solver"><br>1. Problem Solver</h2>
 
@@ -32,6 +32,9 @@ I had zero skill when I signed on, but quickly learned how to learn; studying ot
 <h2 id="translator"><br>2. C Translator</h2>
 
 When I began C, I was so fascinated by how it differed from Python that I started creating translations into C for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
+
+Other translators have copied over my C test suites for use in other languages, such as NASM.
+Then there's the _hajime_.
 
 * 132 ~ number of my [C translations available on Codewars](/C_translations)
 * 19.4% ~ percentage these make of all 680 approved C kata
