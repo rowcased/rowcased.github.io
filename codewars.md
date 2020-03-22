@@ -11,7 +11,7 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 
 <h2 id="solver"><br>1. Problem Solver</h2>
 
-Inexperienced at first, I quickly learned how to learn, studying other coders' solutions, reading the comments, and using tutorials. I found solving a kata in multiple languages offered invaluable insights into coding, as well as how to use documentation to more rapidly learn a new language.
+Inexperienced at first, I quickly learned how to learn, studying other coders' solutions, reading comments, and using tutorials. I found solving kata in multiple languages offered invaluable insights, taught me to and use documentation to rapidly learn new languages.
 
 * 2kyu ~ rank (began as 8kyu)
 * 136 ~ leaderboard position 
