@@ -14,20 +14,20 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 Inexperienced at first, I quickly learned how to learn, studying other coders' solutions, reading comments, and using tutorials. I found that solving a kata in multiple languages offered invaluable insights to coding, plus how to use documentation to more rapidly learn new languages.
 
 * 2kyu ~ rank (began as 8kyu)
-* 136 ~ leaderboard position 
-* 15,708 ~ honor points 
+* 138 ~ leaderboard position 
+* 15,895 ~ honor points 
 * Top 0.069% ~ honor percentile
-* 2,117 ~ number of distinct solved kata
-* 1,030 ~ resolved in multiple languages
-* 3,147 ~ total correct solutions<br><br>
-  * <h style="white-space: pre;">Python      1,706</h>
-  * <h style="white-space: pre;">JavaScript    519</h>
-  * <h style="white-space: pre;">C                   478</h>
-  * <h style="white-space: pre;">Ruby             115</h>
-  * <h style="white-space: pre;">C#                   78</h>
-  * <h style="white-space: pre;">C++                  69</h>
-  * <h style="white-space: pre;">Java                 65</h>
-  * <h style="white-space: pre;">27 others     117</h>
+* 2,141 ~ number of distinct solved kata
+* 1,064 ~ resolved in multiple languages
+* 3,205 ~ total correct solutions<br><br>
+  * <h style="white-space: pre;">Python      1,722</h>
+  * <h style="white-space: pre;">JavaScript    531</h>
+  * <h style="white-space: pre;">C                   487</h>
+  * <h style="white-space: pre;">Ruby             123</h>
+  * <h style="white-space: pre;">C#                   79</h>
+  * <h style="white-space: pre;">C++                  70</h>
+  * <h style="white-space: pre;">Java                 64</h>
+  * <h style="white-space: pre;">27 others     124</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
