@@ -31,7 +31,7 @@ Inxperienced at first, I quickly learned how to learn, studying other coders' so
   
 <h2 id="translator"><br>2. C Translator</h2>
 
-My fascination with how C differed from Python lead me to create translations for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
+My fascination with differences from Python lead me to create C translations for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
 Other translators have copied over my C test suites for use in other languages, such as NASM.
 Then there's the _hajime_.
