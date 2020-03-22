@@ -31,7 +31,7 @@ I had zero skill when I joined, but quickly learned how to learn; by studying ot
   
 <h2 id="translator"><br>2. C Translator</h2>
 
-When I began C, I was so fascinated by how it differed from Python that I started creating translations into C for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
+Next, I began learning C. My fascination with language differences moved me to create translations for use on the site. I learned about code structure quality, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
 Other translators have copied over my C test suites for use in other languages, such as NASM.
 Then there's the _hajime_.
