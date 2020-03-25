@@ -56,10 +56,10 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 </style>
 <!--<body style="text-align:center;">-->
 <body>
-<h2>Production Coda</h2>
+<!--<h2>Production Coda</h2>-->
 <p>Move the mouse over the text below:</p>
 
-<div class="tooltip">Hover over me
+<div class="tooltip">Production Codet
   <span class="tooltiptext">Production Coday</span>
 </div>
 
