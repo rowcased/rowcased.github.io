@@ -6,13 +6,6 @@
 <br>
 This kata was based on a stone tablet found in the ruins of Pompeii which is in the form of a 2D palindrome. The solver must study the characters of the input to determine whether it conforms to the structure of a <a href="https://en.wikipedia.org/wiki/Sator_Square">sator square</a>.
 
-
-### Stats
-* 7 kyu ~ kata difficulty ranking (1 kyu being the hardest)
-* 347 ~ number of members attempting this kata
-* 101 ~ number correct solutions submitted
-* 89% ~ member satisfaction rating
-
 <html>
 <style>
 .tooltip {
@@ -63,6 +56,15 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 <!--<h2>Production Coda</h2>-->
 <!--<p>Move the mouse over the text below:</p>-->
 
+<hr><hr>
+
+### Stats
+* 7 kyu ~ kata difficulty ranking (1 kyu being the hardest)
+* 347 ~ number of members attempting this kata
+* 101 ~ number correct solutions submitted
+* 89% ~ member satisfaction rating
+
+<hr><hr>
 <div class="tooltip" style="font:bold">Production Code
   <span class="tooltiptext">Each language link shows a collection of 5 files that make the production code for this kata. Each file exists as a seperate component of the kata test suite.</span>
 </div>
