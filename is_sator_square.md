@@ -19,8 +19,7 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 
 
 <a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
-<!DOCTYPE html>
-<html>
+
 <style>
 .tooltip {
   position: relative;
@@ -71,4 +70,3 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 </div>
 
 </body>
-</html>
