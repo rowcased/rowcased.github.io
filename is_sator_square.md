@@ -39,7 +39,7 @@
   opacity: 1;
 }
 </style>
-<body style="text-align:center;">
+<!--<body style="text-align:center;">-->
 
 ## Is Sator Square?
 <img src="images/is_sator_square_screen_shot.png?raw=true"/>
