@@ -65,11 +65,11 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 <a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
 
 
-<h2>Tooltip</h2>
+<h2>Production Coda</h2>
 <p>Move the mouse over the text below:</p>
 
 <div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
+  <span class="tooltiptext">Production Coday</span>
 </div>
 
 </body>
