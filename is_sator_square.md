@@ -60,7 +60,7 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 
 <!---### Stats-->
 
-<div style="font:bold">Stats
+<div style="color: black; font-weight: bold; font: times; font-size: 16px;">Stats
 </div>
 
 
