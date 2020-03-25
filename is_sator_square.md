@@ -4,7 +4,7 @@
 <img src="images/is_sator_square_screen_shot.png?raw=true"/>
 <br>
 <br>
-This kata was based on a stone tablet found in the ruins of Pompeii which is in the form of a 2D palindrome. The solver must study the characters on the square to determine whether it conforms to the structure of a <a href="https://en.wikipedia.org/wiki/Sator_Square">sator square</a>.
+This kata was based on a stone tablet found in the ruins of Pompeii which is in the form of a 2D palindrome. The solver must study the characters of the input to determine whether it conforms to the structure of a <a href="https://en.wikipedia.org/wiki/Sator_Square">sator square</a>.
 
 
 ### Stats
