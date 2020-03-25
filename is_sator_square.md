@@ -66,11 +66,11 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 <div class="tooltip" style="font:bold">Production Code
   <span class="tooltiptext">Each language link shows a collection of 5 files that make the production code for this kata. Each file exists as a seperate component of the kata test suite.</span>
 </div>
-<br>
+
 </body>
 </html>
 
-
+<br>
 <!--### Production Code-->
 * <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square%20Python%20code/is_sator_square_Python_0_complete.py">Python</a>
 * <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square%20Python%20code/is_sator_square_Python_0_complete.py">Python</a>
