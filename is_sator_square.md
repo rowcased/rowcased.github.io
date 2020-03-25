@@ -40,6 +40,7 @@
 }
 </style>
 <!--<body style="text-align:center;">-->
+<body>
 
 ## Is Sator Square?
 <img src="images/is_sator_square_screen_shot.png?raw=true"/>
