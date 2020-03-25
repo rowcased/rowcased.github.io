@@ -19,3 +19,7 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 
 
 <a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
+
+<a href="https://github.com/rowcased/rowcased.github.io/blob/master/tool_tipper.html">(return to codewars page)</a>
+
+
