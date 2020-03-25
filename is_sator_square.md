@@ -58,9 +58,9 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 
 <hr><hr>
 
-### Stats
+<!---### Stats-->
 
-<div style="font:bold">Production Code
+<div style="font:bold">Stats
 </div>
 
 
