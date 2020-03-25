@@ -59,9 +59,9 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 <!--<h2>Production Coda</h2>-->
 <!--<p>Move the mouse over the text below:</p>-->
 
-<div class="tooltip">Production Codet
+<h2 class="tooltip">Production Code
   <span class="tooltiptext">Each language link shows a collection of 5 files that make the production code for this kata. Each file exists as a seperate component of the kata test suite.</span>
-</div>
+</h2>
 
 </body>
 </html>
