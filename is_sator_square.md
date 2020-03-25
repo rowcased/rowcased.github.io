@@ -18,7 +18,7 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
+  <!--border-bottom: 1px dotted black;-->
 }
 
 .tooltip .tooltiptext {
