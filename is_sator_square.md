@@ -56,8 +56,6 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 <!--<h2>Production Coda</h2>-->
 <!--<p>Move the mouse over the text below:</p>-->
 
-<hr><hr>
-
 <!---### Stats-->
 
 <div style="color: black; font-weight: bold; font: times; font-size: 16px;">Stats
@@ -69,7 +67,7 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
   <li> 101 ~ number correct solutions submitted</li>
   <li> 89% ~ member satisfaction rating</li>
 </ul>
-<hr><hr>
+
 <div class="tooltip" style="font:bold">Production Code
   <span class="tooltiptext">Each language link shows a collection of 5 files that make the production code for this kata. Each file exists as a seperate component of the kata test suite.</span>
 </div>
