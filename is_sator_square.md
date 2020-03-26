@@ -6,7 +6,6 @@
 <br>
 This kata was based on a stone tablet found in the ruins of Pompeii which is in the form of a 2D palindrome. The solver must study the characters of the input to determine whether it conforms to the structure of a <a href="https://en.wikipedia.org/wiki/Sator_Square">sator square</a>.
 
-<html>
 <style>
 .tooltip {
   position: relative;
@@ -65,7 +64,7 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
 </ul>
 
 </body>
-</html>
+
 
 <a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
 
