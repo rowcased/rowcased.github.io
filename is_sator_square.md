@@ -15,12 +15,10 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
   font-weight: bold;
   font: times;
   font-size: 16px;
-  <!--border-bottom: 1px dotted black;-->
 }
 
 .tooltip .tooltiptext {
-  visibility: hidden;
-  width: 240px;
+  width: 400px;
   background-color: #555;
   color: #fff;
   text-align: center;
@@ -32,22 +30,10 @@ This kata was based on a stone tablet found in the ruins of Pompeii which is in 
   left: 50%;
   margin-left: -60px;
   opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
+  transition: opacity .5s;
 }
 
 .tooltip:hover .tooltiptext {
-  visibility: visible;
   opacity: 1;
 }
 </style>
