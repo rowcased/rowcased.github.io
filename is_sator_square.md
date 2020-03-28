@@ -34,7 +34,8 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
   visibility: visible;
 }
 </style>
-<body style="text-align:center;">
+<!--<body style="text-align:center;">-->
+<body>
 
 <!--<h2>Production Coda</h2>-->
 <!--<p>Move the mouse over the text below:</p>-->
