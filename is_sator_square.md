@@ -14,7 +14,7 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: 400px;
   background-color: black;
   color: #fff;
   text-align: center;
@@ -24,9 +24,8 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
   /* Position the tooltip */
   position: absolute;
   z-index: 1;
-  top: 100%;
-  left: 50%;
-  margin-left: -60px;
+  top: -5px;
+  left: 105%;
 }
 
 .tooltip:hover .tooltiptext {
