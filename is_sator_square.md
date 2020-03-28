@@ -10,7 +10,6 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
