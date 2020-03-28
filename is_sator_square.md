@@ -46,12 +46,14 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 <div style="color: black; font-weight: bold; font: times; font-size: 16px;">Stats
 </div>
 
-<ul>
-  <li> 7 kyu ~ kata difficulty ranking (1 kyu being the hardest)</li>
-  <li> 347 ~ number of members attempting this kata</li>
-  <li> 101 ~ number correct solutions submitted</li>
-  <li> 89% ~ member satisfaction rating</li>
-</ul>
+<div>
+  <ul>
+    <li> 7 kyu ~ kata difficulty ranking (1 kyu being the hardest)</li>
+    <li> 347 ~ number of members attempting this kata</li>
+    <li> 101 ~ number correct solutions submitted</li>
+    <li> 89% ~ member satisfaction rating</li>
+  </ul>
+</div>
 
 <div class="tooltip" style="font:bold">Production Code
   <span class="tooltiptext">Each language link shows the kata description plus 5 code files that make up the production code for this kata. Each file exists as a seperate component of the kata test suite.</span>
