@@ -10,34 +10,32 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 .tooltip {
   position: relative;
   display: inline-block;
-  color: black;
-  font-weight: bold;
-  font: times;
-  font-size: 16px;
+  border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
-  width: 400px;
-  background-color: #555;
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
   color: #fff;
   text-align: center;
   border-radius: 6px;
   padding: 5px 0;
+  
+  /* Position the tooltip */
   position: absolute;
   z-index: 1;
-  bottom: 125%;
+  top: 100%;
   left: 50%;
   margin-left: -60px;
-  opacity: 0;
-  transition: opacity .5s;
 }
 
 .tooltip:hover .tooltiptext {
-  opacity: 1;
+  visibility: visible;
 }
 </style>
-<!--<body style="text-align:center;">-->
-<body>
+<body style="text-align:center;">
+
 <!--<h2>Production Coda</h2>-->
 <!--<p>Move the mouse over the text below:</p>-->
 
