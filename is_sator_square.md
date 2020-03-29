@@ -53,7 +53,7 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 </div>
 
 <div class="tooltip" style="color: black; font-weight: bold; font: times; font-size: 16px;">Production Code
-  <span class="tooltiptext">Each language link shows the kata description plus 5 code files that make up the production code for this kata. Each file exists as a seperate component of the kata test suite.</span>
+  <span class="tooltiptext">Each link shows the kata description and the 5 files that comprise the production code for the given language. All files are implemented in seperate fields within the kata test suite.</span>
 </div>
 
 <ul>
