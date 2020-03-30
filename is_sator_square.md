@@ -57,10 +57,10 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 </div>
 
 <ul>
-  <li> <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square%20Python%20code/is_sator_square_Python_0_complete.py">Python</a></li>
-  <li> <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square%20Python%20code/is_sator_square_Python_0_complete.py">Python</a></li>
-  <li> <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square%20Python%20code/is_sator_square_Python_0_complete.py">Python</a></li>
-</ul>
+  <li> <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square_code_python/is_sator_square_Python_0_complete.py">Python</a></li>
+  <li> <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square_code_c/is_sator_square_C_0_complete.py">Python</a></li>
+  <!--<li> <a href="https://github.com/rowcased/Codewars/blob/master/1%20is_sator_square/is_sator_square_code_ruby/is_sator_square_Python_0_complete.py">Python</a></li>
+</ul>-->
 
 </body>
 
