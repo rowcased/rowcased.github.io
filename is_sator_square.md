@@ -63,8 +63,9 @@ This kata is based on a stone tablet found in the ruins of Pompeii which had wor
 </ul>-->
 
 </body>
-
-
+<br>
+<hr>
+<br>
 <a href="https://rowcased.github.io/codewars.html#creator">(return to codewars page)</a>
 
 
