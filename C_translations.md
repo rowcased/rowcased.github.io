@@ -5,143 +5,151 @@
 <!-- eventually these could be ranked by solves and live updated -->
 <!-- <a href="http://example.com/" target="_blank">Hello, world!</a> -->
 <!-- [1RM Calculator](https://www.codewars.com/kata/595bbea8a930ac0b91000130){:target="_blank"} -->
-1  1RM Calculator<br>
-2  A String of Sorts<br>
-3  Absent vowel<br>
-4  Ackermann Function <br>
-5  Adding Big Numbers<br>
-6  Alan Partridge II - Apple Turnover<br>
-7  Alphabetical Addition<br>
-8  Alternate capitalization<br>
-9  Alternating between three values<br>
-10  Beginner Series #2 Clock<br>
-11  Binary to Text (ASCII) Conversion<br>
-12  Blackjack Scorer<br>
-13  Build a square<br>
-14  By 3, or not by 3? That is the question . . .<br>
-15  Closest elevator<br>
-16  Coding 3min: Virus in Apple<br>
-17  Collatz<br>
-18  Complete the table pattern<br>
-19  Computer problem series #1: Fill the Hard Disk Drive<br>
-20  Consonant value<br>
-21  Convert a Number to a String!<br>
-22  Count the divisible numbers<br>
-23  Count the divisors of a number<br>
-24  Count the number of cubes with paint on<br>
-25  Counting Duplicates<br>
-26  Decode the Morse code <br>
-27  Delete occurrences of an element if it occurs more than n times<br>
-28  Detect Pangram<br>
-29  Difference of Volumes of Cuboids<br>
-30  Discover The Original Price<br>
-31  Do I get a bonus?<br>
-32  Even Odd Pattern #1<br>
-33  Remove n exclamation marks in the sentence from left to right<br>
-34  Factorial<br>
-35  Find the Difference in Age between Oldest and Youngest Family Members<br>
-36  Find the Integral<br>
-37  Find the Mine!<br>
-38  Find the Nexus of the Codewars Universe<br>
-39  Find the force of gravity between two objects<br>
-40  Find the stray number<br>
-41  Framed Reflection<br>
-42  Function 1 - hello world<br>
-43  GCD sum <br>
-44  Generate range of integers<br>
-45  Geometry Basics: Cross Product in 3D<br>
-46  Grasshopper - Grade book<br>
-47  Greed is Good<br>
-48  Grouped by commas<br>
-49  Help Bob count letters and digits.<br>
-50  How many stairs will Suzuki climb in 20 years?<br>
-51  If you can't sleep, just count sheep!!<br>
-52  Is It Negative Zero (-0)?<br>
-53  Is it a palindrome?<br>
-54  Is n divisible by x and y?<br>
-55  L1: Set Alarm<br>
-56  Longest palindrome<br>
-57  Matrix Addition<br>
-58  Maximum subarray sum<br>
-59  Mean Square Error<br>
-60  MinMinMax<br>
-61  Most valuable character<br>
-62  Music Fun #1 - Major Scale<br>
-63  N-th Fibonacci<br>
-64  New Cashier Does Not Know About Space or Shift <br>
-65  Not very secure<br>
-66  Numericals of a String<br>
-67  Odder Than the Rest<br>
-68  Olympic Rings<br>
-69  Ordered Count of Characters<br>
-70  Permute a Palindrome<br>
-71  Persistent Bugger.<br>
-72  Plus - minus - plus - plus - ... - Count<br>
-73  Pokemon Damage Calculator<br>
-74  Polydivisible Numbers<br>
-75  Power of two<br>
-76  Powers of 3<br>
-77  Principal Diagonal | VS | Secondary Diagonal<br>
-78  Progressive Spiral Number Position<br>
-79  Remove String Spaces<br>
-80  Remove anchor from URL<br>
-81  Return pyramids<br>
-82  Return the day <br>
-83  Reverse List Order<br>
-84  Reverse words<br>
-85  Shift Left<br>
-86  Shortest Knight Path<br>
-87  Shortest Word<br>
-88  Shortest steps to a number<br>
-89  Simple Fun #144: Distinct Digit Year<br>
-90  Simple Fun #63: Shape Area<br>
-91  Simple Fun #79: Delete a Digit<br>
-92  Simple Fun #87: Shuffled Array<br>
-93  Simple remove duplicates<br>
-94  Simple sum of pairs<br>
-95  Smallest possible sum <br>
-96  Spacify<br>
-97  Split and then add both sides of an array together.<br>
-98  Student's Final Grade<br>
-99  Sum of angles<br>
-100  Summing a number's digits<br>
-101  Take a Ten Minute Walk<br>
-102  Tetris Series #1 — Scoring System<br>
-103  The Feast of Many Beasts<br>
-104  The Ladies of ENIAC<br>
-105  The Office VI - Sabbatical<br>
-106  The Spider and the Fly (Jumping Spider)<br>
-107  The wheat/rice and chessboard problem<br>
-108  Are they opposite?<br>
-109  Thinkful - String Drills: Repeater<br>
-110  Thinking & Testing : Retention and discard<br>
-111  Thinking & Testing : Something capitalized<br>
-112  Thinking & Testing : True or False<br>
-113  Thinking & Testing : Uniq or not Uniq<br>
-114  Third Angle of a Triangle<br>
-115  Tick Toward<br>
-116  Total amount of points<br>
-117  Tower of Hanoi<br>
-118  Triangle type<br>
-119  Triangular Treasure<br>
-120  Tribonacci Sequence<br>
-121  Triple Trouble<br>
-122  Two Joggers<br>
-123  Two Oldest Ages<br>
-124  Unlucky Days<br>
-125  Valid Parentheses<br>
-126  Valid Phone Number<br>
-127  Validate Credit Card Number<br>
-128  Vowel-consonant lexicon<br>
-129  Vowels Back<br>
-130  Welcome!<br>
-131  Well of Ideas - Easy Version<br>
-132  White or Black?<br>
-133  Who likes it?<br>
-134  Word values<br>
-135  Yoga Class<br>
-136  You're a square!<br>
-
+1  1RM Calculato<br>
+2  A String of Sort<br>
+3  Absent vowe<br>
+4  Ackermann Function<br>
+5  Adding Big Number<br>
+6  Alan Partridge II - Apple Turnove<br>
+7  Alphabetical Additio<br>
+8  Alternate capitalizatio<br>
+9  Alternating between three value<br>
+10  Array.dif<br>
+11  Beginner Series #2 Cloc<br>
+12  Binary to Text (ASCII) Conversio<br>
+13  Blackjack Score<br>
+14  Build a squar<br>
+15  By 3, or not by 3? That is the question . . <br>
+16  Closest elevato<br>
+17  Coding 3min: Virus in Appl<br>
+18  Collat<br>
+19  Complete the table patter<br>
+20  Computer problem series #1: Fill the Hard Disk Driv<br>
+21  Consonant valu<br>
+22  Convert a Number to a String<br>
+23  Count the divisible number<br>
+24  Count the divisors of a numbe<br>
+25  Count the number of cubes with paint o<br>
+26  Counting Duplicate<br>
+27  Cyclops number<br>
+28  Decode the Morse code<br>
+29  Delete occurrences of an element if it occurs more than n time<br>
+30  Detect Pangra<br>
+31  Difference of Volumes of Cuboid<br>
+32  Discover The Original Pric<br>
+33  Do I get a bonus<br>
+34  Even Odd Pattern #<br>
+35  Remove n exclamation marks in the sentence from left to righ<br>
+36  Factoria<br>
+37  Find all occurrences of an element in an arra<br>
+38  Find the Difference in Age between Oldest and Youngest Family Member<br>
+39  Find the Integra<br>
+40  Find the Mine<br>
+41  Find the Nexus of the Codewars Univers<br>
+42  Find the force of gravity between two object<br>
+43  Find the stray numbe<br>
+44  Framed Reflectio<br>
+45  Function 1 - hello worl<br>
+46  GCD sum<br>
+47  Generate range of integer<br>
+48  Geometry Basics: Cross Product in 3<br>
+49  Grasshopper - Grade boo<br>
+50  Greed is Goo<br>
+51  Grouped by comma<br>
+52  Happy Birthday, Darling<br>
+53  Help Bob count letters and digits<br>
+54  How many stairs will Suzuki climb in 20 years<br>
+55  If you can't sleep, just count sheep!<br>
+56  Integer Differenc<br>
+57  Is It Negative Zero (-0)<br>
+58  Is it a palindrome<br>
+59  Is n divisible by x and y<br>
+60  Keystrokin<br>
+61  L1: Set Alar<br>
+62  Longest palindrom<br>
+63  Matrix Additio<br>
+64  Maximum subarray su<br>
+65  Mean Square Erro<br>
+66  MinMinMa<br>
+67  Most valuable characte<br>
+68  Music Fun #1 - Major Scal<br>
+69  N-th Fibonacc<br>
+70  New Cashier Does Not Know About Space or Shift<br>
+71  Not very secur<br>
+72  Numericals of a Strin<br>
+73  Odder Than the Res<br>
+74  Olympic Ring<br>
+75  Ordered Count of Character<br>
+76  Permute a Palindrom<br>
+77  Persistent Bugger<br>
+78  Plus - minus - plus - plus - ... - Coun<br>
+79  Pokemon Damage Calculato<br>
+80  Polydivisible Number<br>
+81  Power of tw<br>
+82  Powers of <br>
+83  Principal Diagonal | VS | Secondary Diagona<br>
+84  Progressive Spiral Number Positio<br>
+85  Remove String Space<br>
+86  Remove anchor from UR<br>
+87  Replacemen<br>
+88  Return pyramid<br>
+89  Return the day<br>
+90  Reverse List Orde<br>
+91  Reverse word<br>
+92  Shift Lef<br>
+93  Shortest Knight Pat<br>
+94  Shortest Wor<br>
+95  Shortest steps to a numbe<br>
+96  Simple Fun #144: Distinct Digit Yea<br>
+97  Simple Fun #63: Shape Are<br>
+98  Simple Fun #79: Delete a Digi<br>
+99  Simple Fun #87: Shuffled Arra<br>
+100  Simple remove duplicate<br>
+101  Simple sum of pair<br>
+102  Smallest possible sum<br>
+103  Spacif<br>
+104  SpeedCode #2 - Array Madnes<br>
+105  Split and then add both sides of an array together<br>
+106  Student's Final Grad<br>
+107  Sum of angle<br>
+108  Summing a number's digit<br>
+109  Take a Ten Minute Wal<br>
+110  Tetris Series #1 — Scoring Syste<br>
+111  The Feast of Many Beast<br>
+112  The Ladies of ENIA<br>
+113  The Office VI - Sabbatica<br>
+114  The Spider and the Fly (Jumping Spider<br>
+115  The wheat/rice and chessboard proble<br>
+116  Are they opposite<br>
+117  Thinkful - String Drills: Repeate<br>
+118  Thinking & Testing : Retention and discar<br>
+119  Thinking & Testing : Something capitalize<br>
+120  Thinking & Testing : True or Fals<br>
+121  Thinking & Testing : Uniq or not Uni<br>
+122  Third Angle of a Triangl<br>
+123  Tick Towar<br>
+124  Total amount of point<br>
+125  Tower of Hano<br>
+126  Triangle typ<br>
+127  Triangular Treasur<br>
+128  Tribonacci Sequenc<br>
+129  Triple Troubl<br>
+130  Two Jogger<br>
+131  Two Oldest Age<br>
+132  Unlucky Day<br>
+133  Valid Parenthese<br>
+134  Valid Phone Numbe<br>
+135  Validate Credit Card Numbe<br>
+136  Vowel-consonant lexico<br>
+137  Vowels Bac<br>
+138  Welcome<br>
+139  Well of Ideas - Easy Versio<br>
+140  What dominates your array<br>
+141  White or Black<br>
+142  Who likes it<br>
+143  Word value<br>
+144  Yoga Clas<br>
+145  You're a square<br>
 <a href="https://rowcased.github.io/codewars.html#translator">(return to codewars page)</a>
 
 <!--
