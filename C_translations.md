@@ -150,6 +150,8 @@
 143  Word values<br>
 144  Yoga Class<br>
 145  You're a square!<br>
+<br>
+<br>
 <a href="https://rowcased.github.io/codewars.html#translator">(return to codewars page)</a>
 
 <!--
