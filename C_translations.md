@@ -42,7 +42,7 @@
 35  Remove n exclamation marks in the sentence from left to right<br>
 36  Factorial<br>
 37  Find all occurrences of an element in an array<br>
-38  Find the Difference in Age between Oldest and Youngest Family Members<br>
+38  Find Age Difference between Oldest / Youngest Family Members<br>
 39  Find the Integral<br>
 40  Find the Mine!<br>
 41  Find the Nexus of the Codewars Universe<br>
