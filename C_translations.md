@@ -120,7 +120,7 @@
 113  The Office VI - Sabbatical<br>
 114  The Spider and the Fly (Jumping Spider)<br>
 115  The wheat/rice and chessboard problem<br>
-116  They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it. This is a sadly story #1: Are they opposite?<br>
+116  Are they opposite?<br>
 117  Thinkful - String Drills: Repeater<br>
 118  Thinking & Testing : Retention and discard<br>
 119  Thinking & Testing : Something capitalized<br>
