@@ -39,7 +39,7 @@
 32  Discover The Original Price<br>
 33  Do I get a bonus?<br>
 34  Even Odd Pattern #1<br>
-35  Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right<br>
+35  Remove n exclamation marks in the sentence from left to right<br>
 36  Factorial<br>
 37  Find all occurrences of an element in an array<br>
 38  Find the Difference in Age between Oldest and Youngest Family Members<br>
