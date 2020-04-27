@@ -20,14 +20,14 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 * 1,271 ~ resolved in multiple languages
 * 3,499 ~ total correct solutions<br><br>
 
-  * <h style="white-space: pre; font: menlo">Python      1,794</h>
-  * <h style="white-space: pre;">JavaScript    589</h>
-  * <h style="white-space: pre;">C                   507</h>
-  * <h style="white-space: pre;">Ruby             165</h>
-  * <h style="white-space: pre;">C#                  104</h>
-  * <h style="white-space: pre;">Java                 93</h>
-  * <h style="white-space: pre;">C++                  88</h>
-  * <h style="white-space: pre;">28 others     159</h>
+  * <h style="white-space: pre; font: menlo;">Python      1,794</h>
+  * <h style="white-space: pre; font: menlo;">JavaScript    589</h>
+  * <h style="white-space: pre; font: menlo;">C                   507</h>
+  * <h style="white-space: pre; font: menlo;">Ruby             165</h>
+  * <h style="white-space: pre; font: menlo;">C#                  104</h>
+  * <h style="white-space: pre; font: menlo;">Java                 93</h>
+  * <h style="white-space: pre; font: menlo;">C++                  88</h>
+  * <h style="white-space: pre; font: menlo;">28 others     159</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
