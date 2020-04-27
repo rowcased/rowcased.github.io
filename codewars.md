@@ -19,7 +19,8 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 * 2,228 ~ number of distinct solved kata
 * 1,271 ~ resolved in multiple languages
 * 3,499 ~ total correct solutions<br><br>
-  * <h style="white-space: pre;">Python      1,794</h>
+
+  * <h style="white-space: pre; font: menlo">Python      1,794</h>
   * <h style="white-space: pre;">JavaScript    589</h>
   * <h style="white-space: pre;">C                   507</h>
   * <h style="white-space: pre;">Ruby             165</h>
