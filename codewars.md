@@ -12,15 +12,14 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 <h2 id="solver"><br>1. Problem Solver</h2>
 Signing on with no experience, I had to learn how to learn by studying other coders' solutions, reading their comments, and using tutorials. I soon found solving kata in multiple languages offered many invaluable coding insights, as well as how to use documentation to more rapidly learn a new language.
 
-* 2kyu ~ rank (began as 8kyu)
 * <h style="white-space: pre; font-family: menlo;">XXX2kyuXXX~XXXrankXXX(began as 8kyu)</h>
-* 131 ~ leaderboard position
 * <h style="white-space: pre; font-family: menlo;">XXX131XXX~XXXleaderboard position</h>
-* 16,618 ~ honor points 
-* Top 0.063% ~ honor percentile
-* 2,228 ~ number of distinct solved kata
-* 1,271 ~ resolved in multiple languages
-* 3,499 ~ total correct solutions<br>
+* <h style="white-space: pre; font-family: menlo;">XXX16,618XXX~XXXhonor points</h>
+* <h style="white-space: pre; font-family: menlo;">XXXTop 0.063%XXX~XXXhonor percentile</h>
+* <h style="white-space: pre; font-family: menlo;">XXX2,228XXX~XXXnumber of distinct solved kata</h>
+* <h style="white-space: pre; font-family: menlo;">XXX1,271XXX~XXXresolved in multiple languages</h>
+* <h style="white-space: pre; font-family: menlo;">XXX3,499XXX~XXXtotal correct solutions</h>
+<br>
 
   * <h style="white-space: pre; font-family: menlo;">Python      1,794</h>
   * <h style="white-space: pre; font-family: menlo;">JavaScript    589</h>
