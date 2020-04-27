@@ -14,12 +14,12 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 
 <h style="color: black; font-weight: bold; font: times; font-size: 16px;">Stats</h>
 
-* <h style="white-space: pre; font-family: menlo;"> 2kyu              rank (began as 8kyu)</h>
-* <h style="white-space: pre; font-family: menlo;"> 131               leaderboard position</h>
-* <h style="white-space: pre; font-family: menlo;"> 16,618                    honor points</h>
-* <h style="white-space: pre; font-family: menlo;"> 0.063%                honor percentile</h>
-* <h style="white-space: pre; font-family: menlo;"> 2,228   number of distinct solved kata</h>
-* <h style="white-space: pre; font-family: menlo;"> 1,271   resolved in multiple languages</h>
+* <h style="font-family: menlo;"> 2kyu              rank (began as 8kyu)</h>
+* <h style="font-family: menlo;"> 131               leaderboard position</h>
+* <h style="font-family: menlo;"> 16,618                    honor points</h>
+* <h style="font-family: menlo;"> 0.063%                honor percentile</h>
+* <h style="font-family: menlo;"> 2,228   number of distinct solved kata</h>
+* <h style="font-family: menlo;"> 1,271   resolved in multiple languages</h>
 * <h style="white-space: pre; font-family: menlo;"> 3,499          total correct solutions</h>
 
   * <h style="white-space: pre; font-family: menlo;">Python      1,794</h>
