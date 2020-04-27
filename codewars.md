@@ -13,7 +13,9 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 Signing on with no experience, I had to learn how to learn by studying other coders' solutions, reading their comments, and using tutorials. I soon found solving kata in multiple languages offered many invaluable coding insights, as well as how to use documentation to more rapidly learn a new language.
 
 * 2kyu ~ rank (began as 8kyu)
-* 131 ~ leaderboard position 
+<h style="white-space: pre; font-family: menlo;">___2kyu___~___rank___(began as 8kyu)</h>
+* 131 ~ leaderboard position
+<h style="white-space: pre; font-family: menlo;">___131___~___leaderboard position</h>
 * 16,618 ~ honor points 
 * Top 0.063% ~ honor percentile
 * 2,228 ~ number of distinct solved kata
