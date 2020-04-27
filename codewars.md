@@ -23,11 +23,11 @@ Signing on with no experience, I had to learn how to learn by studying other cod
   * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">Python      1,794</h>
   * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">JavaScript    589</h>
   * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">C      507</h>
-  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">Ruby      165</h>
-  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">C#      104</h>
-  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">Java      93</h>
-  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">C++      88</h>
-  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">28 others      159</h>
+  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">Ruby         165</h>
+  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">C#            104</h>
+  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">Java         93</h>
+  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">C++           88</h>
+  * <h style="white-space: pre; font-family: 'Menlo', monospace, Monaco , Courier, Courier New, Lucida Console;">28 others     159</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
