@@ -39,7 +39,7 @@ My fascination with language differences from Python lead me to create translati
 
 ```python
 def say_hello(name="World"):
-    greet = "Hello, {}!".format(name)
+    greet = f'Hello, {name}!'
     print(greet)
     return greet               # simple Python function
 ```
