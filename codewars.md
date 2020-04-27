@@ -24,14 +24,14 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 
 <h style="color: black; font-weight: bold; font: times; font-size: 16px;">Languages</h>
 
-* <h style="white-space: pre; color: black; font-family: menlo;"> Python      1,794</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript    589</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> C             507</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> Ruby          165</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> C#            104</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> Java           93</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> C++            88</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 28 others     159</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> Python      1,794</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript    589</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> C             507</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> Ruby          165</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> C#            104</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> Java           93</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> C++            88</h>
+  * <h style="white-space: pre; color: black; font-family: menlo;"> 28 others     159</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
