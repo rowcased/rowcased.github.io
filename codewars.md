@@ -12,13 +12,13 @@ First I only <a href="https://rowcased.github.io/codewars.html#solver">solved</a
 <h2 id="solver"><br>1. Problem Solver</h2>
 Signing on with no experience, I had to learn how to learn by studying other coders' solutions, reading their comments, and using tutorials. I soon found solving kata in multiple languages offered many invaluable coding insights, as well as how to use documentation to more rapidly learn a new language.
 
-* <h style="white-space: pre; font-family: menlo;">      2kyu  ~  rankXXX(began as 8kyu)</h>
-* <h style="white-space: pre; font-family: menlo;">       131  ~  leaderboard position</h>
-* <h style="white-space: pre; font-family: menlo;">    16,618  ~  honor points</h>
-* <h style="white-space: pre; font-family: menlo;">Top 0.063%  ~  honor percentile</h>
+* <h style="white-space: pre; font-family: menlo;">      2kyu  ~            rank (began as 8kyu)</h>
+* <h style="white-space: pre; font-family: menlo;">       131  ~            leaderboard position</h>
+* <h style="white-space: pre; font-family: menlo;">    16,618  ~                    honor points</h>
+* <h style="white-space: pre; font-family: menlo;">Top 0.063%  ~                honor percentile</h>
 * <h style="white-space: pre; font-family: menlo;">     2,228  ~  number of distinct solved kata</h>
 * <h style="white-space: pre; font-family: menlo;">     1,271  ~  resolved in multiple languages</h>
-* <h style="white-space: pre; font-family: menlo;">     3,499  ~  total correct solutions</h>
+* <h style="white-space: pre; font-family: menlo;">     3,499  ~         total correct solutions</h>
 <br>
 
   * <h style="white-space: pre; font-family: menlo;">Python      1,794</h>
