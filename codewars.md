@@ -20,8 +20,6 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 * 1,271 ~ resolved in multiple languages
 * 3,499 ~ total correct solutions<br><br>
 
-font-family: "Menlo", monospace, Monaco , Courier, Courier New, Lucida Console;
-
   * <h style="white-space: pre; font-family: "Menlo", monospace, Monaco , Courier, Courier New, Lucida Console;">Python      1,794</h>
   * <h style="white-space: pre; font-family: "Menlo", monospace, Monaco , Courier, Courier New, Lucida Console;">JavaScript    589</h>
   * <h style="white-space: pre; font-family: "Menlo", monospace, Monaco , Courier, Courier New, Lucida Console;">C                   507</h>
