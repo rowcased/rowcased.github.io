@@ -5,18 +5,18 @@ at the time I needed a way to compare the two types.
 
 ```python
 class Node:
-    def __init__(self,val,at_bat=None):
-        self.value = val
-        self.next  = at_bat
+    def __init__(self, current_value, next_value=None):
+        self.value = current_value
+        self.next  = next_value
 
 def lili(li):
     ''' converts a list into a linked list or
         converts a linked list into a list,
         depending on which type is input '''
-    if type(li) == list:
+    if isinstance(li, list):
         output = None
         while li:
-            output = Node(li.pop(),output)
+            output = Node(li.pop(), output)
     else:
         output = []
         while li:
