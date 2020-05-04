@@ -37,8 +37,8 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 
 My fascination with language differences from Python lead me to create translations to C for use on the site. I learned about code structure quality, maintainability, and especially writing strong unit tests. I like the idea that coders around the globe are using my test suites to improve their skills.
 
-* 145 ~ number of my [C translations available on Codewars](/C_translations)
-* 20.6% ~ percentage these make of all 702 approved C kata
+* 146 ~ number of my [C translations available on Codewars](/C_translations)
+* 20.7% ~ percentage these make of all 704 approved C kata
 * 16,000+ ~ number of valid solves made collectively worldwide
 
 ```python
