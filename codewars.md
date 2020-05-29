@@ -15,23 +15,23 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 <h style="color: black; font-weight: bold; font: times; font-size: 16px;">Stats</h>
 
 * <h style="white-space: pre; color: black; font-family: menlo;"> 2kyu              rank (began as 8kyu)</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 130               leaderboard position</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 16,828                    honor points</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 0.062%                honor percentile</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 2,228   number of distinct solved kata</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 1,271   resolved in multiple languages</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 3,499          total correct solutions</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 124               leaderboard position</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 17,790                    honor points</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 0.057%                honor percentile</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 2,444   number of distinct solved kata</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 1,364   resolved in multiple languages</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 3,808          total correct solutions</h>
 
 <h style="color: grey; font-weight: bold; font: times; font-size: 16px;">    Languages</h>
 
    * <h style="white-space: pre; color: black; font-family: menlo;"> Python      1,794</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript    589</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> C             507</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> Ruby          165</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> C#            104</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> Java           93</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> C++            88</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> 28 others     159</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript    631</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> C             515</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> Ruby          180</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> C#            115</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> Java           98</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> C++            95</h>
+   * <h style="white-space: pre; color: black; font-family: menlo;"> 28 others     174</h>
   
 <h2 id="translator"><br>2. C Translator</h2>
 
