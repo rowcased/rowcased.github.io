@@ -1,6 +1,6 @@
 ## Code Tester
 
-I wrote this program very early on in my study when I was working on a site now called Code Signal.
+This is a program I wrote early on in my study when I was working on a site that at the time was called Code Fights, and is now known as Code Signal.
 <br>Note: it uses tests created by user input with this function: [get_tests()](/get_tests.md) function.
 
 ```python
