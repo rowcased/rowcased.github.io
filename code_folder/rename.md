@@ -7,8 +7,8 @@ This function is part of a larger program. Its purpose was to rename a function 
 ```python
 def rename(old, new):
     
-    '''   replaces occurances of a given
-          name with a replacement name '''
+    ''' replaces occurances of a given
+        name with a replacement name '''
     
     with open(new + '_raw.py','r',
         encoding = ('UTF-8')) as file:
