@@ -1,6 +1,6 @@
 # Personal Developer Toolkit
 
-One of my favorite revelations about the art of coding came from wanting certain tools while working on personal projects on my computer and then realizing I could simply write those tools for myself. Here are a few of those tools.
+One of my favorite early revelations about the art of coding came from wanting certain tools while working on personal projects on my computer and then realizing I could simply write those tools for myself. Here are a few of those early tools.
 
 1 [code_tester()](/code_folder/code_tester.md)&nbsp;&nbsp;\~&nbsp;&nbsp;tests an algorithm against a set of tests<br><br>
 2 [dirp()](/code_folder/dirp.md)&nbsp;&nbsp;\~&nbsp;&nbsp;takes in any Python object and pretty prints its directory items<br><br>
