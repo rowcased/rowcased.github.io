@@ -1,15 +1,21 @@
 # Portfolio
 
-[Codewars.com](/codewars.md)
-<img src="images/codewars kata.png?raw=true"/>
+<h3>Codewars.com</h3>
+<a href="https://rowcased.github.io/codewars.html">
+  <img src="images/codewars kata.png?raw=true"/>
+</a>
 
 <h3>Toolkit</h3>
 <a href="https://rowcased.github.io/toolkit.html">
   <img src="images/dev_toolz.png?raw=true"/>
 </a>
 
-[Code Timer Program](/code_timer.md)
-<img src="images/timer_screen_shot.png?raw=true"/>
+<h3>Code Timer</h3>
+<a href="https://rowcased.github.io/code_timer.html">
+  <img src="images/timer_screen_shot.png?raw=true"/>
+</a>
 
-[This Website](/portfolio.md)
-<img src="images/portfolio_screen_shot.png?raw=true"/>
+<h3>This Website</h3>
+<a href="https://rowcased.github.io/portfolio.html">
+  <img src="images/portfolio_screen_shot.png?raw=true"/>
+</a>
