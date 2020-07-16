@@ -2,7 +2,7 @@
 
 <h3>Codewars.com</h3>
 <a href="https://rowcased.github.io/codewars.html">
-  <img style="width:200px;height:121px;" src="images/codewars kata.png?raw=true"/>
+  <img style="width:400px;" src="images/codewars kata.png?raw=true"/>
 </a>
 
 <h3>Toolkit</h3>
