@@ -53,11 +53,11 @@ def say_hello(name="World"):
 #include <stdio.h>
 
 char *say_hello(const char *name) {
-    size_t n = name? strlen(name) + 9 : 14;
-    char *greet = (char *) malloc(n * sizeof(char));
-    sprintf(greet, "Hello, %s!\n", name? name : "World");
-    printf("%s\n", greet);
-    return greet;
+  size_t n = name ? strlen(name) + 9 : 14;
+  char *greet = (char *) malloc(n * sizeof(char));
+  sprintf(greet, "Hello, %s!\n", name ? name : "World");
+  printf("%s\n", greet);
+  return greet;
 }
 ```
 
