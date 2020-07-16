@@ -42,10 +42,10 @@ My fascination with language differences from Python lead me to create translati
 * 16,000+ ~ number of valid solves made collectively worldwide
 
 ```python
-def say_hello(name="World"):
+def say_hello(name="World"):   # simple Python function
     greet = f'Hello, {name}!'
     print(greet)
-    return greet               # simple Python function
+    return greet
 ```
 ```c
 #include <stdlib.h>            //  equivalent code in C
