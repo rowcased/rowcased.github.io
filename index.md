@@ -3,7 +3,7 @@
 [Codewars.com](/codewars.md)
 <img src="images/codewars kata.png?raw=true"/>
 
-<a href="default.asp">
+<a href="/toolkit.md">
   <img src="images/dev_toolz.png?raw=true"/>
 </a>
 
