@@ -3,6 +3,7 @@
 [Codewars.com](/codewars.md)
 <img src="images/codewars kata.png?raw=true"/>
 
+<h3>Toolkit</h3>
 <a href="https://rowcased.github.io/toolkit.html">
   <img src="images/dev_toolz.png?raw=true"/>
 </a>
