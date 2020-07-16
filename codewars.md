@@ -43,9 +43,9 @@ My fascination with language differences from Python lead me to create translati
 
 ```python
 def say_hello(name="World"):   # simple Python function
-    greet = f'Hello, {name}!'
-    print(greet)
-    return greet
+    text = f'Hello, {name}!'
+    print(text)
+    return text
 ```
 ```c
 #include <stdlib.h>            //  equivalent code in C
@@ -54,10 +54,10 @@ def say_hello(name="World"):   # simple Python function
 
 char *say_hello(const char *name) {
   size_t n = name ? strlen(name) + 9 : 14;
-  char *greet = (char *) malloc(n * sizeof(char));
-  sprintf(gret, "Hello, %s!\n", name ? name : "World");
-  printf("%s\n", greet);
-  return greet;
+  char *text = (char *) malloc(n * sizeof(char));
+  sprintf(text, "Hello, %s!\n", name ? name : "World");
+  printf("%s\n", text);
+  return text;
 }
 ```
 
