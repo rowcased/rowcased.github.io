@@ -1,7 +1,6 @@
 # Codewars.com
 
-<h4 style="text-align:center;">The Site</h4>
-<!-- <a href="https://codewars.com">Codewars</a> -->
+<h4 style="text-align:center;">The Site</h4> <!-- <a href="https://codewars.com">Codewars</a> -->
 Codewars is a very active user-driven site offering thousands of coding challenges in 50+ languages. Borrowing from _Kendo_, challenges are called 'kata', points are known as 'honor', and a 'kyu' rank system is used. As a member earns higher honor, they are granted additional site privileges.
 
 <h4 style="text-align:center;">My involvement</h4>
