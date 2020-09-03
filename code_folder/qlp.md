@@ -14,14 +14,11 @@ def qlp(thing,sub='',I=1,ind=5,comment=''):
     typo = type(thing)
     if typo in [list,tuple,set,dict,frozenset] and len(thing) > 1:
         if typo == list:
-            book = '['
-            ends = ']'
+            book, ends = '[]'
         elif typo == tuple:
-            book = '('
-            ends = ')'
+            book, ends = '()'
         else:
-            book = '{'
-            ends = '}'
+            book, ends = '{}'
         print('\n '*I+head+'\t',comment,'\n  ', book, end=' ')
         if sub:
             sub = sub + ' = '
