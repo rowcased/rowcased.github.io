@@ -32,7 +32,7 @@ Signing on with no experience, I had to learn how to learn by studying other cod
   
 <h2 id="translator"><br>2. C Translator</h2>
 
-A fascination with language differences between Python and C lead me to create translations for use on the site. I learned about structure, syntax, maintainability, and writing unit tests. I like that coders are using my test suites to improve their skills.
+A fascination with language differences between Python and C lead me to create translations for use on the site. I learned about structure, syntax, maintainability, programming paradigms, and writing strong unit tests. I like that coders are using my test suites to improve their skills.
 
 * 150 ~ number of my [C translations available on Codewars](/C_translations)
 * 21.0% ~ percentage these make of all 713 approved C kata
