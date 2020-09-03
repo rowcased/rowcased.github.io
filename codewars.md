@@ -11,25 +11,25 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 
 <h style="color: grey; font-weight: bold; font: times; font-size: 15px;">Stats</h>
 
-* <h style="white-space: pre; color: black; font-family: menlo;"> 2kyu              rank (began as 8kyu)</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 124               leaderboard position</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 17,790                    honor points</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 0.057%                honor percentile</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 2,444   number of distinct solved kata</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 1,364   resolved in multiple languages</h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> 3,808          total correct solutions</h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> rank (began as 8kyu)        2kyu </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> leaderboard position         124 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> honor points              17,790 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> honor percentile          0.057% </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> distinct solved kata       2,444 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> solved in other languages  1,364 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> total correct solutions    3,808 </h>
 
 <h style="color: grey; font-weight: bold; font: times; font-size: 15px;">Languages</h>
 
-   * <h style="white-space: pre; color: black; font-family: menlo;"> Python      2,000</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript    631</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> C             515</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> Ruby          180</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> C#            115</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> Java           98</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> C++            95</h>
-   * <h style="white-space: pre; color: black; font-family: menlo;"> 28 others     174</h>
-  
+* <h style="white-space: pre; color: black; font-family: menlo;"> Python                     2,000 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript                   631 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> C                            515 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> Ruby                         180 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> C#                           115 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> Java                          98 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> C++                           95 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> 28 others                    174 </h>
+ 
 <h2 id="translator"><br>2. C Translator</h2>
 
 A fascination with language differences between Python and C lead me to create translations for use on the site. I learned about structure, syntax, maintainability, paradigms, catching edge cases, and writing strong unit tests. I like that coders are using my test suites to improve their skills.
