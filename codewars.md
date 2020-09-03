@@ -9,7 +9,7 @@ First I only <a style="font:bold;" href="https://rowcased.github.io/codewars.htm
 <h2 id="solver"><br>1. Problem Solver</h2>
 Signing on with no experience, I had to learn how to learn by studying other coders' solutions, reading their comments, and using tutorials. I soon found solving kata in multiple languages offered many invaluable coding insights, as well as how to use documentation to more rapidly learn a new language.
 
-<h style="color: black; font-weight: bold; font: times; font-size: 14px;">Stats</h>
+<h style="color: grey; font-weight: bold; font: times; font-size: 15px;">Stats</h>
 
 * <h style="white-space: pre; color: black; font-family: menlo;"> 2kyu              rank (began as 8kyu)</h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> 124               leaderboard position</h>
@@ -19,7 +19,7 @@ Signing on with no experience, I had to learn how to learn by studying other cod
 * <h style="white-space: pre; color: black; font-family: menlo;"> 1,364   resolved in multiple languages</h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> 3,808          total correct solutions</h>
 
-<h style="color: black; font-weight: bold; font: times; font-size: 14px;">Languages</h>
+<h style="color: grey; font-weight: bold; font: times; font-size: 15px;">Languages</h>
 
    * <h style="white-space: pre; color: black; font-family: menlo;"> Python      2,000</h>
    * <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript    631</h>
