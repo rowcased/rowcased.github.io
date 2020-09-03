@@ -79,9 +79,9 @@ Codewars is built entirely on user contributions. Each new kata begin in a beta 
 
 Another great feature of Codewars is that it's maintained by its members; largely an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to assist other members with their code or contribute to maintaining the overall quality of the site.
 
+* directly edit live production code
 * answer questions on the dashboard
 * address suggestions made for kata
-* directly edit live production code
 * post issues on kata with faults
 * resolve kata issues (often bogus)
 * help newer members debug their code
