@@ -12,8 +12,3 @@
 <a href="https://rowcased.github.io/code_timer.html">
   <img style="width:400px;" src="images/timer_screen_shot.png?raw=true"/>
 </a>
-
-<h3>This Website</h3>
-<a href="https://rowcased.github.io/portfolio.html">
-  <img style="width:400px;" src="images/portfolio_screen_shot.png?raw=true"/>
-</a>
