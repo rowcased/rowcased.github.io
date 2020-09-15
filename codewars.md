@@ -32,7 +32,7 @@ Signing on with no experience, I had to learn how to learn by studying other cod
  
 <h2 id="translator"><br>2. C Translator</h2>
 
-A fascination with core differences between Python and C lead me to create translations for the site. I developed a very streamlined code structure and wrote a lot of strong unit tests with quality feedback. I like that new coders around the world are improving their skills via my test suites.
+A fascination with core differences between Python and C lead me to create translations for the site. I developed a very streamlined code structure and wrote a lot of strong unit tests with edge cases and quality feedback. I like that coders around the world are improving their skills via my test suites.
 
 * 150 ~ number of my [C translations available on Codewars](/C_translations)
 * 21.0% ~ percentage these make of all 713 approved C kata
