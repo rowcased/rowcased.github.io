@@ -5,11 +5,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a self-taught programmer.<br>
   <br> <!-- line 2 left empty-->
   Skills: Python, C, JavaScript, HTML, CSS<br>
+  <a href="https://rowcased.github.io/portfolio.html">About This Website</a>
   <br> <!-- line 4 left empty-->
   <a href="mailto:soundintime@msn.com?Subject=re:%20portfolio" target="_top">soundintime@msn.com</a><br>
   <br> <!-- line 6 left empty-->
   (323) 636-8422<br>
-  <a href="https://rowcased.github.io/portfolio.html">About This Website</a>
   <!--
   <br>  line 8 left empty
   <br>  line 9 left empty
