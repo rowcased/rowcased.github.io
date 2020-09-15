@@ -9,6 +9,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="mailto:soundintime@msn.com?Subject=re:%20portfolio" target="_top">soundintime@msn.com</a><br>
   <br> <!-- line 6 left empty-->
   (323) 636-8422<br>
+  <h3>About This Website</h3>
+    <a href="https://rowcased.github.io/portfolio.html">
+    <img style="width:400px;" src="images/portfolio_screen_shot.png?raw=true"/>
+  </a>
   <!--
   <br>  line 8 left empty
   <br>  line 9 left empty
