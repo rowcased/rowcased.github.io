@@ -21,7 +21,7 @@ Signing on with no experience, I had to learn how to learn by studying other use
 
 <h style="color: grey; font-weight: bold; font: times; font-size: 15px;">Languages</h>
 
-* <h style="white-space: pre; color: black; font-family: menlo;"> Python                     2,000 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> Python        HRLLO             2,000 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> JavaScript                   631 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> C                            515 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> Ruby                         180 </h>
