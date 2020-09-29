@@ -13,7 +13,7 @@ Signing on with no experience, I had to learn how to learn by studying other use
 
 * <h style="white-space: pre; color: black; font-family: menlo;"> rank (began as 8kyu)        2kyu </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> leaderboard position         124 </h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> honor points              17,790 </h> <!-- 17,790 -->
+* <h style="white-space: pre; color: black; font-family: menlo;"> honor points              <embed src="https://rowcased.github.io/honor_points"> </h> <!-- 17,790 -->
 * <h style="white-space: pre; color: black; font-family: menlo;"> honor percentile          0.057% </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> distinct solved kata       2,444 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> in multiple languages      1,364 </h>
