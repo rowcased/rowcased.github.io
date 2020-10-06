@@ -1,7 +1,7 @@
 # Codewars.com
 
 <h4 style="text-align:left;">The Site</h4> <!-- <a href="https://codewars.com">Codewars</a> -->
-Codewars is a very active user-driven site offering thousands of coding challenges in 50+ languages. Borrowing from _Kendo_, challenges are called 'kata', points are known as 'honor', and a 'kyu' rank system is used. As a member earns higher honor, they are granted additional site privileges.
+Codewars is a very active user-driven website offering thousands of coding challenges in 50+ languages. Borrowing from _Kendo_, challenges are called 'kata', points are known as 'honor', and a 'kyu' rank system is used. As a member earns higher honor, they are granted additional site privileges.
 
 <h4 style="text-align:left;">My involvement</h4>
 First I only <a style="font:bold;" href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn how to code. As I began C, I also <a href="https://rowcased.github.io/codewars.html#translator">translated</a> kata into that language. With greater proficiency I added more new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
