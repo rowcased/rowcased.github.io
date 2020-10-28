@@ -60,7 +60,7 @@ char *say_hello(const char *name) {
 
 <h2 id="creator"><br>3. Kata Creator</h2>
 
-Codewars is built entirely on user contributions. Each new kata is submitted in beta form to undergo quality consideration by the comminity prior to its approval. My experience creating original kata was very rewarding, having had total control over the concept, design, execution and code structure.
+Codewars is built entirely on user contributions. Any new kata submission must survive considerable scrutiny via the user voting system to be ever considered for approval. My experience creating original kata was very rewarding, having had total control over the concept, design, execution and code structure.
 
 1 [is_sator_square](https://rowcased.github.io/is_sator_square)<br>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first kata was based on a stone tablet found at Pompeii, known as a "sator square". It is an form of two dimentional palindrome admitting four symmetries. The coder of this kata must study the pattern of characters on the square and determine whether it conforms to the regulations of a sator square. -->
