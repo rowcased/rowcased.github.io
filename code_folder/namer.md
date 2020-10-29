@@ -1,7 +1,7 @@
 ## Variable Name Getter
 
 This program is used by several other tools in my toolkit such as:<br>
-[rename()](/rename.md), [dirp()](/dirp.md), and [qlp()](/qlp.md).
+[rename()](/rename.md), [dirp()](/dirp.md), and [qsp()](/qsp.md).
 
 ```python
 def namer(object):
