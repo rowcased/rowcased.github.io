@@ -12,7 +12,7 @@ A favorite revelation as I began the art of coding came from wanting specific to
 8 [no_print()](/code_folder/no_print.md)&nbsp;&nbsp;\~&nbsp;&nbsp;temporarily disables the print function during a program<br><br>
 9 [rename()](/code_folder/rename.md)&nbsp;&nbsp;\~&nbsp;&nbsp;replaces the variable names of functions stored in a raw file<br><br>
 10 [timer()](/code_folder/timer.md)&nbsp;&nbsp;\~&nbsp;&nbsp;times a function based on inputs and repetitions<br><br>
-11 [qsp()](/code_folder/qlp.md)&nbsp;&nbsp;\~&nbsp;&nbsp;"quick sequence print" to pretty print sequences with ease and control<br><br>
+11 [qsp()](/code_folder/qlp.md)&nbsp;&nbsp;\~&nbsp;&nbsp; pretty prints various sequences with ease and control<br><br>
 
 
 <!-- dot could become a generator object -->
