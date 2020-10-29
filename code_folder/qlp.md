@@ -2,7 +2,7 @@
 
 I originally created this as "qlp" (quick list print) to have control over pretty printing lists. At the time I didn't know there was something already available for that. Later I adapted it to handle all sequence types.
 <br>Note: it contains a call to the [namer()](/namer.md) function.
-<br>Note: qlp is used in the [get_tests()](/get_tests.md) function, among others.
+<br>Note: qsp is used in the [get_tests()](/get_tests.md) function, among others.
 
 ```python
 def qsp(thing,sub='',I=1,ind=5,comment=''):
