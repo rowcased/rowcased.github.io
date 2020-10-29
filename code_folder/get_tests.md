@@ -2,10 +2,10 @@
 
 I wrote this function to input data for tests that were for asserting the validity of algorithms I wrote while studying on the Code Signal website.
 <br>Note: these tests are used in the [code_tester()](/code_tester.md) function.
-<br>Note: a call to "quick list print" [qlp()](/qlp.md) function.
+<br>Note: a call to "quick sequence print" [qsp()](/qsp.md) function.
 
 ```python
-from tester import qlp
+from tester import qsp
 
 def get_tests(num, show=False):
     tests=[]
@@ -34,7 +34,7 @@ def get_tests(num, show=False):
                 pars.append(eval(varin))
         tests.append(pars)
     if show:
-        qlp(tests)
+        qsp(tests)
     return tests
 ```
 
