@@ -1,12 +1,12 @@
-## Quick List Print
+## Quick Sequence Print
 
-I created this to have my own form of pretty printing lists.
+I originally created this as "qsp" (quick list print) to have control over pretty printing lists. At the time I didn't know there was something already available for that. Later I adapted it to handle all sequence types.
 <br>Note: it contains a call to the [namer()](/namer.md) function.
 <br>Note: qlp is used in the [get_tests()](/get_tests.md) function, among others.
 
 ```python
-def qlp(thing,sub='',I=1,ind=5,comment=''):
-    """ quick code to display items of any sequence  """
+def qsp(thing,sub='',I=1,ind=5,comment=''):
+    """ method for displaying items of any sequence  """
     import inspect
     print()
     lent = len(thing)
