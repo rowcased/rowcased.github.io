@@ -77,7 +77,7 @@ Codewars is built entirely on user contributions, where each new kata submission
 
 <h2 id="moderator"><br>4. Site Moderator</h2>
 
-Another great feature of Codewars is that it’s maintained by its members; largely an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to assist other members with their code or contribute to maintaining the overall quality of the site.
+Codewars just recently assigned a few moderators but the site is regularly maintained by an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to assist other members with their code or contribute to maintaining the overall quality of the site.
 
 * directly edit live production code
 * answer questions on the dashboard
