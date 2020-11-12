@@ -75,9 +75,9 @@ Codewars is built entirely on member contributions, where each new kata submissi
 * 371 ~ number correct solutions submitted
 * 93.3% ~ overall satisfaction rating
 
-<h2 id="moderator"><br>4. Site Moderator</h2>
+<h2 id="moderator"><br>4. Site Contributor</h2>
 
-Codewars just recently assigned a few moderators but the site is regularly maintained by an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to assist users with their code or contribute to maintaining the overall quality of the site.
+Codewars only just recently assigned a few moderators. Still, the site is regularly maintained by an unofficial network of power-users with full privileges. On any given day I may take part in a variety of activities to assist users with their code or contribute to maintaining the overall quality of the site.
 
 * directly edit live production code
 * answer questions on the dashboard
