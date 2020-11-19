@@ -11,10 +11,10 @@ I signed on with zero experience, so I used tutorials, analysed other coders' so
 
 <h style="color: grey; font-weight: bold; font: times; font-size: 15px;">Stats</h>
 
-* <h style="white-space: pre; color: black; font-family: menlo;"> rank (began as 8kyu)        2kyu </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> rank (began as 8kyu)       2 kyu </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> leaderboard position         124 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> honor points              17,790 </h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> honor percentile          0.057% </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> honor percentile      Top 0.057% </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> distinct solved kata       2,444 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> multi-language solves      1,364 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> total valid solutions      3,808 </h>
@@ -28,6 +28,8 @@ I signed on with zero experience, so I used tutorials, analysed other coders' so
 * <h style="white-space: pre; color: black; font-family: menlo;"> C#                           115 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> Java                          98 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> C++                           95 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> PHP                           85 </h>
+* <h style="white-space: pre; color: black; font-family: menlo;"> CoffeeScript                  30 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> 28 others                    174 </h>
  
 <h2 id="translator"><br>2. C Translator</h2>
