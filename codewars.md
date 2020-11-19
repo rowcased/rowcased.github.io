@@ -29,7 +29,6 @@ I signed on with zero experience, so I used tutorials, analysed other coders' so
 * <h style="white-space: pre; color: black; font-family: menlo;"> Java                          98 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> C++                           95 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> PHP                           85 </h>
-* <h style="white-space: pre; color: black; font-family: menlo;"> CoffeeScript                  30 </h>
 * <h style="white-space: pre; color: black; font-family: menlo;"> 28 others                    174 </h>
  
 <h2 id="translator"><br>2. C Translator</h2>
