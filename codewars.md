@@ -4,7 +4,7 @@
 Codewars is a very active user-driven website offering thousands of coding challenges in 50+ languages. Borrowing from _Kendo_, challenges are called 'kata', points are known as 'honor', and a 'kyu' rank system is used. As a member earns higher honor, they are granted additional site privileges.
 
 <h4 style="text-align:left;">My involvement</h4>
-First I only <a style="font:bold;" href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn how to code. As I began C, I also <a href="https://rowcased.github.io/codewars.html#translator">translated</a> kata into that language. With greater proficiency I added more new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#moderator">moderator</a>.
+First I only <a style="font:bold;" href="https://rowcased.github.io/codewars.html#solver">solved</a> kata in Python to learn how to code. As I began C, I also <a href="https://rowcased.github.io/codewars.html#translator">translated</a> kata into that language. With greater proficiency I added more new languages and started <a href="https://rowcased.github.io/codewars.html#creator">creating</a> original kata. While advancing through the ranks, I evolved from user to contributor into an ad hoc site <a href="https://rowcased.github.io/codewars.html#maintainer">maintainer</a>.
 
 <h2 id="solver"><br>1. Problem Solver</h2>
 I signed on with zero experience, so I used tutorials, analysed other coders' solutions, and read lots of comments to learn how to learn. I soon found solving kata in multiple languages offered many invaluable coding insights, such as how to use documentation to more rapidly learn a new language.
@@ -76,7 +76,7 @@ Codewars is built entirely on member contributions, where each new kata submissi
 * 371 ~ number correct solutions submitted
 * 93.3% ~ overall satisfaction rating
 
-<h2 id="moderator"><br>4. Site Contributor</h2>
+<h2 id="maintainer"><br>4. Site Maintainer</h2>
 
 While Codewars just recently assigned a few moderators, it has been mostly maintained by an unofficial network of power-users with full privileges. On any given day I may take part in a variety of activities to assist new users with their code or contribute to maintaining the overall quality of the site.
 
