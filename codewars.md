@@ -92,7 +92,7 @@ While Codewars just recently assigned a few moderators, it has been mostly maint
 * approve new kata for use on site
 * approve or reject kata translations
 * repair & improve kata unit tests
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <a href="https://rowcased.github.io/">(return to portfolio)</a>
 
