@@ -78,7 +78,7 @@ Codewars is built entirely on member contributions, where each new kata submissi
 
 <h2 id="maintainer"><br>4. Site Maintainer</h2>
 
-While Codewars only just recently assigned a few moderators, it has been mostly maintained by an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to assist newer members with their code or contribute to the overall quality of content on the site.
+While Codewars only just recently assigned a few moderators, it has been mostly maintained by an unofficial network of power-users with full site privileges. On any given day I may take part in a variety of activities to assist new members with their code or contribute to the overall quality of content.
 
 * directly edit live production code
 * answer questions on the dashboard
