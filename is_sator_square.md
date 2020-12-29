@@ -6,6 +6,7 @@
 <br>
 This kata is based on a stone tablet found in the ruins of Pompeii which had words inscribed in the form of a 2D palindrome. The coder must determine whether the input characters conform to the structure of a <a href="https://en.wikipedia.org/wiki/Sator_Square">sator square</a>.
 
+
 <!--<body style="text-align:center;">-->
 <body>
 
